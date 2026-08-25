@@ -1,3 +1,9 @@
-theme: jekyll-theme-cayman
+# theme: jekyll-theme-cayman
 # theme: jekyll-theme-architect
+# 通常のパソコン（ローカル）でのテスト用
+# theme: minima
+
+# GitHub Pagesで公開するとき用（こちらが推奨される場合があります）
+remote_theme: "jekyll/minima"
+
 
