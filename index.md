@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: default
 title: 美濃加茂市の図書館を考える会
 ---
 
