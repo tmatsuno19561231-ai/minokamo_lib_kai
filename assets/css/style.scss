@@ -2,12 +2,24 @@
 ---
 @import "{{ site.theme }}";
 
-/* 上部の「View on GitHub」などのボタンを非表示にする */
+/* 1. 上部のヘッダー背景を「薄い緑のグラデーション」に変更 */
+.page-header {
+  background-color: #d4edda; /* グラデーション非対応ブラウザ用の薄い緑 */
+  background-image: linear-gradient(120deg, #e8f5e9, #c8e6c9); /* 左上から右下への薄い緑のグラデ */
+  color: #2e7d32; /* 背景に合わせて文字色を「濃い緑」にして読みやすくします */
+}
+
+/* 2. ヘッダー内のサブタイトル（説明文）の文字色も濃い緑にする */
+.project-tagline {
+  color: #388e3c !important;
+}
+
+/* 3. 上部の「View on GitHub」などのボタンを非表示にする（既存の設定） */
 .btn {
   display: none !important;
 }
 
-/* フッターの「maintained by...」の文字を非表示にする */
+/* 4. フッターの「maintained by...」の文字を非表示にする（既存の設定） */
 .site-footer {
   display: none !important;
 }
