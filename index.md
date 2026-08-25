@@ -16,7 +16,7 @@ title: 美濃加茂市の図書館を考える会
 
 # 関係資料
 
-## 条例
+## 図書館関係の条例
 -  [美濃加茂市立図書館設置条例](https://www1.g-reiki.net/minokamo/reiki_honbun/i312RG00000367.html)
 -  [美濃加茂市立図書館協議会規則](https://www1.g-reiki.net/minokamo/reiki_honbun/i312RG00000369.html)
 
