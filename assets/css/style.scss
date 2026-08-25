@@ -2,16 +2,16 @@
 ---
 @import "{{ site.theme }}";
 
-/* 1. 上部のヘッダー背景を「薄い緑のグラデーション」に変更 */
+/* 1. 上部のヘッダー背景を「アジサイ色（薄い紫〜薄い青）のグラデーション」に変更 */
 .page-header {
-  background-color: #d4edda; /* グラデーション非対応ブラウザ用の薄い緑 */
-  background-image: linear-gradient(120deg, #e8f5e9, #c8e6c9); /* 左上から右下への薄い緑のグラデ */
-  color: #2e7d32; /* 背景に合わせて文字色を「濃い緑」にして読みやすくします */
+  background-color: #e8eaf6; /* グラデーション非対応ブラウザ用の薄い紫青 */
+  background-image: linear-gradient(120deg, #ede7f6, #e8eaf6, #e1f5fe); /* 左から、薄い紫 → 薄い青紫 → 薄い水色 */
+  color: #3f51b5; /* 背景に合わせて文字色を「アジサイに似合う濃い青紫」にして読みやすくします */
 }
 
-/* 2. ヘッダー内のサブタイトル（説明文）の文字色も濃い緑にする */
+/* 2. ヘッダー内のサブタイトル（説明文）の文字色も調整 */
 .project-tagline {
-  color: #388e3c !important;
+  color: #5c6bc0 !important;
 }
 
 /* 3. 上部の「View on GitHub」などのボタンを非表示にする（既存の設定） */
