@@ -20,12 +20,18 @@ title: 美濃加茂市の図書館を考える会　資料室
 
 ## 計画等
 - [美濃加茂市子どもの読書活動推進計画](https://www3.city.minokamo.gifu.jp/release/fileopen.cfm?id=1&filename=/katudousuisin.pdf)
+- [（参考）市町村子どもの読書活動推進計画の策定状況](https://www.pref.gifu.lg.jp/page/171510.html)
 - [第3次美濃加茂市教育振興基本計画](https://www.city.minokamo.lg.jp/uploaded/life/15706_26038_misc.pdf)
 - [美濃加茂市　総合計画](https://www.city.minokamo.lg.jp/life/5/21/135/)
 
 ## 美濃加茂市公共施設等類型別カルテ
 - [美濃加茂市公共施設等類型別カルテ（全体）](https://www.city.minokamo.lg.jp/uploaded/attachment/19601.pdf)
 - <a href = "/19601-1_merged.pdf"> 美濃加茂市公共施設等類型別カルテ（図書館抜粋）</a>
+- （参考）各務原市社会教育系施設（中央図書館、もりの本やさん・森の交流館）個別施設計画](https://www.city.kakamigahara.lg.jp/_res/projects/default_project/_page_/001/010/615/r8.4_2-1.pdf)
+- [公共施設等総合管理計画と公立図書館の施設整備　慶應義塾大学文学部：松本直樹（まつもとなおき）](https://current.ndl.go.jp/ca2034)
+
+
+
 
 ## 『日本の図書館』から
 - <a href = "/library_list.html"> 岐阜県内公立図書館竣工年</a>
