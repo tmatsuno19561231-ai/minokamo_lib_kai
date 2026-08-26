@@ -2,16 +2,21 @@
 ---
 @import "{{ site.theme }}";
 
-/* 1. 上部のヘッダー背景を「アジサイ色（薄い紫〜薄い青）のグラデーション」に変更 */
+/* 1. 上部のヘッダー背景を「アジサイ色」にし、上下の余白を狭くして高さを低くする */
 .page-header {
   background-color: #e8eaf6; /* グラデーション非対応ブラウザ用の薄い紫青 */
   background-image: linear-gradient(120deg, #ede7f6, #e8eaf6, #e1f5fe); /* 左から、薄い紫 → 薄い青紫 → 薄い水色 */
   color: #3f51b5; /* 背景に合わせて文字色を「アジサイに似合う濃い青紫」にして読みやすくします */
+  
+  /* 👇 ここに高さを低くする設定を追加しました */
+  padding-top: 2rem !important;    /* 上側の余白を狭く（元は 5rem） */
+  padding-bottom: 2rem !important; /* 下側の余白を狭く（元は 5rem） */
 }
 
 /* 2. ヘッダー内のサブタイトル（説明文）の文字色も調整 */
 .project-tagline {
   color: #5c6bc0 !important;
+  margin-bottom: 0 !important; /* 👇 サブタイトルの下の余白も削ってさらにすっきりさせます */
 }
 
 /* 3. 上部の「View on GitHub」などのボタンを非表示にする（既存の設定） */
