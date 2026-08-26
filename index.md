@@ -22,10 +22,10 @@ title: 美濃加茂市の図書館を考える会　資料室
 
 ## 美濃加茂市公共施設等類型別カルテ
 - [美濃加茂市公共施設等類型別カルテ 全体](https://www.city.minokamo.lg.jp/uploaded/attachment/19601.pdf)
-- [美濃加茂市公共施設等類型別カルテ 図書館のみ抜粋]({{'/19601-1_merged.pdf' | relative_url }})
+- <a href = "/19601-1_merged.pdf"> 美濃加茂市公共施設等類型別カルテ　図書館抜粋</a>
 
-## 『日本の図書館』電子媒体版（無償版・1996年～2020年）から
-- [岐阜県内公立図書館の竣工年]({{'/library_list.html' | relative_url }})
+## 『日本の図書館』から
+-<a href = "/library_list.html"> 岐阜県内公立図書館竣工年</a>
 
 ## misc
 
