@@ -22,7 +22,6 @@ title: 美濃加茂市の図書館を考える会　資料室
 
 ## 美濃加茂市公共施設等類型別カルテ
 - [美濃加茂市公共施設等類型別カルテ 全体](https://www.city.minokamo.lg.jp/uploaded/attachment/19601.pdf)
-- [美濃加茂市公共施設等類型別カルテ 図書館のみ抜粋]('/19601-1_merged.pdf')
 - [美濃加茂市公共施設等類型別カルテ 図書館のみ抜粋]({{'/19601-1_merged.pdf' | relative_url }})
 
 
