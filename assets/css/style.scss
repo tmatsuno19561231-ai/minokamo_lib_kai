@@ -9,8 +9,8 @@
   color: #3f51b5; /* 背景に合わせて文字色を「アジサイに似合う濃い青紫」にして読みやすくします */
   
   /* 👇 ここに高さを低くする設定を追加しました */
-  padding-top: 2rem !important;    /* 上側の余白を狭く（元は 5rem） */
-  padding-bottom: 2rem !important; /* 下側の余白を狭く（元は 5rem） */
+  padding-top: 1rem !important;    /* 上側の余白を狭く（元は 5rem） */
+  padding-bottom: 1rem !important; /* 下側の余白を狭く（元は 5rem） */
 }
 
 /* 2. ヘッダー内のサブタイトル（説明文）の文字色も調整 */
