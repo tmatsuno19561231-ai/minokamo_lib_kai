@@ -25,7 +25,7 @@ title: 美濃加茂市の図書館を考える会　資料室
 - <a href = "/19601-1_merged.pdf"> 美濃加茂市公共施設等類型別カルテ　図書館抜粋</a>
 
 ## 『日本の図書館』から
--<a href = "/library_list.html"> 岐阜県内公立図書館竣工年</a>
+- <a href = "/library_list.html"> 岐阜県内公立図書館竣工年</a>
 
 ## misc
 
