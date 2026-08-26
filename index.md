@@ -32,6 +32,6 @@ title: 美濃加茂市の図書館を考える会　資料室
 
 ## misc
 - [図書館法](https://laws.e-gov.go.jp/law/325AC0000000118/)
-- - [公立図書館の任務と目標](https://www.jla.or.jp/library_resources-_and_guidelines/missions_and_goals/)
+- [公立図書館の任務と目標](https://www.jla.or.jp/library_resources-_and_guidelines/missions_and_goals/)
 - [IFLA-UNESCO公共図書館宣言2022](https://www.jla.or.jp/library_resources-_and_guidelines/ifla-unesco-public-library-manifesto2022/)
 - [図書館の設置及び運営上の望ましい基準](https://www.jla.or.jp/library_resources-_and_guidelines/desirable_standards/)
