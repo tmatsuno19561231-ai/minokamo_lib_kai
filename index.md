@@ -21,8 +21,8 @@ title: 美濃加茂市の図書館を考える会　資料室
 - [図書館年報　令和７年度（令和６年度資料）](https://www3.city.minokamo.gifu.jp/release/fileopen.cfm?id=388&filename=/%E5%9B%B3%E6%9B%B8%E9%A4%A8%E5%B9%B4%E5%A0%B1R7.pdf)
 
 ## 美濃加茂市公共施設等類型別カルテ
-- [美濃加茂市公共施設等類型別カルテ 全体](https://www.city.minokamo.lg.jp/uploaded/attachment/19601.pdf)
-- <a href = "/19601-1_merged.pdf"> 美濃加茂市公共施設等類型別カルテ　図書館抜粋</a>
+- [美濃加茂市公共施設等類型別カルテ（全体）](https://www.city.minokamo.lg.jp/uploaded/attachment/19601.pdf)
+- <a href = "/19601-1_merged.pdf"> 美濃加茂市公共施設等類型別カルテ（図書館抜粋）</a>
 
 ## 『日本の図書館』から
 - <a href = "/library_list.html"> 岐阜県内公立図書館竣工年</a>
