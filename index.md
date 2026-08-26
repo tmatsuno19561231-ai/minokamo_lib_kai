@@ -27,7 +27,7 @@ title: 美濃加茂市の図書館を考える会　資料室
 ## 美濃加茂市公共施設等類型別カルテ
 - [美濃加茂市公共施設等類型別カルテ（全体）](https://www.city.minokamo.lg.jp/uploaded/attachment/19601.pdf)
 - <a href = "/19601-1_merged.pdf"> 美濃加茂市公共施設等類型別カルテ（図書館抜粋）</a>
-- （参考）各務原市社会教育系施設（中央図書館、もりの本やさん・森の交流館）個別施設計画](https://www.city.kakamigahara.lg.jp/_res/projects/default_project/_page_/001/010/615/r8.4_2-1.pdf)
+- [（参考）各務原市社会教育系施設（中央図書館、もりの本やさん・森の交流館）個別施設計画](https://www.city.kakamigahara.lg.jp/_res/projects/default_project/_page_/001/010/615/r8.4_2-1.pdf)
 - [公共施設等総合管理計画と公立図書館の施設整備　慶應義塾大学文学部：松本直樹（まつもとなおき）](https://current.ndl.go.jp/ca2034)
 
 
