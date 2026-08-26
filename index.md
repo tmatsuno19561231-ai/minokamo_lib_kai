@@ -17,6 +17,7 @@ title: 美濃加茂市の図書館を考える会　資料室
 
 ## 図書館年報等
 - [図書館年報　令和７年度（令和６年度資料）](https://www3.city.minokamo.gifu.jp/release/fileopen.cfm?id=388&filename=/%E5%9B%B3%E6%9B%B8%E9%A4%A8%E5%B9%B4%E5%A0%B1R7.pdf)
+- [美濃加茂市一般会計　歳入歳出決算事項別明細書（歳出）令和５年度（図書館抜粋]()
 
 ## 計画等
 - [美濃加茂市子どもの読書活動推進計画](https://www3.city.minokamo.gifu.jp/release/fileopen.cfm?id=1&filename=/katudousuisin.pdf)
@@ -29,8 +30,6 @@ title: 美濃加茂市の図書館を考える会　資料室
 - <a href = "/19601-1_merged.pdf"> 美濃加茂市公共施設等類型別カルテ（図書館抜粋）</a>
 - [（参考）各務原市社会教育系施設（中央図書館、もりの本やさん・森の交流館）個別施設計画](https://www.city.kakamigahara.lg.jp/_res/projects/default_project/_page_/001/010/615/r8.4_2-1.pdf)
 - [（参考）公共施設等総合管理計画と公立図書館の施設整備　慶應義塾大学文学部：松本直樹（まつもとなおき）](https://current.ndl.go.jp/ca2034)
-
-
 
 
 ## 日本の図書館統計から
