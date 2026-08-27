@@ -1,6 +1,6 @@
 ---
 layout: default
-title:美濃加茂市議会 一般質問 議会中継 文字起こし
+title: 一般質問 議会中継 文字起こし
 created_at: "2026-08-27"
 ---
 
