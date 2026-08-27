@@ -1,7 +1,7 @@
 ---
 layout: default
 title: 岐阜県内公立図書館の竣工年
-date: 2026-08-27
+created_at: "2026-08-27"
 ---
 
 
