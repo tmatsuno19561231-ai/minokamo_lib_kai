@@ -36,12 +36,9 @@ title: 美濃加茂市の図書館を考える会　資料室
 ## 日本の図書館統計から
 - <a href="{{ site.baseurl }}/data/library_report.html">岐阜県内公立図書館竣工年</a>
 
-
-  
-
-
 ## misc
 - [図書館法](https://laws.e-gov.go.jp/law/325AC0000000118/)
 - [公立図書館の任務と目標](https://www.jla.or.jp/library_resources-_and_guidelines/missions_and_goals/)
 - [IFLA-UNESCO公共図書館宣言2022](https://www.jla.or.jp/library_resources-_and_guidelines/ifla-unesco-public-library-manifesto2022/)
 - [図書館の設置及び運営上の望ましい基準](https://www.jla.or.jp/library_resources-_and_guidelines/desirable_standards/)
+- [図書館計画はこれでいいのか？　リーフレット改訂版 2026.7.6[]()](https://tomonken.org/publish/others/page-5294/)
