@@ -33,8 +33,6 @@ title: 美濃加茂市の図書館を考える会　資料室
 
 
 ## 日本の図書館統計から
-- [岐阜県内公立図書館竣工年]({% link data/library_report.md %})
-- [岐阜県内公立図書館竣工年]({% link data/library_report.md %})
 - <a href="{{ site.baseurl }}/data/library_report.html">岐阜県内公立図書館竣工年</a>
 
 
