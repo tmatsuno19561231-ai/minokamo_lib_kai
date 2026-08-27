@@ -24,7 +24,7 @@ title: 美濃加茂市の図書館を考える会　資料室
 - [（参考）市町村子どもの読書活動推進計画の策定状況](https://www.pref.gifu.lg.jp/page/171510.html)
 - [第3次美濃加茂市教育振興基本計画](https://www.city.minokamo.lg.jp/uploaded/life/15706_26038_misc.pdf)
 - [美濃加茂市　総合計画](https://www.city.minokamo.lg.jp/life/5/21/135/)
-- [美濃加茂市第６次総合計画　後期基本計画　抜粋（生涯学習・文化・スポーツ）](https://github.com/tmatsuno19561231-ai/minokamo_lib_kai/blob/main/data/01_%E7%BE%8E%E6%BF%83%E5%8A%A0%E8%8C%82%E5%B8%82%E7%AC%AC%EF%BC%96%E6%AC%A1%E7%B7%8F%E5%90%88%E8%A8%88%E7%94%BB%E5%BE%8C%E6%9C%9F%E5%9F%BA%E6%9C%AC%E8%A8%88%E7%94%BB-48-51.pdf)
+- [美濃加茂市第６次総合計画　後期基本計画　抜粋（生涯学習・文化・スポーツ）](data/01_%E7%BE%8E%E6%BF%83%E5%8A%A0%E8%8C%82%E5%B8%82%E7%AC%AC%EF%BC%96%E6%AC%A1%E7%B7%8F%E5%90%88%E8%A8%88%E7%94%BB%E5%BE%8C%E6%9C%9F%E5%9F%BA%E6%9C%AC%E8%A8%88%E7%94%BB-48-51.pdf)
 
 ## 美濃加茂市公共施設等類型別カルテ
 - [美濃加茂市公共施設等類型別カルテ（全体）](https://www.city.minokamo.lg.jp/uploaded/attachment/19601.pdf)
@@ -41,4 +41,4 @@ title: 美濃加茂市の図書館を考える会　資料室
 - [公立図書館の任務と目標](https://www.jla.or.jp/library_resources-_and_guidelines/missions_and_goals/)
 - [IFLA-UNESCO公共図書館宣言2022](https://www.jla.or.jp/library_resources-_and_guidelines/ifla-unesco-public-library-manifesto2022/)
 - [図書館の設置及び運営上の望ましい基準](https://www.jla.or.jp/library_resources-_and_guidelines/desirable_standards/)
-- [図書館計画はこれでいいのか？　リーフレット改訂版 2026.7.6[]()](https://tomonken.org/publish/others/page-5294/)
+- [図書館計画はこれでいいのか？　リーフレット改訂版 2026.7.6[]()](https://tomonken.org/wp-content/uploads/2026/07/%E5%9B%B3%E6%9B%B8%E9%A4%A8%E8%A8%88%E7%94%BB%E3%81%AF%E3%81%93%E3%82%8C%E3%81%A7%E3%81%84%E3%81%84%E3%81%AE%E3%81%8B%EF%BC%9F-%E3%83%AA%E3%83%BC%E3%83%95%E3%83%AC%E3%83%83%E3%83%88%E6%94%B9%E8%A8%82%E7%89%88-2026.7.6.pdf)
