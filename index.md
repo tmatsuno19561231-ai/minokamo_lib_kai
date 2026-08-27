@@ -37,6 +37,7 @@ date: 2026-08-26
 
 ## 日本の図書館統計から
 - [岐阜県内公立図書館竣工年](data/library_report.md)
+- [岐阜県内公立図書館の図書館設置数](data/library_report2.md)
   
 
 ## misc
