@@ -1,7 +1,6 @@
 ---
 layout: default
 title: 美濃加茂市の図書館を考える会　資料室
-date:2026-08-26
 ---
 
 
