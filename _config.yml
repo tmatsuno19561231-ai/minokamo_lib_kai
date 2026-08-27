@@ -6,5 +6,8 @@
 
 # GitHub Pagesで公開するとき用（こちらが推奨される場合があります）
 # remote_theme: "jekyll/minima"
+# Jekyllのビルド時に data フォルダを強制的に含める設定
+include:
+  - data
 
 
