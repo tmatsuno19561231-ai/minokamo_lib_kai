@@ -36,6 +36,8 @@ date: 2026-08-27
 - [（参考）各務原市社会教育系施設（中央図書館、もりの本やさん・森の交流館）個別施設計画](https://www.city.kakamigahara.lg.jp/_res/projects/default_project/_page_/001/010/615/r8.4_2-1.pdf)
 - [（参考）公共施設等総合管理計画と公立図書館の施設整備　慶應義塾大学文学部：松本直樹（まつもとなおき）](https://current.ndl.go.jp/ca2034)
 
+## 美濃加茂市議会
+-[一般質問]()
 
 ## 日本の図書館統計から
 - [岐阜県内公立図書館竣工年](data/library_report.md)
