@@ -7,7 +7,7 @@ AIによる反訳。
 
 ## 令和8年　第2回定例会　
 1. [坂井文好議員](reiwa8-teireikai-general-question-v3_sakai.md)
-1. 森弓子議員
+1. [森弓子議員](reiwa8-general-question-mori.md)
 1. [纐纈源太議員](reiwa8-teireikai-general-question_koketsu.md)
 1. 亀井滋昭議員
 1. [田口智子議員](reiwa8-2nd-regular-meeting-questions-v2.md)
