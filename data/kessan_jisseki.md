@@ -2,6 +2,7 @@
 layout: default
 title: 美濃加茂市一般会計・特別会計実績報告書（図書館関係抜粋）
 ---
+
 決算実績報告書中、図書館関係を抜粋
 トップページ > 組織でさがす > 経営企画部 > 財政課 > 決算実績報告書
 https://www.city.minokamo.lg.jp/soshiki/28/2572.html
