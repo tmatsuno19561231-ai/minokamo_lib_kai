@@ -61,4 +61,4 @@ date: 2026-08-27
 - [図書館問題研究会　図書館計画はこれでいいのか？　リーフレット改訂版 2026.7.6[]()](https://tomonken.org/wp-content/uploads/2026/07/%E5%9B%B3%E6%9B%B8%E9%A4%A8%E8%A8%88%E7%94%BB%E3%81%AF%E3%81%93%E3%82%8C%E3%81%A7%E3%81%84%E3%81%84%E3%81%AE%E3%81%8B%EF%BC%9F-%E3%83%AA%E3%83%BC%E3%83%95%E3%83%AC%E3%83%83%E3%83%88%E6%94%B9%E8%A8%82%E7%89%88-2026.7.6.pdf)
 - [文部科学省　図書館が拓く未来の学びと地域社会（報告書）令和８年３月１７日](https://www.mext.go.jp/b_menu/houdou/mext_01613.html)
 - [文部科学省　図書館・書店等連携実践事例集](https://www.mext.go.jp/a_menu/shougai/tosho/mext_00001.html)
-- 
+  
