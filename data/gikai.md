@@ -4,6 +4,7 @@ title: 市議会　一般質問
 date: 2026-08-27
 ---
 美濃加茂市議会議会中継をAIによる反訳。
+
 https://smart.discussvision.net/smart/tenant/minokamo/WebView/rd/council_1.html
 
 ## 令和8年　第2回定例会　
