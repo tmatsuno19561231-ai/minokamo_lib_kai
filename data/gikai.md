@@ -10,7 +10,7 @@ AIによる反訳。
 1. 森弓子議員
 1. [纐纈源太議員](reiwa8-teireikai-general-question_koketsu.md)
 1. 亀井滋昭議員
-1. 田口智子議員
+1. [田口智子議員](reiwa8-2nd-regular-meeting-questions-v2.md)
 1. 渡辺孝男議員
 1. 渡邉一子議員
 1. 岸一夫議員
