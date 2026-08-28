@@ -24,7 +24,7 @@ https://www.city.minokamo.lg.jp/soshiki/28/2572.html
 
 ## 各年度データ
 
-1. [令和6年度](18340(1).pdf)
+1. [令和6年度] (18340(1).pdf)
 
 1. [令和5年度](14869 (1).pdf)
 
