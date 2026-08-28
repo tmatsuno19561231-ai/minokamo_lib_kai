@@ -1,4 +1,7 @@
-
+---
+layout: default
+title: 市議会　一般質問
+---
 
 {:toc}
 
