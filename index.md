@@ -12,9 +12,12 @@ date: 2026-08-27
 
 # 関係資料
 
-## 図書館関係の条例
--  [美濃加茂市立図書館設置条例](https://www1.g-reiki.net/minokamo/reiki_honbun/i312RG00000367.html)
--  [美濃加茂市立図書館協議会規則](https://www1.g-reiki.net/minokamo/reiki_honbun/i312RG00000369.html)
+## 図書館関係の法令等
+- [図書館法（昭和二十五年法律第百十八号）](https://laws.e-gov.go.jp/law/325AC0000000118/)
+- [図書館法施行規則（昭和二十五年文部省令第二十七号）](https://laws.e-gov.go.jp/law/325M50000080027/)
+- [美濃加茂市立図書館設置条例　昭和54年3月24日　条例第7号](https://www1.g-reiki.net/minokamo/reiki_honbun/i312RG00000367.html)
+- [美濃加茂市立図書館設置条例施行規則 平成25年9月1日 規則第40号](https://www1.g-reiki.net/minokamo/reiki_honbun/i312RG00001002.html)
+- [美濃加茂市立図書館協議会規則](https://www1.g-reiki.net/minokamo/reiki_honbun/i312RG00000369.html)
 
 ## 図書館協議会
 - [2026-02-18 令和７年度第２回図書館協議会議事録](https://www.city.minokamo.lg.jp/uploaded/attachment/20139.pdf)
@@ -24,7 +27,7 @@ date: 2026-08-27
 
 ## 予算関係データ抜粋
 - [美濃加茂市一般会計　歳入歳出決算事項別明細書（歳出）令和５年度（図書館抜粋)](15501-1_merged.pdf)
-- [決算実績報告書](data/kessan_jisseki.md)
+- [決算実績報告書　抜粋](data/kessan_jisseki.md)
 
 ## 計画等
 - [美濃加茂市子どもの読書活動推進計画](https://www3.city.minokamo.gifu.jp/release/fileopen.cfm?id=1&filename=/katudousuisin.pdf)
@@ -49,7 +52,7 @@ date: 2026-08-27
   
 
 ## misc
-- [図書館法](https://laws.e-gov.go.jp/law/325AC0000000118/)
+
 - [日本図書館協会　公立図書館の任務と目標](https://www.jla.or.jp/library_resources-_and_guidelines/missions_and_goals/)
 
 - [日本図書館協会　図書館の設置及び運営上の望ましい基準](https://www.jla.or.jp/library_resources-_and_guidelines/desirable_standards/)
