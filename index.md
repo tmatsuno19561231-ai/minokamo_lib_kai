@@ -46,7 +46,9 @@ date: 2026-08-27
 
 ## 美濃加茂市議会
 - [一般質問から](data/gikai.md)
-  
+
+## 会議等
+- [美濃加茂市総合教育会議](https://www.city.minokamo.lg.jp/soshiki/36/17947.html)
   
 ## 日本の図書館統計から
 - [岐阜県内公立図書館竣工年](data/library_report.md)
