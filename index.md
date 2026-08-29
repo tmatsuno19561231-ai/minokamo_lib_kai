@@ -34,13 +34,16 @@ title: 美濃加茂市の図書館を考える会 資料室
 
 
 ### 決算実績報告書
+<a href = "https://www.city.minokamo.lg.jp/soshiki/28/2572.html" target="_blank">
+決算実績報告書が公表されています。2026−08−30現在で、平成22年から令和6年までとなっています。</a>
+
 - <a href = "https://www.city.minokamo.lg.jp/uploaded/attachment/18340.pdf#page=133" target="_blank">令和6年決算実績報告書 133p </a>
 - <a href = "https://www.city.minokamo.lg.jp/uploaded/attachment/14869.pdf#page=122" target="_blank">令和5年決算実績報告書 122p </a>
 - <a href = "https://www.city.minokamo.lg.jp/uploaded/attachment/6864.pdf#page=124" target="_blank">令和4年決算実績報告書 124p </a>
 - <a href = "https://www.city.minokamo.lg.jp/uploaded/attachment/6865.pdf#page=128" target="_blank">令和3年決算実績報告書 128p </a>
 - <a href = "https://www.city.minokamo.lg.jp/uploaded/attachment/6866.pdf#page=125" target="_blank">令和2年決算実績報告書 125p </a>
-- <a href = "https://www.city.minokamo.lg.jp/uploaded/attachment/6967.pdf#page=130" target="_blank">令和元年決算実績報告書 130p </a>
-
+- <a href = "https://www.city.minokamo.lg.jp/uploaded/attachment/69867.pdf#page=130" target="_blank">令和元年決算実績報告書 130p </a>
+           
 ## 計画等
 - <a href ="https://www3.city.minokamo.gifu.jp/release/fileopen.cfm?id=1&filename=/katudousuisin.pdf" target="_blank">美濃加茂市子どもの読書活動推進計画</a>
 - <a href = "https://www.pref.gifu.lg.jp/page/171510.html" target="_blank"> （参考）市町村子どもの読書活動推進計画の策定状況<a/>
