@@ -1,10 +1,8 @@
 ---
 layout: default
 title: 美濃加茂市の図書館を考える会 資料室
-date: 
 ---
-
-**更新日付: 2026年8月28日**
+**更新日付: 2026年8月29日**
 
 * TOC
 {:toc}
@@ -28,7 +26,10 @@ date:
 - [図書館年報　令和７年度（令和６年度資料）](https://www3.city.minokamo.gifu.jp/release/fileopen.cfm?id=388&filename=/%E5%9B%B3%E6%9B%B8%E9%A4%A8%E5%B9%B4%E5%A0%B1R7.pdf)
 
 ## 図書館関係予算
-- <a href = "https://www.city.minokamo.lg.jp/uploaded/attachment/15501.pdf#94">[美濃加茂市一般会計　歳入歳出決算事項別明細書（歳出）令和５年度</a>
+### 美濃加茂市一般会計
+- <a href = "https://www.city.minokamo.lg.jp/uploaded/attachment/15501.pdf#page=94">[美濃加茂市一般会計　歳入歳出決算事項別明細書（歳出）令和５年度</a>
+### 決算報告書
+- <a href = 
 - [決算実績報告書　抜粋](data/kessan_jisseki.md)
 
 ## 計画等
