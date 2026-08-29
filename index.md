@@ -33,7 +33,7 @@ title: 美濃加茂市の図書館を考える会 資料室
 
 ### 決算実績報告書
 <a href = "https://www.city.minokamo.lg.jp/soshiki/28/2572.html" target="_blank">
-決算実績報告書が公表されています。2026−08−30現在で、平成22年から令和6年までとなっています。</a>
+決算実績報告書が公表されています。</a>2026−08−30現在で、平成22年から令和6年までとなっています。
 
 #### 施設管理事業決算額の推移
 
@@ -47,6 +47,7 @@ title: 美濃加茂市の図書館を考える会 資料室
 | R元年 | 2019 | 14,127,789 | 15,224,208 | 29,351,997 |
 | AVR | | 16,760,867 | 18,113,960 | 34,874,827 |
 
+参考としたデータは、次のとおり。
 - <a href = "https://www.city.minokamo.lg.jp/uploaded/attachment/18340.pdf#page=133" target="_blank">令和6年決算実績報告書 133p </a>
 - <a href = "https://www.city.minokamo.lg.jp/uploaded/attachment/14869.pdf#page=122" target="_blank">令和5年決算実績報告書 122p </a>
 - <a href = "https://www.city.minokamo.lg.jp/uploaded/attachment/6864.pdf#page=124" target="_blank">令和4年決算実績報告書 124p </a>
