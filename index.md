@@ -28,7 +28,7 @@ date:
 - [図書館年報　令和７年度（令和６年度資料）](https://www3.city.minokamo.gifu.jp/release/fileopen.cfm?id=388&filename=/%E5%9B%B3%E6%9B%B8%E9%A4%A8%E5%B9%B4%E5%A0%B1R7.pdf)
 
 ## 図書館関係予算
-- [美濃加茂市一般会計　歳入歳出決算事項別明細書（歳出）令和５年度（図書館抜粋)](15501-1_merged.pdf)
+- <a href = "https://www.city.minokamo.lg.jp/uploaded/attachment/15501.pdf#94">[美濃加茂市一般会計　歳入歳出決算事項別明細書（歳出）令和５年度</a>
 - [決算実績報告書　抜粋](data/kessan_jisseki.md)
 
 ## 計画等
