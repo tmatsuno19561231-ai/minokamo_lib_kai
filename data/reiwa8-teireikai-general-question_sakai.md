@@ -1,6 +1,6 @@
 ---
 layout: default
-title: 市議会　一般質問
+title: 市議会　一般質問　
 ---
 * TOC
 {:toc}
