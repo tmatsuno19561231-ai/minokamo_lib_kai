@@ -1,4 +1,5 @@
-theme: minima
+remote_theme: jekyll/minima
+# theme: minima
 # theme: jekyll-theme-Minima
 #  theme: jekyll-theme-cayman
 # theme: jekyll-theme-architect
