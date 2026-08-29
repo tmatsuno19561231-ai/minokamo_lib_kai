@@ -70,8 +70,10 @@ title: 美濃加茂市の図書館を考える会 資料室
 動向レビュー 公共施設等総合管理計画と公立図書館の施設整備</a>
 
 ## 新庁舎関係
-- <a href ="https://www.city.minokamo.lg.jp/uploaded/attachment/20837.pdf" target="_blank"> 「美濃加茂市新庁舎整備基本構想（案）」に関する意見募集結果</a>
-- <a href = "https://www.city.minokamo.lg.jp/soshiki/26/2531.html" target="_blank"> 上記の情報はパブリックコメントに掲載</a
+- <a href ="https://www.city.minokamo.lg.jp/soshiki/24/21451.html" target="_blnak">美濃加茂市新庁舎整備基本構"</a>
+- <a href ="https://www.city.minokamo.lg.jp/soshiki/24/" target="_blank">新庁舎整備推進</a>担当課からの情報
+- 
+- <a href ="https://www.city.minokamo.lg.jp/uploaded/attachment/20837.pdf" target="_blank"> 「美濃加茂市新庁舎整備基本構想（案）」に関する意見募集結果</a>　この情報は <a href = "https://www.city.minokamo.lg.jp/soshiki/26/2531.html" target="_blank"> パブリックコメント</a>に掲載あり。
 -  
 
 ## 会議等
