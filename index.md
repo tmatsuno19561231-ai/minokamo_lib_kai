@@ -49,7 +49,7 @@ title: 美濃加茂市の図書館を考える会 資料室
 - <a href = "(https://current.ndl.go.jp/ca2034" _target="_blank">（参考）公共施設等総合管理計画と公立図書館の施設整備</a>
 
 ## 会議等
-- < a href = "https://www.city.minokamo.lg.jp/soshiki/36/17947.html" target="_blank">美濃加茂市総合教育会議</a>
+- <a href = "https://www.city.minokamo.lg.jp/soshiki/36/17947.html" target="_blank">美濃加茂市総合教育会議</a>
   
 ## 日本の図書館統計
 
