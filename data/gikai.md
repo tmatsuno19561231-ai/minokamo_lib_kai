@@ -8,11 +8,11 @@ date: 2026-08-27
 https://smart.discussvision.net/smart/tenant/minokamo/WebView/rd/council_1.html
 
 ## 令和8年　第2回定例会　
-1. [坂井文好議員](reiwa8-teireikai-general-question-v3_sakai.md)
-1. [森弓子議員](reiwa8-general-question-mori.md)
-1. [纐纈源太議員](reiwa8-teireikai-general-question_koketsu.md)
-1. 亀井滋昭議員
-1. [田口智子議員](reiwa8_teireikai_ippanshitsumon_taguchi-v2.md)
+1. [坂井文好議員](20260616_01sakai.md)
+1. [森弓子議員](20260616_02mori.md)
+1. [纐纈源太議員](20260616_03koketsu.md)
+1. [亀井滋昭議員](20260616_04kamei.md)
+1. [田口智子議員](20260616_05taguchi.md)
 1. 渡辺孝男議員
 1. 渡邉一子議員
 1. 岸一夫議員
