@@ -5,8 +5,6 @@ date: 2026-08-27
 ---
 美濃加茂市議会議会中継をAIによる反訳。
 
-https://smart.discussvision.net/smart/tenant/minokamo/WebView/rd/council_1.html
-
 ## 令和8年　第2回定例会　
 1. [坂井文好議員](20260616_01sakai.md)
 1. [森弓子議員](20260616_02mori.md)
