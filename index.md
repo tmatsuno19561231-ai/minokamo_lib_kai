@@ -29,31 +29,33 @@ title: 美濃加茂市の図書館を考える会 資料室
 ### 美濃加茂市歳入歳出決算書
 - <a href = "https://www.city.minokamo.lg.jp/uploaded/attachment/15501.pdf#page=94">[美濃加茂市一般会計　歳入歳出決算事項別明細書（歳出）令和５年度</a>
 ### 決算実績報告書
-- <a href = "https://www.city.minokamo.lg.jp/uploaded/attachment/18340.pdf#page=133" target="_blank"">令和6年決算実績報告書 </a>
-- <a href = "https://www.city.minokamo.lg.jp/uploaded/attachment/14869.pdf#page=122" target="_blank"">令和5年決算実績報告書 </a>
-- <a href = "https://www.city.minokamo.lg.jp/uploaded/attachment/6864.pdf#page=124" target="_blank"">令和4年決算実績報告書 </a>
-- <a href = "https://www.city.minokamo.lg.jp/uploaded/attachment/6865.pdf#page=128" target="_blank"">令和3年決算実績報告書 </a>
-- <a href = "https://www.city.minokamo.lg.jp/uploaded/attachment/6866.pdf#page=125" target="_blank"">令和2年決算実績報告書 </a>
-- <a href = "https://www.city.minokamo.lg.jp/uploaded/attachment/6967.pdf#page=130" target="_blank"">令和元年決算実績報告書 </a>
+- <a href = "https://www.city.minokamo.lg.jp/uploaded/attachment/18340.pdf#page=133" target="_blank">令和6年決算実績報告書 </a>
+- <a href = "https://www.city.minokamo.lg.jp/uploaded/attachment/14869.pdf#page=122" target="_blank">令和5年決算実績報告書 </a>
+- <a href = "https://www.city.minokamo.lg.jp/uploaded/attachment/6864.pdf#page=124" target="_blank">令和4年決算実績報告書 </a>
+- <a href = "https://www.city.minokamo.lg.jp/uploaded/attachment/6865.pdf#page=128" target="_blank">令和3年決算実績報告書 </a>
+- <a href = "https://www.city.minokamo.lg.jp/uploaded/attachment/6866.pdf#page=125" target="_blank">令和2年決算実績報告書 </a>
+- <a href = "https://www.city.minokamo.lg.jp/uploaded/attachment/6967.pdf#page=130" target="_blank">令和元年決算実績報告書 </a>
 
 ## 計画等
-- [美濃加茂市子どもの読書活動推進計画](https://www3.city.minokamo.gifu.jp/release/fileopen.cfm?id=1&filename=/katudousuisin.pdf)
-- [（参考）市町村子どもの読書活動推進計画の策定状況](https://www.pref.gifu.lg.jp/page/171510.html)
-- [第3次美濃加茂市教育振興基本計画](https://www.city.minokamo.lg.jp/uploaded/life/15706_26038_misc.pdf)
-- [美濃加茂市　総合計画](https://www.city.minokamo.lg.jp/life/5/21/135/)
-- [美濃加茂市第６次総合計画 後期基本計画 抜粋（生涯学習・文化・スポーツ）]({{ site.baseurl }}/data/01_美濃加茂市第６次総合計画後期基本計画-48-51.pdf)
+- <a href ="https://www3.city.minokamo.gifu.jp/release/fileopen.cfm?id=1&filename=/katudousuisin.pdf" target="_blank">美濃加茂市子どもの読書活動推進計画</a>
+- <a href = "https://www.pref.gifu.lg.jp/page/171510.html" target="_blank"> （参考）市町村子どもの読書活動推進計画の策定状況<a/>
+- <a href = "https://www.city.minokamo.lg.jp/uploaded/life/15706_26038_misc.pdf" target="_blank">第3次美濃加茂市教育振興基本計画</a>
+- <a href = "https://static.gifu-ebooks.jp/actibook_data/01_minokamo_city_6th_comprehensive_plan_late_basic_plan__/?pNo=48" target="_blank">美濃加茂市第6次総合計画後期基本計画</a>
+
 
 ## 美濃加茂市公共施設等類型別カルテ
+- < a href = "https://www.city.minokamo.lg.jp/uploaded/attachment/19601.pdf#page=48" target="_blank" >R7公共施設等類型別カルテ（公共施設白書）</a>
 - [美濃加茂市公共施設等類型別カルテ（全体）](https://www.city.minokamo.lg.jp/uploaded/attachment/19601.pdf)
 - <a href = "19601-1_merged.pdf"> 美濃加茂市公共施設等類型別カルテ（図書館抜粋）</a>
-- [（参考）各務原市社会教育系施設（中央図書館、もりの本やさん・森の交流館）個別施設計画](https://www.city.kakamigahara.lg.jp/_res/projects/default_project/_page_/001/010/615/r8.4_2-1.pdf)
-- [（参考）公共施設等総合管理計画と公立図書館の施設整備　慶應義塾大学文学部：松本直樹（まつもとなおき）](https://current.ndl.go.jp/ca2034)
+- <a href = "https://www.city.kakamigahara.lg.jp/_res/projects/default_project/_page_/001/010/615/r8.4_2-1.pdf" target="_blank" >（参考）各務原市社会教育系施設（中央図書館、もりの本やさん・森の交流館）個別施設計画</a>
+- <a href = "(https://current.ndl.go.jp/ca2034" _target="_blank">（参考）公共施設等総合管理計画と公立図書館の施設整備</a>
 
 
 ## 会議等
 - [美濃加茂市総合教育会議](https://www.city.minokamo.lg.jp/soshiki/36/17947.html)
   
-## 日本の図書館統計から
+## 日本の図書館統計
+
 - [岐阜県内公立図書館竣工年](data/library_report.md)
 - [岐阜県内公立図書館の図書館設置数](data/library_report2.md)
   
