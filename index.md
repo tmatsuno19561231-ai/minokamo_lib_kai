@@ -68,6 +68,11 @@ title: 美濃加茂市の図書館を考える会 資料室
 - <a href = "https://current.ndl.go.jp/ca2034" _target="_blank">（参考）カレントアウェアネス No.354　2022年12月20日 CA2034
 動向レビュー 公共施設等総合管理計画と公立図書館の施設整備</a>
 
+## 新庁舎関係
+- <a href ="https://www.city.minokamo.lg.jp/uploaded/attachment/20837.pdf" target="_blank"> 「美濃加茂市新庁舎整備基本構想（案）」に関する意見募集結果</a>
+- <a href = "https://www.city.minokamo.lg.jp/soshiki/26/2531.html" target="_blank"> 上記の情報はパブリックコメントに掲載</a
+-  
+
 ## 会議等
 - <a href = "https://www.city.minokamo.lg.jp/soshiki/36/17947.html" target="_blank">美濃加茂市総合教育会議</a>
   
