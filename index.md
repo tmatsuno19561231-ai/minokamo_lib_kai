@@ -29,14 +29,12 @@ title: 美濃加茂市の図書館を考える会 資料室
 ### 美濃加茂市歳入歳出決算書
 - <a href = "https://www.city.minokamo.lg.jp/uploaded/attachment/15501.pdf#page=94">[美濃加茂市一般会計　歳入歳出決算事項別明細書（歳出）令和５年度</a>
 ### 決算実績報告書
-- <a href = "https://www.city.minokamo.lg.jp/uploaded/attachment/18340.pdf#page=133 target="_blank"">令和6年決算実績報告書 </a>
-- - <a href = "https://www.city.minokamo.lg.jp/uploaded/attachment/14869.pdf#page=122 target="_blank"">令和6年決算実績報告書 </a>
-- <a href = "https://www.city.minokamo.lg.jp/uploaded/attachment/18340.pdf#page=133 target="_blank"">令和6年決算実績報告書 </a>
-- <a href = "https://www.city.minokamo.lg.jp/uploaded/attachment/18340.pdf#page=133 target="_blank"">令和5年決算実績報告書 </a>
-- <a href = "https://www.city.minokamo.lg.jp/uploaded/attachment/18340.pdf#page=133 target="_blank"">令和4年決算実績報告書 </a>
-- <a href = "https://www.city.minokamo.lg.jp/uploaded/attachment/18340.pdf#page=133 target="_blank"">令和3年決算実績報告書 </a>
-- <a href = "https://www.city.minokamo.lg.jp/uploaded/attachment/18340.pdf#page=133 target="_blank"">令和3年決算実績報告書 </a>
-- <a href = "https://www.city.minokamo.lg.jp/uploaded/attachment/18340.pdf#page=133 target="_blank"">令和元年決算実績報告書 </a>
+- <a href = "https://www.city.minokamo.lg.jp/uploaded/attachment/18340.pdf#page=133" target="_blank"">令和6年決算実績報告書 </a>
+- <a href = "https://www.city.minokamo.lg.jp/uploaded/attachment/14869.pdf#page=122" target="_blank"">令和5年決算実績報告書 </a>
+- <a href = "https://www.city.minokamo.lg.jp/uploaded/attachment/6864.pdf#page=124" target="_blank"">令和4年決算実績報告書 </a>
+- <a href = "https://www.city.minokamo.lg.jp/uploaded/attachment/6865.pdf#page=128" target="_blank"">令和3年決算実績報告書 </a>
+- <a href = "https://www.city.minokamo.lg.jp/uploaded/attachment/6866.pdf#page=125" target="_blank"">令和2年決算実績報告書 </a>
+- <a href = "https://www.city.minokamo.lg.jp/uploaded/attachment/6967.pdf#page=130" target="_blank"">令和元年決算実績報告書 </a>
 
 ## 計画等
 - [美濃加茂市子どもの読書活動推進計画](https://www3.city.minokamo.gifu.jp/release/fileopen.cfm?id=1&filename=/katudousuisin.pdf)
