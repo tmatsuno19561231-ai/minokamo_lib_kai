@@ -32,9 +32,9 @@ title: 美濃加茂市の図書館を考える会 資料室
 - <a href = "https://www.city.minokamo.lg.jp/uploaded/attachment/15501.pdf#page=94" target="_blank">[美濃加茂市一般会計　歳入歳出決算事項別明細書（歳出）令和５年度 94p</a>
 
 ### 決算実績報告書
-<a href = "https://www.city.minokamo.lg.jp/soshiki/28/2572.html" target="_blank">
-           
-決算実績報告書が公表されています。</a>2026−08−30現在で、平成22年から令和6年までとなっています。
+<a href = "https://www.city.minokamo.lg.jp/soshiki/28/2572.html" target="_blank">決算実績報告書が公表されています。</a>
+
+2026−08−30現在で、平成22年から令和6年までとなっています。
 
 #### 施設管理事業決算額の推移
 
