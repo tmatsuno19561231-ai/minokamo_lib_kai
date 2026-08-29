@@ -52,8 +52,9 @@ title: 美濃加茂市の図書館を考える会 資料室
 - <a href = "https://www.city.minokamo.lg.jp/soshiki/36/17947.html" target="_blank">美濃加茂市総合教育会議</a>
   
 ## 日本の図書館統計
+- <a href = "https://japanlibraryassociation.app.box.com/s/ctkfz1ejj3e5n798vjticckl4nn3a85h" target="_blank"> 日本の図書館電子媒体版（無償版）</a>
+- 『日本の図書館』電子媒体版（無償版・1996年～2020年）がオープンデータになっています。
 
-  
 ## misc
 
 - <a href = "https://www.jla.or.jp/library_resources-_and_guidelines/missions_and_goals/" target="_blank">日本図書館協会　公立図書館の任務と目標]</a>
