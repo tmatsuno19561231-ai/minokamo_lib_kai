@@ -23,7 +23,7 @@ title: 美濃加茂市の図書館を考える会 資料室
 - <a href = "https://www.city.minokamo.lg.jp/uploaded/attachment/20139.pdf" target="_blank">2026-02-18 令和７年度第２回図書館協議会議事録</a>
 
 ## 図書館年報等
-- <a href [図書館年報　令和７年度（令和６年度資料）](https://www3.city.minokamo.gifu.jp/release/fileopen.cfm?id=388&filename=/%E5%9B%B3%E6%9B%B8%E9%A4%A8%E5%B9%B4%E5%A0%B1R7.pdf)
+- <a href = https://www3.city.minokamo.gifu.jp/release/fileopen.cfm?id=388&filename=/%E5%9B%B3%E6%9B%B8%E9%A4%A8%E5%B9%B4%E5%A0%B1R7.pdf" target="_blank">図書館年報　令和７年度（令和６年度資料）</a>
 
 ## 図書館関係予算
 ### 美濃加茂市歳入歳出決算書
@@ -52,7 +52,7 @@ title: 美濃加茂市の図書館を考える会 資料室
 
 
 ## 会議等
-- [美濃加茂市総合教育会議](https://www.city.minokamo.lg.jp/soshiki/36/17947.html)
+- < a href = "https://www.city.minokamo.lg.jp/soshiki/36/17947.html" target="_blank">美濃加茂市総合教育会議</a>
   
 ## 日本の図書館統計
 
