@@ -13,11 +13,11 @@ title: 美濃加茂市の図書館を考える会 資料室
 # 関係資料
 
 ## 図書館関係法令等
-- <a href = "https://laws.e-gov.go.jp/law/325AC0000000118/" target="_blank">図書館法（昭和二十五年法律第百十八号）</a>
-- <a href = "https://laws.e-gov.go.jp/law/325M50000080027/" target="_blank"> [図書館法施行規則（昭和二十五年文部省令第二十七号）</a>
-- <a href = "https://www1.g-reiki.net/minokamo/reiki_honbun/i312RG00000367.html" target="_blank">美濃加茂市立図書館設置条例　昭和54年3月24日　条例第7号]</a>
-- <a href = "https://www1.g-reiki.net/minokamo/reiki_honbun/i312RG00001002.html" target="_blank">美濃加茂市立図書館設置条例施行規則 平成25年9月1日 規則第40号]</a>
-- <a href = "https://www1.g-reiki.net/minokamo/reiki_honbun/i312RG00000369.html" target="_blank">美濃加茂市立図書館協議会規則 平成21年3月31日 規則第25号]</a>
+1. <a href = "https://laws.e-gov.go.jp/law/325AC0000000118/" target="_blank">図書館法（昭和二十五年法律第百十八号）</a>
+1. <a href = "https://laws.e-gov.go.jp/law/325M50000080027/" target="_blank"> [図書館法施行規則（昭和二十五年文部省令第二十七号）</a>
+1. <a href = "https://www1.g-reiki.net/minokamo/reiki_honbun/i312RG00000367.html" target="_blank">美濃加茂市立図書館設置条例　昭和54年3月24日　条例第7号]</a>
+1. <a href = "https://www1.g-reiki.net/minokamo/reiki_honbun/i312RG00001002.html" target="_blank">美濃加茂市立図書館設置条例施行規則 平成25年9月1日 規則第40号]</a>
+1. <a href = "https://www1.g-reiki.net/minokamo/reiki_honbun/i312RG00000369.html" target="_blank">美濃加茂市立図書館協議会規則 平成21年3月31日 規則第25号]</a>
 
 ## 図書館協議会
 - <a href = "https://www.city.minokamo.lg.jp/uploaded/attachment/20139.pdf" target="_blank">2026-02-18 令和７年度第２回図書館協議会議事録</a>
