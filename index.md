@@ -68,6 +68,11 @@ title: 美濃加茂市の図書館を考える会 資料室
 
 ## 美濃加茂市公共施設等類型別カルテ
 1. <a href = "https://www.city.minokamo.lg.jp/uploaded/attachment/19601.pdf#page=48" target="_blank" >R7公共施設等類型別カルテ（公共施設白書）</a>
+
+> 中央図書館については、耐用年数 50 年を迎える時期で機能停止とし、建替え・更新を行わない方針とします。隣接する中央体育館の耐用年数が近づいていることを踏まえ、中央図書館・中央体育館一帯の将来的な利用方針を別途検討します。
+
+> 中央図書館が耐用年数を迎える時期に、中央図書館と東図書館を統合することを検討します。その際は、東図書館に機能を集中させることを基本とします
+
 1. <a href = "https://www.city.kakamigahara.lg.jp/_res/projects/default_project/_page_/001/010/615/r8.4_2-1.pdf" target="_blank" >（参考）各務原市社会教育系施設（中央図書館、もりの本やさん・森の交流館）個別施設計画</a>
 1. <a href = "https://current.ndl.go.jp/ca2034" _target="_blank">（参考）カレントアウェアネス No.354　2022年12月20日 CA2034
 動向レビュー 公共施設等総合管理計画と公立図書館の施設整備</a>
@@ -78,16 +83,9 @@ title: 美濃加茂市の図書館を考える会 資料室
 1. <a href ="https://www.city.minokamo.lg.jp/soshiki/24/21451.html" target="_blnak">美濃加茂市新庁舎整備基本構想</a>
 1. <a href ="https://www.city.minokamo.lg.jp/soshiki/24/" target="_blank">新庁舎整備推進</a>　※担当課情報
 1. <a href ="https://minokamochosha.jp/wp-content/uploads/2025/06/%E3%80%90070610%E6%9C%80%E7%B5%82%E3%80%91%E3%81%8B%E3%82%8F%E3%82%89%E3%81%B0%E3%82%93vol.6.pdf" target="_balnk">みんなの新庁舎かわらばんvol.6 更新日：2025年6月13日更新</a>
-<blockquote style="text-align: left; display: inline-block; margin-top: 10px;">     
-中央図書館は東図書館との統合を検討する時期となっているため、中央図書館敷地は駐車場用地として活用し、庁舎内に図書コーナーを設置することを見込んでいます。
-</blockquote>
-
+> 中央図書館は東図書館との統合を検討する時期となっているため、中央図書館敷地は駐車場用地として活用し、庁舎内に図書コーナーを設置することを見込んでいます。
 1. <a href="https://minokamochosha.jp/wp-content/uploads/2025/01/%E3%80%90%E6%9C%80%E7%B5%82%E3%80%91%E3%81%8B%E3%82%8F%E3%82%89%E3%81%B0%E3%82%93.pdf" target="_blank">みんなの新庁舎かわらばんvol.5 更新日：2025年1月6日更新 </a>
-<blockquote style="text-align: left; display: inline-block; margin-top: 10px;">     
- プラザちゅうたい敷地では、隣接する中央図書館が東図書館へ統合を検討する時期となっていることから、地域の図書コーナーとして２００㎡を加算します。
-</blockquote>
-
-
+> プラザちゅうたい敷地では、隣接する中央図書館が東図書館へ統合を検討する時期となっていることから、地域の図書コーナーとして２００㎡を加算します。
 1. <a href ="https://www.city.minokamo.lg.jp/uploaded/attachment/17073.pdf" target="_blank">みんなの新庁舎かわらばんvol.4</a>
 1. <a href ="https://www.city.minokamo.lg.jp/uploaded/attachment/17072.pdf" target="_blank">みんなの新庁舎かわらばんvol.3</a>
 1. <a href ="https://www.city.minokamo.lg.jp/uploaded/attachment/17071.pdf" target="_blank">みんなの新庁舎かわらばんvol.2</a>
