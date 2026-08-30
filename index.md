@@ -103,7 +103,7 @@ title: 美濃加茂市の図書館を考える会 資料室
 
 ## 会議等
 1. <a href = "https://smart.discussvision.net/smart/tenant/minokamo/WebView/rd/speech.html?council_id=58&schedule_id=2&playlist_id=3&speaker_id=23&target_year=2026" target="_balnk">2026-06-16美濃加茂市議会議会中継 令和８年第2回　纐纈源太議</a> ※中央図書館の廃止で確保できる駐車台数が30台であることについての市長の回答あり
-※<a href = "https://www.city.minokamo.lg.jp/uploaded/attachment/21205.pdf" target="_blank">和8年美濃加茂市議会第２回定例会一般質問通告一覧</a>中、纐纈源太議員が図書館に係る質問の記載あり、上記の議会中継
+1. <a href = "https://www.city.minokamo.lg.jp/uploaded/attachment/21205.pdf" target="_blank">和8年美濃加茂市議会第２回定例会一般質問通告一覧</a>中、纐纈源太議員が図書館に係る質問掲載あり
 1. <a href = "https://www.city.minokamo.lg.jp/soshiki/36/17947.html" target="_blank">美濃加茂市総合教育会議</a>
   
 ## 日本の図書館統計
