@@ -34,11 +34,11 @@ title: 美濃加茂市の図書館を考える会 資料室
 
 1. <a href = "https://www.city.minokamo.lg.jp/uploaded/attachment/15501.pdf#page=94" target="_blank">美濃加茂市一般会計　歳入歳出決算事項別明細書（歳出）令和５年度 94p</a>
 
-   - 図書館に関する事項は、（款）９　教育費　（項）5　社会教育　（目）図書館費に掲載があります。
+   - 図書館に関する事項は、（款）９　教育費　（項）5　社会教育　（目）図書館費に掲載がある。
    - <a href = "https://www.city.minokamo.lg.jp/soshiki/30/2633.html" target="_blank">美濃加茂市歳入歳出決算書</a>には、令和５年度決算書には一般会計として3件のPDFファイルがある。令和4年度決算書には一般会計として2件のPDFファイルがあり、歳出に係る書面がない。2026-08-30閲覧
 
 ### 決算実績報告書
-<a href = "https://www.city.minokamo.lg.jp/soshiki/28/2572.html" target="_blank">決算実績報告書が公表されています。</a>
+<a href = "https://www.city.minokamo.lg.jp/soshiki/28/2572.html" target="_blank">決算実績報告書が公表されている。</a>
 
 2026−08−30現在で、平成22年から令和6年までとなっています。
 
@@ -84,6 +84,8 @@ title: 美濃加茂市の図書館を考える会 資料室
 1. <a href="https://minokamochosha.jp/wp-content/uploads/2025/01/%E3%80%90%E6%9C%80%E7%B5%82%E3%80%91%E3%81%8B%E3%82%8F%E3%82%89%E3%81%B0%E3%82%93.pdf" target="_blank">みんなの新庁舎 かわらばんvol.5_1212_2</a>
 
 1. <a href ="https://www.city.minokamo.lg.jp/uploaded/attachment/18539.pdf" target="_blank">説明会の質問に対する回答（2025.9.21開催：みのかも文化の森）</a>
+
+※新庁舎整備事業説明会　第1回：9月21日（日）午後3時から開催　みのかも文化の森　緑のホール
 
 <details>
   <summary>回答抜粋 クリック</summary> 
