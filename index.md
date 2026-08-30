@@ -78,6 +78,9 @@ title: 美濃加茂市の図書館を考える会 資料室
 1. <a href ="https://www.city.minokamo.lg.jp/soshiki/24/21451.html" target="_blnak">美濃加茂市新庁舎整備基本構想</a>
 1. <a href ="https://www.city.minokamo.lg.jp/soshiki/24/" target="_blank">新庁舎整備推進</a>　※担当課情報
 1. <a href ="https://minokamochosha.jp/wp-content/uploads/2025/06/%E3%80%90070610%E6%9C%80%E7%B5%82%E3%80%91%E3%81%8B%E3%82%8F%E3%82%89%E3%81%B0%E3%82%93vol.6.pdf" target="_balnk">みんなの新庁舎かわらばんvol.6 更新日：2025年6月13日更新</a>
+
+※中央図書館に係る記載あり。
+
 1. <a href="https://minokamochosha.jp/wp-content/uploads/2025/01/%E3%80%90%E6%9C%80%E7%B5%82%E3%80%91%E3%81%8B%E3%82%8F%E3%82%89%E3%81%B0%E3%82%93.pdf" target="_blank">みんなの新庁舎かわらばんvol.5 更新日：2025年1月6日更新 </a>
 1. <a href ="https://www.city.minokamo.lg.jp/uploaded/attachment/17073.pdf" target="_blank">みんなの新庁舎かわらばんvol.4</a>
 1. <a href ="https://www.city.minokamo.lg.jp/uploaded/attachment/17072.pdf" target="_blank">みんなの新庁舎かわらばんvol.3</a>
