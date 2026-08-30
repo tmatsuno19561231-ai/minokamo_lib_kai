@@ -65,7 +65,6 @@ title: 美濃加茂市の図書館を考える会 資料室
 1. <a href = "https://www.city.minokamo.lg.jp/uploaded/life/15706_26038_misc.pdf" target="_blank">第3次美濃加茂市教育振興基本計画</a>
 1. <a href = "https://static.gifu-ebooks.jp/actibook_data/01_minokamo_city_6th_comprehensive_plan_late_basic_plan__/?pNo=48" target="_blank">美濃加茂市第6次総合計画後期基本計画</a>
 
-
 ## 美濃加茂市公共施設等類型別カルテ
 1. <a href = "https://www.city.minokamo.lg.jp/uploaded/attachment/19601.pdf#page=48" target="_blank" >R7公共施設等類型別カルテ（公共施設白書）</a>
 > 中央図書館については、耐用年数 50 年を迎える時期で機能停止とし、建替え・更新を行わない方針とします。隣接する中央体育館の耐用年数が近づいていることを踏まえ、中央図書館・中央体育館一帯の将来的な利用方針を別途検討します。
@@ -87,25 +86,17 @@ title: 美濃加茂市の図書館を考える会 資料室
 1. <a href ="https://www.city.minokamo.lg.jp/uploaded/attachment/17072.pdf" target="_blank">みんなの新庁舎かわらばんvol.3</a>
 1. <a href ="https://www.city.minokamo.lg.jp/uploaded/attachment/17071.pdf" target="_blank">みんなの新庁舎かわらばんvol.2</a>
 1. <a href = "https://www.city.minokamo.lg.jp/uploaded/attachment/11932.pdf" target="_blank">みんなの新庁舎 かわらばんvol.1 2024年2月23日更新</a>
-
 1. <a href ="https://www.city.minokamo.lg.jp/uploaded/attachment/18539.pdf" target="_blank">説明会の質問に対する回答（2025.9.21開催：みのかも文化の森）</a>
-
 ※新庁舎整備事業説明会　第1回：9月21日（日）午後3時から開催　みのかも文化の森　緑のホール
-
 <details>
-  <summary>回答抜粋 クリック</summary> 
-             
+  <summary>回答抜粋 クリック</summary>           
 <blockquote style="text-align: left; display: inline-block; margin-top: 10px;">         
 > 市の図書館は中央と東の2つが大きな拠点となっており、今後のバランスを検討する必要があります。市公共施設等総合管理計画では統合が示唆されていますが、図館の機能や可能性には大きな期待があり、図書コーナー設置だけでは不十分との意見も踏まえ、今後、法律で定められた協議会で議論を進め、オープンな場で検討を深めていく方針です。
 </blockquote>
 </details>
-
 6. <a href ="https://www.city.minokamo.lg.jp/uploaded/attachment/20837.pdf" target="_blank"> 「美濃加茂市新庁舎整備基本構想（案）」に関する意見募集結果</a>　この情報は <a href = "https://www.city.minokamo.lg.jp/soshiki/26/2531.html" target="_blank"> パブリックコメント</a>に掲載あり。
-   
-
 <details>
   <summary>回答抜粋　クリック</summary> 
-
 <blockquote style="text-align: left; display: inline-block; margin-top: 10px;">
 新庁舎整備に伴い中央図書館が取り壊しとなることから、現時点では新庁舎内に図書室・図書コーナーを設置することを検討しています。
 
@@ -119,7 +110,6 @@ title: 美濃加茂市の図書館を考える会 資料室
 
 新庁舎の規模につきましても、新庁舎整備基本計画の中で、当市の職員数や来庁者数、働き方、各課の執務特性・要望事項、市民の皆様のご意見、さらには将来見込まれる社会状況の変化等を考慮した上で、規模を算定してまいります。
 </blockquote>
-
 <blockquote style="text-align: left; display: inline-block; margin-top: 10px;">        
 【３について】
 今回、新庁舎整備に伴い中央図書館を取り壊す予定となり、今後の図書館につきましては、「美濃加茂市公共施設等総合管理計画」を基本的な考え方としながらも、市民の皆様からのご意見をいただきながら、方向性を検討していきたいと考えています。
@@ -141,7 +131,6 @@ title: 美濃加茂市の図書館を考える会 資料室
 1. <a href = "https://www.city.minokamo.lg.jp/site/gikai/" target="_blank">美濃加茂市議会</a>
 1. <a href = "https://www.city.minokamo.lg.jp/site/gikai/7808.html" target="_blank">傍聴について</a>※「本会議傍聴について」及び「委員会傍聴について」の記載があります。
 1. <a href = "https://www.city.minokamo.lg.jp/site/gikai/7853.html" target="_blank">請願・陳情・意見書</a>※それぞれの手続きに係る説明の記載があります。
-
 1. <a href = "https://smart.discussvision.net/smart/tenant/minokamo/WebView/rd/speech.html?council_id=58&schedule_id=2&playlist_id=3&speaker_id=23&target_year=2026" target="_balnk">2026-06-16美濃加茂市議会議会中継 令和８年第2回　纐纈源太議</a> ※中央図書館の廃止で確保できる駐車台数が30台であることについての市長の回答あり
 1. <a href = "https://www.city.minokamo.lg.jp/uploaded/attachment/21205.pdf" target="_blank">令和8年美濃加茂市議会第２回定例会一般質問通告一覧</a>中、纐纈源太議員が図書館に係る質問掲載あり
 1. <a href = "https://www.city.minokamo.lg.jp/soshiki/36/17947.html" target="_blank">美濃加茂市総合教育会議会議録</a>
