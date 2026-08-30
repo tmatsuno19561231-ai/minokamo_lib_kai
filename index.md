@@ -87,10 +87,9 @@ title: 美濃加茂市の図書館を考える会 資料室
 </blockquote>
 </details>
 
-<li value="5">五つ目の項目（ここから5番に修正）</li>
 
-<li value="5" ></li>
-1. <a href ="https://www.city.minokamo.lg.jp/uploaded/attachment/20837.pdf" target="_blank"> 「美濃加茂市新庁舎整備基本構想（案）」に関する意見募集結果</a>　この情報は <a href = "https://www.city.minokamo.lg.jp/soshiki/26/2531.html" target="_blank"> パブリックコメント</a>に掲載あり。
+
+6. <a href ="https://www.city.minokamo.lg.jp/uploaded/attachment/20837.pdf" target="_blank"> 「美濃加茂市新庁舎整備基本構想（案）」に関する意見募集結果</a>　この情報は <a href = "https://www.city.minokamo.lg.jp/soshiki/26/2531.html" target="_blank"> パブリックコメント</a>に掲載あり。
 
 <details>
   <summary>回答抜粋　クリックすると展開します</summary> 
