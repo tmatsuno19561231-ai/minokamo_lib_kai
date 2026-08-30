@@ -87,7 +87,7 @@ title: 美濃加茂市の図書館を考える会 資料室
 1. <a href ="https://www.city.minokamo.lg.jp/uploaded/attachment/17071.pdf" target="_blank">みんなの新庁舎かわらばんvol.2</a>
 1. <a href = "https://www.city.minokamo.lg.jp/uploaded/attachment/11932.pdf" target="_blank">みんなの新庁舎 かわらばんvol.1 2024年2月23日更新</a>
 1. <a href ="https://www.city.minokamo.lg.jp/uploaded/attachment/18539.pdf" target="_blank">説明会の質問に対する回答（2025.9.21開催：みのかも文化の森）</a>
-※新庁舎整備事業説明会　第1回：9月21日（日）午後3時から開催　みのかも文化の森　緑のホール
+※新庁舎整備事業説明会　第1回：2025年9月21日（日）午後3時から開催　みのかも文化の森　緑のホール
 <details>
 <summary>回答抜粋 クリック</summary>           
 <blockquote style="text-align: left; display: inline-block; margin-top: 10px;">         
