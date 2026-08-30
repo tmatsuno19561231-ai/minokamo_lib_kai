@@ -81,6 +81,7 @@ title: 美濃加茂市の図書館を考える会 資料室
 <blockquote style="text-align: left; display: inline-block; margin-top: 10px;">     
 中央図書館は東図書館との統合を検討する時期となっているため、中央図書館敷地は駐車場用地として活用し、庁舎内に図書コーナーを設置することを見込んでいます。
 </blockquote>
+
 1. <a href="https://minokamochosha.jp/wp-content/uploads/2025/01/%E3%80%90%E6%9C%80%E7%B5%82%E3%80%91%E3%81%8B%E3%82%8F%E3%82%89%E3%81%B0%E3%82%93.pdf" target="_blank">みんなの新庁舎かわらばんvol.5 更新日：2025年1月6日更新 </a>
 1. <a href ="https://www.city.minokamo.lg.jp/uploaded/attachment/17073.pdf" target="_blank">みんなの新庁舎かわらばんvol.4</a>
 1. <a href ="https://www.city.minokamo.lg.jp/uploaded/attachment/17072.pdf" target="_blank">みんなの新庁舎かわらばんvol.3</a>
