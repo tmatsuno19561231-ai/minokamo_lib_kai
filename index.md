@@ -73,10 +73,10 @@ title: 美濃加茂市の図書館を考える会 資料室
 中央図書館が耐用年数を迎える時期に、中央図書館と東図書館を統合することを検討します。その際は、東図書館に機能を集中させることを基本とします<br>
 </blockquote>
 
-1. <a href = "https://www.city.kakamigahara.lg.jp/_res/projects/default_project/_page_/001/010/615/r8.4_2-1.pdf" target="_blank" >（参考）各務原市社会教育系施設（中央図書館、もりの本やさん・森の交流館）個別施設計画</a>
-1. <a href = "https://current.ndl.go.jp/ca2034" _target="_blank">（参考）カレントアウェアネス No.354　2022年12月20日 CA2034
+2. <a href = "https://www.city.kakamigahara.lg.jp/_res/projects/default_project/_page_/001/010/615/r8.4_2-1.pdf" target="_blank" >（参考）各務原市社会教育系施設（中央図書館、もりの本やさん・森の交流館）個別施設計画</a>
+3. <a href = "https://current.ndl.go.jp/ca2034" _target="_blank">（参考）カレントアウェアネス No.354　2022年12月20日 CA2034
 動向レビュー 公共施設等総合管理計画と公立図書館の施設整備</a>
-1. <a href = "https://www.jstage.jst.go.jp/article/finexjournal/2/2/2_KJ00001530474/_pdf" target="_blank">（参考）建築物の 耐久計画の考え方
+4. <a href = "https://www.jstage.jst.go.jp/article/finexjournal/2/2/2_KJ00001530474/_pdf" target="_blank">（参考）建築物の 耐久計画の考え方
 </a>
 
 ## 新庁舎整備関係
@@ -99,7 +99,8 @@ title: 美濃加茂市の図書館を考える会 資料室
 > 市の図書館は中央と東の2つが大きな拠点となっており、今後のバランスを検討する必要があります。市公共施設等総合管理計画では統合が示唆されていますが、図館の機能や可能性には大きな期待があり、図書コーナー設置だけでは不十分との意見も踏まえ、今後、法律で定められた協議会で議論を進め、オープンな場で検討を深めていく方針です。
 </blockquote>
 </details>
-10. <a href ="https://www.city.minokamo.lg.jp/uploaded/attachment/20837.pdf" target="_blank"> 「美濃加茂市新庁舎整備基本構想（案）」に関する意見募集結果</a>　この情報は <a href = "https://www.city.minokamo.lg.jp/soshiki/26/2531.html" target="_blank"> パブリックコメント</a>に掲載あり。
+
+11. <a href ="https://www.city.minokamo.lg.jp/uploaded/attachment/20837.pdf" target="_blank"> 「美濃加茂市新庁舎整備基本構想（案）」に関する意見募集結果</a>　この情報は <a href = "https://www.city.minokamo.lg.jp/soshiki/26/2531.html" target="_blank"> パブリックコメント</a>に掲載あり。
 <details>
 <summary>回答抜粋　クリック</summary> 
 <blockquote style="text-align: left; display: inline-block; margin-top: 10px;">
