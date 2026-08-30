@@ -80,14 +80,16 @@ title: 美濃加茂市の図書館を考える会 資料室
 1. <a href ="https://www.city.minokamo.lg.jp/uploaded/attachment/18539.pdf" target="_blank">説明会の質問に対する回答（2025.9.21開催：みのかも文化の森）</a>
 
 <details>
-  <summary>回答抜粋　クリックすると展開します</summary>           
+  <summary><回答抜粋　クリックすると展開します</summary> 
+             
 > 市の図書館は中央と東の2つが大きな拠点となっており、今後のバランスを検討する必要があります。市公共施設等総合管理計画では統合が示唆されていますが、図館の機能や可能性には大きな期待があり、図書コーナー設置だけでは不十分との意見も踏まえ、今後、法律で定められた協議会で議論を進め、オープンな場で検討を深めていく方針です。
 </details>
 
 1. <a href ="https://www.city.minokamo.lg.jp/uploaded/attachment/20837.pdf" target="_blank"> 「美濃加茂市新庁舎整備基本構想（案）」に関する意見募集結果</a>　この情報は <a href = "https://www.city.minokamo.lg.jp/soshiki/26/2531.html" target="_blank"> パブリックコメント</a>に掲載あり。
 
 <details>
-  <summary>回答抜粋　クリックすると展開します</summary>         
+  <summary>回答抜粋　クリックすると展開します</summary> 
+           
 > 新庁舎整備に伴い中央図書館が取り壊しとなることから、現時点では新庁舎内に図書室・図書コーナーを設置することを検討しています。
 > どのような機能を備えるべきかにつきましては、今後の図書館のあり方や、市民の読書活動推進の観点から検討を進めることが重要であると考えていますので、ご指摘いただきました「美濃加茂市子どもの読書活動推進計画」の更新につきましては、早急に実施いたします。
 > また、今後の図書館としての取り組みや、市民の読書活動推進等を示す「図書館ビジョン」につきましては、現在、令和 8年度早々の策定を目指し、取り組みを進めているところです。
@@ -106,13 +108,15 @@ title: 美濃加茂市の図書館を考える会 資料室
 </details>
 
 ## 会議等
+1. <a href = "https://www.city.minokamo.lg.jp/site/gikai/" target="_blank">美濃加茂市議会</a>
+
 1. <a href = "https://smart.discussvision.net/smart/tenant/minokamo/WebView/rd/speech.html?council_id=58&schedule_id=2&playlist_id=3&speaker_id=23&target_year=2026" target="_balnk">2026-06-16美濃加茂市議会議会中継 令和８年第2回　纐纈源太議</a> ※中央図書館の廃止で確保できる駐車台数が30台であることについての市長の回答あり
-1. <a href = "https://www.city.minokamo.lg.jp/uploaded/attachment/21205.pdf" target="_blank">和8年美濃加茂市議会第２回定例会一般質問通告一覧</a>中、纐纈源太議員が図書館に係る質問掲載あり
+1. <a href = "https://www.city.minokamo.lg.jp/uploaded/attachment/21205.pdf" target="_blank">令和8年美濃加茂市議会第２回定例会一般質問通告一覧</a>中、纐纈源太議員が図書館に係る質問掲載あり
 1. <a href = "https://www.city.minokamo.lg.jp/soshiki/36/17947.html" target="_blank">美濃加茂市総合教育会議</a>
   
 ## 日本の図書館統計
-<a href = "https://japanlibraryassociation.app.box.com/s/ctkfz1ejj3e5n798vjticckl4nn3a85h" target="_blank"> 日本の図書館電子媒体版（無償版）</a>
-1. 『日本の図書館』電子媒体版（無償版・1996年～2020年）がオープンデータになっています。
+1. <a href ="https://www.jla.or.jp/library_statistics_in_japan/" target="_blank">日本の図書館統計</a>
+1. <a href = "https://japanlibraryassociation.app.box.com/s/ctkfz1ejj3e5n798vjticckl4nn3a85h" target="_blank"> 日本の図書館電子媒体版（無償版）</a>　※『日本の図書館』電子媒体版（無償版・1996年～2020年）がオープンデータになっています。
 
 ## misc
 
