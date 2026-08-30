@@ -24,6 +24,16 @@
   display: none !important;
 }
 
+details {
+  text-align: center;
+  margin: 10px auto;
+}
+summary {
+  display: inline-block;
+  cursor: pointer;
+}
+
+
 /* 4. フッターの「maintained by...」の文字を非表示にする（既存の設定） */
 .site-footer {
   display: none !important;
