@@ -89,14 +89,14 @@ title: 美濃加茂市の図書館を考える会 資料室
 1. <a href ="https://www.city.minokamo.lg.jp/uploaded/attachment/18539.pdf" target="_blank">説明会の質問に対する回答（2025.9.21開催：みのかも文化の森）</a>
 ※新庁舎整備事業説明会　第1回：9月21日（日）午後3時から開催　みのかも文化の森　緑のホール
 <details>
-  <summary>回答抜粋 クリック</summary>           
+<summary>回答抜粋 クリック</summary>           
 <blockquote style="text-align: left; display: inline-block; margin-top: 10px;">         
 > 市の図書館は中央と東の2つが大きな拠点となっており、今後のバランスを検討する必要があります。市公共施設等総合管理計画では統合が示唆されていますが、図館の機能や可能性には大きな期待があり、図書コーナー設置だけでは不十分との意見も踏まえ、今後、法律で定められた協議会で議論を進め、オープンな場で検討を深めていく方針です。
 </blockquote>
 </details>
-6. <a href ="https://www.city.minokamo.lg.jp/uploaded/attachment/20837.pdf" target="_blank"> 「美濃加茂市新庁舎整備基本構想（案）」に関する意見募集結果</a>　この情報は <a href = "https://www.city.minokamo.lg.jp/soshiki/26/2531.html" target="_blank"> パブリックコメント</a>に掲載あり。
+10. <a href ="https://www.city.minokamo.lg.jp/uploaded/attachment/20837.pdf" target="_blank"> 「美濃加茂市新庁舎整備基本構想（案）」に関する意見募集結果</a>　この情報は <a href = "https://www.city.minokamo.lg.jp/soshiki/26/2531.html" target="_blank"> パブリックコメント</a>に掲載あり。
 <details>
-  <summary>回答抜粋　クリック</summary> 
+<summary>回答抜粋　クリック</summary> 
 <blockquote style="text-align: left; display: inline-block; margin-top: 10px;">
 新庁舎整備に伴い中央図書館が取り壊しとなることから、現時点では新庁舎内に図書室・図書コーナーを設置することを検討しています。
 
@@ -118,13 +118,11 @@ title: 美濃加茂市の図書館を考える会 資料室
 
 今後の美濃加茂市の図書館としての取り組みや読書推進につきましては、「図書館ビジョン」として、令和８年度早々に整備できるよう取りかかっています。
 </blockquote>
-
 <blockquote style="text-align: left; display: inline-block; margin-top: 10px;">        
 【３について】
 
 中央図書館の蔵書につきましては、新庁舎内に設置予定の図書室・図書コーナーに配架し、配架できない蔵書につきましても、市民の大切な財産として、別途保管場所を確保していく予定です。
 </blockquote>
-
 </details>
 
 ## 議会等
