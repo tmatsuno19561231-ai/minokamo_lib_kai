@@ -74,8 +74,7 @@ title: 美濃加茂市の図書館を考える会 資料室
 2. <a href = "https://www.city.kakamigahara.lg.jp/_res/projects/default_project/_page_/001/010/615/r8.4_2-1.pdf" target="_blank" >（参考）各務原市社会教育系施設（中央図書館、もりの本やさん・森の交流館）個別施設計画</a>
 3. <a href = "https://current.ndl.go.jp/ca2034" _target="_blank">（参考）カレントアウェアネス No.354　2022年12月20日 CA2034
 動向レビュー 公共施設等総合管理計画と公立図書館の施設整備</a>
-4. <a href = "https://www.jstage.jst.go.jp/article/finexjournal/2/2/2_KJ00001530474/_pdf" target="_blank">（参考）建築物の 耐久計画の考え方　 https://doi.org/10.14820/finexjournal.2.2_59
-</a>
+4. <a href = "https://www.jstage.jst.go.jp/article/finexjournal/2/2/2_KJ00001530474/_pdf" target="_blank">（参考）建築物の 耐久計画の考え方</a>　https://doi.org/10.14820/finexjournal.2.2_59
 
 ## 新庁舎整備関係
 1. <a href ="https://www.city.minokamo.lg.jp/soshiki/24/21451.html" target="_blnak">美濃加茂市新庁舎整備基本構想</a>
