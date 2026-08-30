@@ -29,7 +29,7 @@ title: 美濃加茂市の図書館を考える会 資料室
 
 ### 美濃加茂市歳入歳出決算書
 
-- <a href = "https://www.city.minokamo.lg.jp/uploaded/attachment/15501.pdf#page=94" target="_blank">[美濃加茂市一般会計　歳入歳出決算事項別明細書（歳出）令和５年度 94p</a>
+1. <a href = "https://www.city.minokamo.lg.jp/uploaded/attachment/15501.pdf#page=94" target="_blank">[美濃加茂市一般会計　歳入歳出決算事項別明細書（歳出）令和５年度 94p</a>
 
 ### 決算実績報告書
 <a href = "https://www.city.minokamo.lg.jp/soshiki/28/2572.html" target="_blank">決算実績報告書が公表されています。</a>
@@ -49,52 +49,52 @@ title: 美濃加茂市の図書館を考える会 資料室
 | AVR | | 16,760,867 | 18,113,960 | 34,874,827 |
 
 参考としたデータは、次のとおり。
-- <a href = "https://www.city.minokamo.lg.jp/uploaded/attachment/18340.pdf#page=133" target="_blank">令和6年決算実績報告書 133p </a>
-- <a href = "https://www.city.minokamo.lg.jp/uploaded/attachment/14869.pdf#page=122" target="_blank">令和5年決算実績報告書 122p </a>
-- <a href = "https://www.city.minokamo.lg.jp/uploaded/attachment/6864.pdf#page=124" target="_blank">令和4年決算実績報告書 124p </a>
-- <a href = "https://www.city.minokamo.lg.jp/uploaded/attachment/6865.pdf#page=128" target="_blank">令和3年決算実績報告書 128p </a>
-- <a href = "https://www.city.minokamo.lg.jp/uploaded/attachment/6866.pdf#page=125" target="_blank">令和2年決算実績報告書 125p </a>
-- <a href = "https://www.city.minokamo.lg.jp/uploaded/attachment/6867.pdf#page=130" target="_blank">令和元年決算実績報告書 130p </a>
+1. <a href = "https://www.city.minokamo.lg.jp/uploaded/attachment/18340.pdf#page=133" target="_blank">令和6年決算実績報告書 133p </a>
+1. <a href = "https://www.city.minokamo.lg.jp/uploaded/attachment/14869.pdf#page=122" target="_blank">令和5年決算実績報告書 122p </a>
+1. <a href = "https://www.city.minokamo.lg.jp/uploaded/attachment/6864.pdf#page=124" target="_blank">令和4年決算実績報告書 124p </a>
+1. <a href = "https://www.city.minokamo.lg.jp/uploaded/attachment/6865.pdf#page=128" target="_blank">令和3年決算実績報告書 128p </a>
+1. <a href = "https://www.city.minokamo.lg.jp/uploaded/attachment/6866.pdf#page=125" target="_blank">令和2年決算実績報告書 125p </a>
+1. <a href = "https://www.city.minokamo.lg.jp/uploaded/attachment/6867.pdf#page=130" target="_blank">令和元年決算実績報告書 130p </a>
            
 ## 計画等
-- <a href ="https://www3.city.minokamo.gifu.jp/release/fileopen.cfm?id=1&filename=/katudousuisin.pdf" target="_blank">美濃加茂市子どもの読書活動推進計画</a>
-- <a href = "https://www.pref.gifu.lg.jp/page/171510.html" target="_blank"> （参考）市町村子どもの読書活動推進計画の策定状況<a/>
-- <a href = "https://www.city.minokamo.lg.jp/uploaded/life/15706_26038_misc.pdf" target="_blank">第3次美濃加茂市教育振興基本計画</a>
-- <a href = "https://static.gifu-ebooks.jp/actibook_data/01_minokamo_city_6th_comprehensive_plan_late_basic_plan__/?pNo=48" target="_blank">美濃加茂市第6次総合計画後期基本計画</a>
+1. <a href ="https://www3.city.minokamo.gifu.jp/release/fileopen.cfm?id=1&filename=/katudousuisin.pdf" target="_blank">美濃加茂市子どもの読書活動推進計画</a>
+1. <a href = "https://www.pref.gifu.lg.jp/page/171510.html" target="_blank"> （参考）市町村子どもの読書活動推進計画の策定状況<a/>
+1. <a href = "https://www.city.minokamo.lg.jp/uploaded/life/15706_26038_misc.pdf" target="_blank">第3次美濃加茂市教育振興基本計画</a>
+1. <a href = "https://static.gifu-ebooks.jp/actibook_data/01_minokamo_city_6th_comprehensive_plan_late_basic_plan__/?pNo=48" target="_blank">美濃加茂市第6次総合計画後期基本計画</a>
 
 
 ## 美濃加茂市公共施設等類型別カルテ
-- <a href = "https://www.city.minokamo.lg.jp/uploaded/attachment/19601.pdf#page=48" target="_blank" >R7公共施設等類型別カルテ（公共施設白書）</a>
-- <a href = "https://www.city.kakamigahara.lg.jp/_res/projects/default_project/_page_/001/010/615/r8.4_2-1.pdf" target="_blank" >（参考）各務原市社会教育系施設（中央図書館、もりの本やさん・森の交流館）個別施設計画</a>
-- <a href = "https://current.ndl.go.jp/ca2034" _target="_blank">（参考）カレントアウェアネス No.354　2022年12月20日 CA2034
+1. <a href = "https://www.city.minokamo.lg.jp/uploaded/attachment/19601.pdf#page=48" target="_blank" >R7公共施設等類型別カルテ（公共施設白書）</a>
+1. <a href = "https://www.city.kakamigahara.lg.jp/_res/projects/default_project/_page_/001/010/615/r8.4_2-1.pdf" target="_blank" >（参考）各務原市社会教育系施設（中央図書館、もりの本やさん・森の交流館）個別施設計画</a>
+1. <a href = "https://current.ndl.go.jp/ca2034" _target="_blank">（参考）カレントアウェアネス No.354　2022年12月20日 CA2034
 動向レビュー 公共施設等総合管理計画と公立図書館の施設整備</a>
-- <a href = "https://www.jstage.jst.go.jp/article/finexjournal/2/2/2_KJ00001530474/_pdf" target="_blank">（参考）建築物の 耐久計画の考え方
+1. <a href = "https://www.jstage.jst.go.jp/article/finexjournal/2/2/2_KJ00001530474/_pdf" target="_blank">（参考）建築物の 耐久計画の考え方
 </a>
 
 ## 新庁舎関係
-- <a href ="https://www.city.minokamo.lg.jp/soshiki/24/21451.html" target="_blnak">美濃加茂市新庁舎整備基本構</a>
-- <a href ="https://www.city.minokamo.lg.jp/soshiki/24/" target="_blank">新庁舎整備推進</a>担当課情報
-- <a href ="https://minokamochosha.jp/wp-content/uploads/2025/06/%E3%80%90070610%E6%9C%80%E7%B5%82%E3%80%91%E3%81%8B%E3%82%8F%E3%82%89%E3%81%B0%E3%82%93vol.6.pdf" target="_balnk">みんなの新庁舎　かわらばんvol.6</a>
-- <a href="https://minokamochosha.jp/wp-content/uploads/2025/01/%E3%80%90%E6%9C%80%E7%B5%82%E3%80%91%E3%81%8B%E3%82%8F%E3%82%89%E3%81%B0%E3%82%93.pdf" target="_blank">みんなの新庁舎 かわらばんvol.5_1212_2</a>
+1. <a href ="https://www.city.minokamo.lg.jp/soshiki/24/21451.html" target="_blnak">美濃加茂市新庁舎整備基本構</a>
+1. <a href ="https://www.city.minokamo.lg.jp/soshiki/24/" target="_blank">新庁舎整備推進</a>担当課情報
+1. <a href ="https://minokamochosha.jp/wp-content/uploads/2025/06/%E3%80%90070610%E6%9C%80%E7%B5%82%E3%80%91%E3%81%8B%E3%82%8F%E3%82%89%E3%81%B0%E3%82%93vol.6.pdf" target="_balnk">みんなの新庁舎　かわらばんvol.6</a>
+1. <a href="https://minokamochosha.jp/wp-content/uploads/2025/01/%E3%80%90%E6%9C%80%E7%B5%82%E3%80%91%E3%81%8B%E3%82%8F%E3%82%89%E3%81%B0%E3%82%93.pdf" target="_blank">みんなの新庁舎 かわらばんvol.5_1212_2</a>
 
-- <a href ="https://www.city.minokamo.lg.jp/uploaded/attachment/18539.pdf" target="_blank">説明会の質問に対する回答（2025.9.21開催：みのかも文化の森）</a>
-- <a href ="https://www.city.minokamo.lg.jp/uploaded/attachment/20837.pdf" target="_blank"> 「美濃加茂市新庁舎整備基本構想（案）」に関する意見募集結果</a>　この情報は <a href = "https://www.city.minokamo.lg.jp/soshiki/26/2531.html" target="_blank"> パブリックコメント</a>に掲載あり。
--  
+1. <a href ="https://www.city.minokamo.lg.jp/uploaded/attachment/18539.pdf" target="_blank">説明会の質問に対する回答（2025.9.21開催：みのかも文化の森）</a>
+1. <a href ="https://www.city.minokamo.lg.jp/uploaded/attachment/20837.pdf" target="_blank"> 「美濃加茂市新庁舎整備基本構想（案）」に関する意見募集結果</a>　この情報は <a href = "https://www.city.minokamo.lg.jp/soshiki/26/2531.html" target="_blank"> パブリックコメント</a>に掲載あり。
+
 
 ## 会議等
-- <a href = "https://www.city.minokamo.lg.jp/soshiki/36/17947.html" target="_blank">美濃加茂市総合教育会議</a>
+1. <a href = "https://www.city.minokamo.lg.jp/soshiki/36/17947.html" target="_blank">美濃加茂市総合教育会議</a>
   
 ## 日本の図書館統計
-- <a href = "https://japanlibraryassociation.app.box.com/s/ctkfz1ejj3e5n798vjticckl4nn3a85h" target="_blank"> 日本の図書館電子媒体版（無償版）</a>
-- 『日本の図書館』電子媒体版（無償版・1996年～2020年）がオープンデータになっています。
+<a href = "https://japanlibraryassociation.app.box.com/s/ctkfz1ejj3e5n798vjticckl4nn3a85h" target="_blank"> 日本の図書館電子媒体版（無償版）</a>
+1. 『日本の図書館』電子媒体版（無償版・1996年～2020年）がオープンデータになっています。
 
 ## misc
 
-- <a href = "https://www.jla.or.jp/library_resources-_and_guidelines/missions_and_goals/" target="_blank">日本図書館協会　公立図書館の任務と目標]</a>
-- <a href = "https://www.jla.or.jp/library_resources-_and_guidelines/desirable_standards/" target="_blank">日本図書館協会　図書館の設置及び運営上の望ましい基準]</a>
-- <a href = "https://www.jla.or.jp/library_resources-_and_guidelines/ifla-unesco-public-library-manifesto2022/" target="_blank">日本図書館協会　IFLA-UNESCO公共図書館宣言2022</a>
+1. <a href = "https://www.jla.or.jp/library_resources-_and_guidelines/missions_and_goals/" target="_blank">日本図書館協会　公立図書館の任務と目標]</a>
+1. <a href = "https://www.jla.or.jp/library_resources-_and_guidelines/desirable_standards/" target="_blank">日本図書館協会　図書館の設置及び運営上の望ましい基準]</a>
+1. <a href = "https://www.jla.or.jp/library_resources-_and_guidelines/ifla-unesco-public-library-manifesto2022/" target="_blank">日本図書館協会　IFLA-UNESCO公共図書館宣言2022</a>
 
-- <a href ="https://tomonken.org/wp-content/uploads/2026/07/%E5%9B%B3%E6%9B%B8%E9%A4%A8%E8%A8%88%E7%94%BB%E3%81%AF%E3%81%93%E3%82%8C%E3%81%A7%E3%81%84%E3%81%84%E3%81%AE%E3%81%8B%EF%BC%9F-%E3%83%AA%E3%83%BC%E3%83%95%E3%83%AC%E3%83%83%E3%83%88%E6%94%B9%E8%A8%82%E7%89%88-2026.7.6.pdf" target="_blank">図書館問題研究会　図書館計画はこれでいいのか？　リーフレット改訂版 2026.7.6</a>
-- <a href = "https://www.mext.go.jp/b_menu/houdou/mext_01613.html" target="_blank">文部科学省　図書館が拓く未来の学びと地域社会（報告書）令和８年３月１７日</a>
-- <a href = "https://www.mext.go.jp/a_menu/shougai/tosho/mext_00001.html" target="_blank">文部科学省　図書館・書店等連携実践事例集</a>
+1. <a href ="https://tomonken.org/wp-content/uploads/2026/07/%E5%9B%B3%E6%9B%B8%E9%A4%A8%E8%A8%88%E7%94%BB%E3%81%AF%E3%81%93%E3%82%8C%E3%81%A7%E3%81%84%E3%81%84%E3%81%AE%E3%81%8B%EF%BC%9F-%E3%83%AA%E3%83%BC%E3%83%95%E3%83%AC%E3%83%83%E3%83%88%E6%94%B9%E8%A8%82%E7%89%88-2026.7.6.pdf" target="_blank">図書館問題研究会　図書館計画はこれでいいのか？　リーフレット改訂版 2026.7.6</a>
+1. <a href = "https://www.mext.go.jp/b_menu/houdou/mext_01613.html" target="_blank">文部科学省　図書館が拓く未来の学びと地域社会（報告書）令和８年３月１７日</a>
+1. <a href = "https://www.mext.go.jp/a_menu/shougai/tosho/mext_00001.html" target="_blank">文部科学省　図書館・書店等連携実践事例集</a>
 
