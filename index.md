@@ -95,6 +95,9 @@ B．二酸化炭素排出量の削減のためには，我が国の建築物の�
 
 ## 新庁舎整備関係
 1. <a href ="https://www.city.minokamo.lg.jp/soshiki/24/21451.html" target="_blnak">美濃加茂市新庁舎整備基本構想</a>
+           - <a href = "https://minokamochosha.jp/wp-content/uploads/2026/03/%E3%80%90%E5%8F%82%E8%80%83%E8%B3%87%E6%96%99%E3%80%9101-1%E5%9F%BA%E6%9C%AC%E6%A7%8B%E6%83%B3%EF%BC%88%E6%9C%AC%E7%B7%A8%EF%BC%89.pdf" target="_blank">新庁舎整備基本構想　本編＜外部リンク＞</a>
+           -<a href = "https://minokamochosha.jp/wp-content/uploads/2026/03/%E3%80%90%E5%8F%82%E8%80%83%E8%B3%87%E6%96%99%E3%80%9101-2%E5%9F%BA%E6%9C%AC%E6%A7%8B%E6%83%B3%EF%BC%88%E6%A6%82%E8%A6%81%E7%89%88%EF%BC%89.pdf" target="_blank">新庁舎整備基本構想　概要版＜外部リンク＞</a>
+
 2. <a href ="https://www.city.minokamo.lg.jp/soshiki/24/" target="_blank">新庁舎整備推進</a>　※担当課情報
 3. <a href ="https://minokamochosha.jp/wp-content/uploads/2025/06/%E3%80%90070610%E6%9C%80%E7%B5%82%E3%80%91%E3%81%8B%E3%82%8F%E3%82%89%E3%81%B0%E3%82%93vol.6.pdf" target="_balnk">みんなの新庁舎かわらばんvol.6 更新日：2025年6月13日更新</a>
 > 中央図書館は東図書館との統合を検討する時期となっているため、中央図書館敷地は駐車場用地として活用し、庁舎内に図書コーナーを設置することを見込んでいます。
