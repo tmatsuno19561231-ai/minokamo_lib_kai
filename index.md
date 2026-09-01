@@ -150,12 +150,10 @@ B．二酸化炭素排出量の削減のためには，我が国の建築物の�
 1. <a href = "https://smart.discussvision.net/smart/tenant/minokamo/WebView/rd/council_1.html?referrer=https%3A%2F%2Fwww.city.minokamo.lg.jp%2F" target="_blank">美濃加茂市議会　中継</a>
 
 1. <a href = "https://www.city.minokamo.lg.jp/site/gikai/7808.html" target="_blank">傍聴について</a>※「本会議傍聴について」及び「委員会傍聴について」の記載があります。
-1. <a href = "https://www.city.minokamo.lg.jp/site/gikai/7853.html" target="_blank">請願・陳情・意見書</a>※それぞれの手続きに係る説明の記載があります。
-1. <a href = "https://smart.discussvision.net/smart/tenant/minokamo/WebView/rd/speech.html?council_id=58&schedule_id=2&playlist_id=3&speaker_id=23&target_year=2026" target="_balnk">2026-06-16美濃加茂市議会議会中継 令和８年第2回　纐纈源太議員</a> ※中央図書館の廃止で確保できる駐車台数が30台であることについての市長の回答あり
+1. <a href = "https://www.city.minokamo.lg.jp/site/gikai/7853.html" target="_blank">請願・陳情・意見書</a>※それぞれの手続きに係る説明の記載あり。。
+1. <a href = "https://smart.discussvision.net/smart/tenant/minokamo/WebView/rd/speech.html?council_id=58&schedule_id=2&playlist_id=3&speaker_id=23&target_year=2026" target="_balnk">2026-06-16美濃加茂市議会議会中継 令和８年第2回　纐纈源太議員　一般質問　2026-06-16</a>
 1. <a href = "https://www.city.minokamo.lg.jp/uploaded/attachment/21205.pdf" target="_blank">令和8年美濃加茂市議会第２回定例会一般質問通告一覧</a> 図書館に係る質問掲載あり
-2. <a href = "https://www.city.minokamo.lg.jp/uploaded/attachment/21935.pdf" target="_blank">令和８年美濃加茂市議会第３回定例会一般質問通告一覧</a> 図書館に係る質問掲載あり
-
-
+1. <a href = "https://www.city.minokamo.lg.jp/uploaded/attachment/21935.pdf" target="_blank">令和８年美濃加茂市議会第３回定例会一般質問通告一覧</a> 図書館に係る質問掲載あり
 1. <a href = "https://www.city.minokamo.lg.jp/soshiki/36/17947.html" target="_blank">美濃加茂市総合教育会議会議録</a>
   
 ## 日本の図書館統計
@@ -163,7 +161,6 @@ B．二酸化炭素排出量の削減のためには，我が国の建築物の�
 1. <a href = "https://japanlibraryassociation.app.box.com/s/ctkfz1ejj3e5n798vjticckl4nn3a85h" target="_blank"> 日本の図書館電子媒体版（無償版）</a>　※『日本の図書館』電子媒体版（無償版・1996年～2020年）がオープンデータになっています。
 
 ## misc
-
 1. <a href = "https://www.jla.or.jp/library_resources-_and_guidelines/missions_and_goals/" target="_blank">日本図書館協会　公立図書館の任務と目標]</a>
 1. <a href = "https://www.jla.or.jp/library_resources-_and_guidelines/desirable_standards/" target="_blank">日本図書館協会　図書館の設置及び運営上の望ましい基準]</a>
 1. <a href = "https://www.jla.or.jp/library_resources-_and_guidelines/ifla-unesco-public-library-manifesto2022/" target="_blank">日本図書館協会　IFLA-UNESCO公共図書館宣言2022</a>
