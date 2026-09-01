@@ -117,7 +117,7 @@ B．二酸化炭素排出量の削減のためには，我が国の建築物の�
 <blockquote style="text-align: left; display: inline-block; margin-top: 10px;">
 市の図書館は中央と東の2つが大きな拠点となっており、今後のバランスを検討する必要があります。市公共施設等総合管理計画では統合が示唆されていますが、図館の機能や可能性には大きな期待があり、図書コーナー設置だけでは不十分との意見も踏まえ、今後、法律で定められた協議会で議論を進め、オープンな場で検討を深めていく方針です。
 </blockquote>
-10. <a href ="https://www.city.minokamo.lg.jp/uploaded/attachment/20837.pdf" target="_blank"> 「美濃加茂市新庁舎整備基本構想（案）」に関する意見募集結果</a>　この情報は <a href = "https://www.city.minokamo.lg.jp/soshiki/26/2531.html" target="_blank"> パブリックコメント</a>に掲載あり。
+1. <a href ="https://www.city.minokamo.lg.jp/uploaded/attachment/20837.pdf" target="_blank"> 「美濃加茂市新庁舎整備基本構想（案）」に関する意見募集結果</a>　この情報は <a href = "https://www.city.minokamo.lg.jp/soshiki/26/2531.html" target="_blank"> パブリックコメント</a>に掲載あり。
 
 ＜回答抜粋＞
 <blockquote style="text-align: left; display: inline-block; margin-top: 10px;">
