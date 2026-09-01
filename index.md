@@ -116,6 +116,7 @@ B．二酸化炭素排出量の削減のためには，我が国の建築物の�
 </blockquote>
 
 10. <a href ="https://www.city.minokamo.lg.jp/uploaded/attachment/20837.pdf" target="_blank"> 「美濃加茂市新庁舎整備基本構想（案）」に関する意見募集結果</a>　この情報は <a href = "https://www.city.minokamo.lg.jp/soshiki/26/2531.html" target="_blank"> パブリックコメント</a>に掲載あり。
+
 ＜回答抜粋＞
 <blockquote style="text-align: left; display: inline-block; margin-top: 10px;">
 新庁舎整備に伴い中央図書館が取り壊しとなることから、現時点では新庁舎内に図書室・図書コーナーを設置することを検討しています。
