@@ -109,13 +109,14 @@ B．二酸化炭素排出量の削減のためには，我が国の建築物の�
 8. <a href = "https://www.city.minokamo.lg.jp/uploaded/attachment/11932.pdf" target="_blank">みんなの新庁舎 かわらばんvol.1 2024年2月23日更新</a>
 9. <a href ="https://www.city.minokamo.lg.jp/uploaded/attachment/18539.pdf" target="_blank">説明会の質問に対する回答（2025.9.21開催：みのかも文化の森）</a>
 ※新庁舎整備事業説明会　第1回：2025年9月21日（日）午後3時から開催　みのかも文化の森　緑のホールにて開催
-   
+
+＜回答抜粋＞
 <blockquote style="text-align: left; display: inline-block; margin-top: 10px;">         
 市の図書館は中央と東の2つが大きな拠点となっており、今後のバランスを検討する必要があります。市公共施設等総合管理計画では統合が示唆されていますが、図館の機能や可能性には大きな期待があり、図書コーナー設置だけでは不十分との意見も踏まえ、今後、法律で定められた協議会で議論を進め、オープンな場で検討を深めていく方針です。
 </blockquote>
 
 10. <a href ="https://www.city.minokamo.lg.jp/uploaded/attachment/20837.pdf" target="_blank"> 「美濃加茂市新庁舎整備基本構想（案）」に関する意見募集結果</a>　この情報は <a href = "https://www.city.minokamo.lg.jp/soshiki/26/2531.html" target="_blank"> パブリックコメント</a>に掲載あり。
-
+＜回答抜粋＞
 <blockquote style="text-align: left; display: inline-block; margin-top: 10px;">
 新庁舎整備に伴い中央図書館が取り壊しとなることから、現時点では新庁舎内に図書室・図書コーナーを設置することを検討しています。
 
@@ -130,6 +131,7 @@ B．二酸化炭素排出量の削減のためには，我が国の建築物の�
 新庁舎の規模につきましても、新庁舎整備基本計画の中で、当市の職員数や来庁者数、働き方、各課の執務特性・要望事項、市民の皆様のご意見、さらには将来見込まれる社会状況の変化等を考慮した上で、規模を算定してまいります。
 </blockquote>
 
+＜回答抜粋＞
 <blockquote style="text-align: left; display: inline-block; margin-top: 10px;">        
 【３について】
 今回、新庁舎整備に伴い中央図書館を取り壊す予定となり、今後の図書館につきましては、「美濃加茂市公共施設等総合管理計画」を基本的な考え方としながらも、市民の皆様からのご意見をいただきながら、方向性を検討していきたいと考えています。
@@ -139,6 +141,7 @@ B．二酸化炭素排出量の削減のためには，我が国の建築物の�
 今後の美濃加茂市の図書館としての取り組みや読書推進につきましては、「図書館ビジョン」として、令和８年度早々に整備できるよう取りかかっています。
 </blockquote>
 
+＜回答抜粋＞
 <blockquote style="text-align: left; display: inline-block; margin-top: 10px;">        
 【３について】
 
