@@ -73,6 +73,8 @@ title: 美濃加茂市の図書館を考える会 資料室
 ⑥統合や廃止の推進方針  
 中央図書館が耐用年数を迎える時期に、中央図書館と東図書館を統合することを検討します。その際は、東図書館に機能を集中させることを基本とします  
  </blockquote>
+
+ 
 2. <a href = "https://www.city.kakamigahara.lg.jp/_res/projects/default_project/_page_/001/010/615/r8.4_2-1.pdf" target="_blank" >各務原市社会教育系施設（中央図書館、もりの本やさん・森の交流館）個別施設計画</a>
 3. <a href = "https://current.ndl.go.jp/ca2034" _target="_blank">カレントアウェアネス No.354　2022年12月20日 CA2034
 動向レビュー 公共施設等総合管理計画と公立図書館の施設整備</a>
