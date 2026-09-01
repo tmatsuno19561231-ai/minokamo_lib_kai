@@ -61,16 +61,13 @@ title: 美濃加茂市の図書館を考える会 資料室
 1. <a href = "https://www.city.minokamo.lg.jp/uploaded/attachment/6867.pdf#page=130" target="_blank">令和元年決算実績報告書 130p </a>
            
 ## 計画等
-1. <a href ="https://www3.city.minokamo.gifu.jp/release/fileopen.cfm?id=1&filename=/katudousuisin.pdf" target="_blank">美濃加茂市子どもの読書活動推進計画</a>
-
-平成１８年３月制定、計画期間は平成２２年度までの５年間としている。
+1. <a href ="https://www3.city.minokamo.gifu.jp/release/fileopen.cfm?id=1&filename=/katudousuisin.pdf" target="_blank">美濃加茂市子どもの読書活動推進計画</a>平成１８年３月制定、計画期間は平成２２年度までの５年間としている。
 
 1. <a href = "https://www.pref.gifu.lg.jp/page/171510.html" target="_blank"> （参考）市町村子どもの読書活動推進計画の策定状況<a/>
-
-岐阜県内の各市町村の策定状況を確認することが可能。
+岐阜県内の各市町村の策定状況がわかる。
 
 1. <a href = "https://www.city.minokamo.lg.jp/uploaded/life/15706_26038_misc.pdf" target="_blank">第3次美濃加茂市教育振興基本計画</a>
-1. <a href = "https://static.gifu-ebooks.jp/actibook_data/01_minokamo_city_6th_comprehensive_plan_late_basic_plan__/?pNo=48" target="_blank">美濃加茂市第6次総合計画後期基本計画</a>
+1. <a href = "https://static.gifu-ebooks.jp/actibook_data/01_minokamo_city_6th_comprehensive_plan_late_basic_plan__/?pNo=48" target="_blank">美濃加茂市第6次総合計画後期基本計画</a>「基本目標１（１）➂読書活動の推進」の記載がある。
 
 ## 美濃加茂市公共施設等類型別カルテ
 1. <a href = "https://www.city.minokamo.lg.jp/uploaded/attachment/19601.pdf#page=48" target="_blank" >R7公共施設等類型別カルテ（公共施設白書）</a>
