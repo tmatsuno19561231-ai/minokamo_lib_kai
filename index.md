@@ -63,7 +63,7 @@ title: 美濃加茂市の図書館を考える会 資料室
 ## 計画等
 1. <a href ="https://www3.city.minokamo.gifu.jp/release/fileopen.cfm?id=1&filename=/katudousuisin.pdf" target="_blank">美濃加茂市子どもの読書活動推進計画</a>
 
-平成１８年３月制定、その後の改定がされていない。
+平成１８年３月制定、計画期間は平成２２年度までの５年間としている。
 
 1. <a href = "https://www.pref.gifu.lg.jp/page/171510.html" target="_blank"> （参考）市町村子どもの読書活動推進計画の策定状況<a/>
 
