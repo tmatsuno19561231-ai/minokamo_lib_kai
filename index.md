@@ -82,8 +82,8 @@ title: 美濃加茂市の図書館を考える会 資料室
 動向レビュー 公共施設等総合管理計画と公立図書館の施設整備</a>
 4. <a href = "https://www.jstage.jst.go.jp/article/finexjournal/2/2/2_KJ00001530474/_pdf" target="_blank">（参考）建築物の 耐久計画の考え方</a>　https://doi.org/10.14820/finexjournal.2.2_59
 5. <a href = "https://www.aij.or.jp/jpn/archives/971202.htm" target="_blank">気候温暖化への建築分野での対応（会長声明全文）</a>
-
 1997年12月2日  社団法人 日本建築学会
+   
 <blockquote style="text-align: left; display: inline-block; margin-top: 10px;">         
 B．二酸化炭素排出量の削減のためには，我が国の建築物の耐用年数を３倍に延長することが必要不可欠であり，また可能であると考える。
 
