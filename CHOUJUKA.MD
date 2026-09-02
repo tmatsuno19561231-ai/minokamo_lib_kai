@@ -3,7 +3,9 @@
 ##　岐阜市
 
 <a href = "https://www.city.gifu.lg.jp/_res/projects/default_project/_page_/001/015/345/ippankentikubutu.pdf" target="_blank">
-岐阜市一般建築物個別施設計画</a>
+岐阜市一般建築物個別施設計画　 10P</a>
+
+（１）目標使用年数
 
 > 本計画の対象施設は、保全指針で定める目標使用年数「80年」を基本として、長寿命化を図ります。なお、劣化状況によっては、80年を経過した後においても可能な限り長く使用す
 ることを検討します。
