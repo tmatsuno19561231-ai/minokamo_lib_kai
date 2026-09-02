@@ -28,6 +28,7 @@
 > ※ 長寿命化に係る改修を実施した場合の使用年数の設定にあたっては、文部科学省「学校施設の長寿命化計画策定に係る手引」に「適切な維持管理がなされ、コンクリート及び鉄筋の強度が確保される場合には70～80年程度、さらに、技術的には100年以上持たせるような長寿命化も可能である。」と示されていることや公営住宅法における耐火構造の耐用年限が70年であることを参考に75年に設定します。 
 > 28p
 
+## 文部科学省
 <a href = "https://warp.ndl.go.jp/web/20250802063404/www.mext.go.jp/b_menu/shingi/chousa/shisetu/036/toushin/1356229.htm" target="_blank">学校施設の長寿命化計画策定に係る手引</a>
 
 <a href ="https://warp.ndl.go.jp/web/20250803162130/http://www.mext.go.jp/component/b_menu/shingi/toushin/__icsFiles/afieldfile/2015/04/08/1356232_4.pdf" target="_blank">2．学校施設の長寿命化計画策定の手引と解説</a>
