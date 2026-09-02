@@ -1,6 +1,7 @@
 # 公共施設の長寿化計画の状況
 
 ##　岐阜市
+
 <a href = "https://www.city.gifu.lg.jp/_res/projects/default_project/_page_/001/015/345/ippankentikubutu.pdf" target="_blank">
 岐阜市一般建築物個別施設計画</a>
 
