@@ -64,7 +64,7 @@ title: 美濃加茂市の図書館を考える会 資料室
 1. <a href = "https://static.gifu-ebooks.jp/actibook_data/01_minokamo_city_6th_comprehensive_plan_late_basic_plan__/?pNo=48" target="_blank">美濃加茂市第6次総合計画後期基本計画</a>（生涯学習・文化・スポーツの章で出張図書館事業の実施件数及び図書館利用者数の目標値を掲載。）
 
 ## 美濃加茂市公共施設等類型別カルテ
-1. <a href = "https://www.city.minokamo.lg.jp/uploaded/attachment/19601.pdf#page=48" target="_blank" >R7公共施設等類型別カルテ（公共施設白書）</a>　<a href = "./001.md" target="_blank" >関係個所抜粋</a> 
+1. <a href = "https://www.city.minokamo.lg.jp/uploaded/attachment/19601.pdf#page=48" target="_blank" >R7公共施設等類型別カルテ（公共施設白書）</a>　<a href = "./001.html" target="_blank" >関係個所抜粋</a> 
 
 <blockquote style="text-align: left; display: inline-block; margin-top: 10px;">        
  ②維持管理・修繕・更新等の実施方針<br>
