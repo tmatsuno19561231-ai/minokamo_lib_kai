@@ -33,7 +33,7 @@ title: 美濃加茂市の図書館を考える会 資料室
 2.  <a href = "https://www.city.minokamo.lg.jp/soshiki/30/2633.html" target="_blank">美濃加茂市歳入歳出決算書</a>
 
 ### 決算実績報告書
-1. <a href = "https://www.city.minokamo.lg.jp/soshiki/28/2572.html" target="_blank">決算実績報告書</a>（トップページ > 組織でさがす > 経営企画部 > 財政課 > 決算実績報告書の階層に平成22年から令和6年までデータを掲載。）
+1. <a href = "https://www.city.minokamo.lg.jp/soshiki/28/2572.html" target="_blank">決算実績報告書</a>
 2. <a href = "./001.html" target="_blank" >施設管理事業決算額の推移（令和元年から令和６年度まで）別ウィンドウ003</a>
 
            
