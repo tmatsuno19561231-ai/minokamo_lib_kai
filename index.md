@@ -29,7 +29,7 @@ title: 美濃加茂市の図書館を考える会 資料室
 
 ### 美濃加茂市歳入歳出決算書
 
-1. <a href = "https://www.city.minokamo.lg.jp/uploaded/attachment/15501.pdf#page=94" target="_blank">美濃加茂市一般会計　歳入歳出決算事項別明細書（歳出）令和５年度 94p</a>（図書館に関する事項は、（款）９　教育費　（項）5　社会教育　（目）図書館費に掲載。）
+1. <a href = "https://www.city.minokamo.lg.jp/uploaded/attachment/15501.pdf#page=94" target="_blank">美濃加茂市一般会計　歳入歳出決算事項別明細書（歳出）令和５年度 94p</a>
 2.  <a href = "https://www.city.minokamo.lg.jp/soshiki/30/2633.html" target="_blank">美濃加茂市歳入歳出決算書</a>
 
 ### 決算実績報告書
