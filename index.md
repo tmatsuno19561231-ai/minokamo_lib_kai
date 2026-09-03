@@ -75,7 +75,6 @@ title: 美濃加茂市の図書館を考える会 資料室
 ## 議会等
 1. <a href = "https://www.city.minokamo.lg.jp/site/gikai/" target="_blank">美濃加茂市議会</a>
 1. <a href = "https://smart.discussvision.net/smart/tenant/minokamo/WebView/rd/council_1.html?referrer=https%3A%2F%2Fwww.city.minokamo.lg.jp%2F" target="_blank">美濃加茂市議会　中継</a>
-
 1. <a href = "https://www.city.minokamo.lg.jp/site/gikai/7808.html" target="_blank">傍聴について</a>※
 1. <a href = "https://www.city.minokamo.lg.jp/site/gikai/7853.html" target="_blank">請願・陳情・意見書</a>
 1. <a href = "https://smart.discussvision.net/smart/tenant/minokamo/WebView/rd/speech.html?council_id=58&schedule_id=2&playlist_id=3&speaker_id=23&target_year=2026" target="_balnk">2026-06-16美濃加茂市議会議会中継 令和８年第2回　纐纈源太議員　一般質問　2026-06-16</a>
