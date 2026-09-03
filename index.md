@@ -80,8 +80,8 @@ title: 美濃加茂市の図書館を考える会 資料室
 
 ### 一般質問通告一覧
 1. <a href = "https://www.city.minokamo.lg.jp/uploaded/attachment/21954.pdf" target="_blank">令和８年美濃加茂市議会第３回定例会一般質問通告一覧</a>
-1. <a href = "https://www.city.minokamo.lg.jp/uploaded/attachment/21205.pdf" target="_blank">令和8年美濃加茂市議会第２回定例会一般質問通告一覧</a> 
-1. <a href = "https://www.city.minokamo.lg.jp/uploaded/attachment/19924.pdf" target="_blank">令和8年美濃加茂市議会第１回定例会一般質問通告一覧</a>
+1. <a href = "https://www.city.minokamo.lg.jp/uploaded/attachment/21205.pdf" target="_blank">令和８年美濃加茂市議会第２回定例会一般質問通告一覧</a> 
+1. <a href = "https://www.city.minokamo.lg.jp/uploaded/attachment/19924.pdf" target="_blank">令和８年美濃加茂市議会第１回定例会一般質問通告一覧</a>
 
 ---
 
