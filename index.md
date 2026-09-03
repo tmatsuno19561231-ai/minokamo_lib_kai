@@ -65,8 +65,7 @@ title: 美濃加茂市の図書館を考える会 資料室
  <a href = "./003.html" target="_blank" >関係個所抜粋</a>
  
 1. <a href="https://minokamochosha.jp/wp-content/uploads/2025/01/%E3%80%90%E6%9C%80%E7%B5%82%E3%80%91%E3%81%8B%E3%82%8F%E3%82%89%E3%81%B0%E3%82%93.pdf" target="_blank">みんなの新庁舎かわらばんvol.5</a>
- <a href = "./004.html" target="_blank" >関係個所抜粋</a>
-
+<a href = "./004.html" target="_blank" >関係個所抜粋</a>
 1. <a href ="https://www.city.minokamo.lg.jp/uploaded/attachment/17073.pdf" target="_blank">みんなの新庁舎かわらばんvol.4</a>
 1. <a href ="https://www.city.minokamo.lg.jp/uploaded/attachment/17072.pdf" target="_blank">みんなの新庁舎かわらばんvol.3</a>
 1. <a href ="https://www.city.minokamo.lg.jp/uploaded/attachment/17071.pdf" target="_blank">みんなの新庁舎かわらばんvol.2</a>
