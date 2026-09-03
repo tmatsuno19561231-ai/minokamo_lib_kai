@@ -34,7 +34,7 @@ title: 美濃加茂市の図書館を考える会 資料室
 
 ### 決算実績報告書
 1. <a href = "https://www.city.minokamo.lg.jp/soshiki/28/2572.html" target="_blank">決算実績報告書</a>（トップページ > 組織でさがす > 経営企画部 > 財政課 > 決算実績報告書の階層に平成22年から令和6年までデータを掲載。）
-2. <a href = "./003.html" target="_blank" >施設管理事業決算額の推移（令和元年から令和６年度まで）別ウィンドウ</a>
+2. <a href = "./001.html" target="_blank" >施設管理事業決算額の推移（令和元年から令和６年度まで）別ウィンドウ003</a>
 
            
 ## 計画等
@@ -47,13 +47,15 @@ title: 美濃加茂市の図書館を考える会 資料室
 1. <a href = "https://static.gifu-ebooks.jp/actibook_data/01_minokamo_city_6th_comprehensive_plan_late_basic_plan__/?pNo=48" target="_blank">美濃加茂市第6次総合計画後期基本計画</a>（生涯学習・文化・スポーツの章で出張図書館事業の実施件数及び図書館利用者数の目標値を掲載。）
 
 ## 美濃加茂市公共施設等類型別カルテ
-1. <a href = "https://www.city.minokamo.lg.jp/uploaded/attachment/19601.pdf#page=48" target="_blank" >R7公共施設等類型別カルテ（公共施設白書）</a>　<a href = "./001.html" target="_blank" >関係個所抜粋</a> 
-2. <a href = "https://www.city.kakamigahara.lg.jp/_res/projects/default_project/_page_/001/010/615/r8.4_2-1.pdf" target="_blank" >各務原市社会教育系施設（中央図書館、もりの本やさん・森の交流館）個別施設計画</a>
-3. <a href = "https://current.ndl.go.jp/ca2034" _target="_blank">カレントアウェアネス No.354　2022年12月20日 CA2034
+1. <a href = "https://www.city.minokamo.lg.jp/uploaded/attachment/19601.pdf#page=48" target="_blank" >R7公共施設等類型別カルテ（公共施設白書）</a>
+<a href = "./002.html" target="_blank" >関係個所抜粋</a> 
+3. <a href = "https://www.city.kakamigahara.lg.jp/_res/projects/default_project/_page_/001/010/615/r8.4_2-1.pdf" target="_blank" >各務原市社会教育系施設（中央図書館、もりの本やさん・森の交流館）個別施設計画</a>
+4. <a href = "https://current.ndl.go.jp/ca2034" _target="_blank">カレントアウェアネス No.354　2022年12月20日 CA2034
 動向レビュー 公共施設等総合管理計画と公立図書館の施設整備</a>
-4. <a href = "https://www.jstage.jst.go.jp/article/finexjournal/2/2/2_KJ00001530474/_pdf" target="_blank">建築物の 耐久計画の考え方 https://doi.org/10.14820/finexjournal.2.2_59</a>
-5. <a href = "https://www.aij.or.jp/jpn/archives/971202.htm" target="_blank">気候温暖化への建築分野での対応（会長声明全文）</a>
-1997年12月2日  社団法人 日本建築学会　<a href = "./002.html" target="_blank" >関係個所抜粋</a> 
+5. <a href = "https://www.jstage.jst.go.jp/article/finexjournal/2/2/2_KJ00001530474/_pdf" target="_blank">建築物の 耐久計画の考え方 https://doi.org/10.14820/finexjournal.2.2_59</a>
+6. <a href = "https://www.aij.or.jp/jpn/archives/971202.htm" target="_blank">気候温暖化への建築分野での対応（会長声明全文）</a>
+1997年12月2日  社団法人 日本建築学会
+<a href = "./003.html" target="_blank" >関係個所抜粋003</a> 
  
 
 ## 新庁舎整備関係
@@ -62,19 +64,19 @@ title: 美濃加茂市の図書館を考える会 資料室
 1. <a href = "https://minokamochosha.jp/wp-content/uploads/2026/03/%E3%80%90%E5%8F%82%E8%80%83%E8%B3%87%E6%96%99%E3%80%9101-2%E5%9F%BA%E6%9C%AC%E6%A7%8B%E6%83%B3%EF%BC%88%E6%A6%82%E8%A6%81%E7%89%88%EF%BC%89.pdf" target="_blank">新庁舎整備基本構想　概要版＜外部リンク＞</a>
 1. <a href ="https://www.city.minokamo.lg.jp/soshiki/24/" target="_blank">新庁舎整備推進</a>　※担当課情報
 1. <a href ="https://minokamochosha.jp/wp-content/uploads/2025/06/%E3%80%90070610%E6%9C%80%E7%B5%82%E3%80%91%E3%81%8B%E3%82%8F%E3%82%89%E3%81%B0%E3%82%93vol.6.pdf" target="_balnk">みんなの新庁舎かわらばんvol.6</a>
- <a href = "./003.html" target="_blank" >関係個所抜粋</a>
+ <a href = "./004.html" target="_blank" >関係個所抜粋004</a>
  
 1. <a href="https://minokamochosha.jp/wp-content/uploads/2025/01/%E3%80%90%E6%9C%80%E7%B5%82%E3%80%91%E3%81%8B%E3%82%8F%E3%82%89%E3%81%B0%E3%82%93.pdf" target="_blank">みんなの新庁舎かわらばんvol.5</a>
-<a href = "./004.html" target="_blank" >関係個所抜粋</a>
+<a href = "./005.html" target="_blank" >関係個所抜粋005</a>
 1. <a href ="https://www.city.minokamo.lg.jp/uploaded/attachment/17073.pdf" target="_blank">みんなの新庁舎かわらばんvol.4</a>
 1. <a href ="https://www.city.minokamo.lg.jp/uploaded/attachment/17072.pdf" target="_blank">みんなの新庁舎かわらばんvol.3</a>
 1. <a href ="https://www.city.minokamo.lg.jp/uploaded/attachment/17071.pdf" target="_blank">みんなの新庁舎かわらばんvol.2</a>
 1. <a href = "https://www.city.minokamo.lg.jp/uploaded/attachment/11932.pdf" target="_blank">みんなの新庁舎 かわらばんvol.1 2024年2月23日更新</a>
 1. <a href ="https://www.city.minokamo.lg.jp/uploaded/attachment/18539.pdf" target="_blank">説明会の質問に対する回答（2025.9.21開催：みのかも文化の森）</a>
 ※新庁舎整備事業説明会　第1回：2025年9月21日（日）午後3時から開催　みのかも文化の森　緑のホールにて開催<br>
- <a href = "./006.html" target="_blank" >＜回答抜粋＞<a>
+ <a href = "./006.html" target="_blank" >＜回答抜粋006＞<a>
 1. <a href ="https://www.city.minokamo.lg.jp/uploaded/attachment/20837.pdf" target="_blank"> 「美濃加茂市新庁舎整備基本構想（案）」に関する意見募集結果</a>　この情報は <a href = "https://www.city.minokamo.lg.jp/soshiki/26/2531.html" target="_blank"> パブリックコメント</a>に掲載あり。
- <a href = "./007.html" target="_blank" >＜回答抜粋＞<a>
+ <a href = "./007.html" target="_blank" >＜回答抜粋007＞<a>
  
 ＜回答抜粋＞
 
