@@ -41,7 +41,6 @@ title: 美濃加茂市の図書館を考える会 資料室
 1. <a href ="https://www3.city.minokamo.gifu.jp/release/fileopen.cfm?id=1&filename=/katudousuisin.pdf" target="_blank">美濃加茂市子どもの読書活動推進計画</a>
 1. <a href = "https://www.pref.gifu.lg.jp/page/171510.html" target="_blank"> 市町村子どもの読書活動推進計画の策定状況<a/>
 1. <a href = "https://www.city.minokamo.lg.jp/uploaded/life/15706_26038_misc.pdf" target="_blank">
-
 1. <a href = "https://static.gifu-ebooks.jp/actibook_data/01_minokamo_city_6th_comprehensive_plan_late_basic_plan__/?pNo=48" target="_blank">美濃加茂市第6次総合計画後期基本計画</a>
 
 ## 美濃加茂市公共施設等類型別カルテ
