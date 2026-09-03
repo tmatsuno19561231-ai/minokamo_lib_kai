@@ -30,7 +30,7 @@ title: 美濃加茂市の図書館を考える会 資料室
 ### 美濃加茂市歳入歳出決算書
 
 1. <a href = "https://www.city.minokamo.lg.jp/uploaded/attachment/15501.pdf#page=94" target="_blank">美濃加茂市一般会計　歳入歳出決算事項別明細書（歳出）令和５年度 94p</a>（図書館に関する事項は、（款）９　教育費　（項）5　社会教育　（目）図書館費に掲載。）
-2.  <a href = "https://www.city.minokamo.lg.jp/soshiki/30/2633.html" target="_blank">美濃加茂市歳入歳出決算書</a>（令和５年度決算書には一般会計として3件のPDFファイルあり。令和4年度決算書では一般会計として2件のPDFファイルがあるが、歳出に係るPDFファイルなし。2026-08-30閲覧）
+2.  <a href = "https://www.city.minokamo.lg.jp/soshiki/30/2633.html" target="_blank">美濃加茂市歳入歳出決算書</a>
 
 ### 決算実績報告書
 1. <a href = "https://www.city.minokamo.lg.jp/soshiki/28/2572.html" target="_blank">決算実績報告書</a>（トップページ > 組織でさがす > 経営企画部 > 財政課 > 決算実績報告書の階層に平成22年から令和6年までデータを掲載。）
@@ -38,13 +38,11 @@ title: 美濃加茂市の図書館を考える会 資料室
 
            
 ## 計画等
-1. <a href ="https://www3.city.minokamo.gifu.jp/release/fileopen.cfm?id=1&filename=/katudousuisin.pdf" target="_blank">美濃加茂市子どもの読書活動推進計画</a>（平成１８年３月制定、計画期間は平成２２年度までの５年間）
-
+1. <a href ="https://www3.city.minokamo.gifu.jp/release/fileopen.cfm?id=1&filename=/katudousuisin.pdf" target="_blank">美濃加茂市子どもの読書活動推進計画</a>
 1. <a href = "https://www.pref.gifu.lg.jp/page/171510.html" target="_blank"> 市町村子どもの読書活動推進計画の策定状況<a/>
-（岐阜県内の各市町村の現行計画名、策定・改定年月及び計画の期間を整理。）
-1. <a href = "https://www.city.minokamo.lg.jp/uploaded/life/15706_26038_misc.pdf" target="_blank">第3次美濃加茂市教育振興基本計画</a>(図書館に係る計画は、「基本目標１（１）➂読書活動の推進」で言及。）
+1. <a href = "https://www.city.minokamo.lg.jp/uploaded/life/15706_26038_misc.pdf" target="_blank">
 
-1. <a href = "https://static.gifu-ebooks.jp/actibook_data/01_minokamo_city_6th_comprehensive_plan_late_basic_plan__/?pNo=48" target="_blank">美濃加茂市第6次総合計画後期基本計画</a>（生涯学習・文化・スポーツの章で出張図書館事業の実施件数及び図書館利用者数の目標値を掲載。）
+1. <a href = "https://static.gifu-ebooks.jp/actibook_data/01_minokamo_city_6th_comprehensive_plan_late_basic_plan__/?pNo=48" target="_blank">美濃加茂市第6次総合計画後期基本計画</a>
 
 ## 美濃加茂市公共施設等類型別カルテ
 1. <a href = "https://www.city.minokamo.lg.jp/uploaded/attachment/19601.pdf#page=48" target="_blank" >R7公共施設等類型別カルテ（公共施設白書）</a>
@@ -84,16 +82,16 @@ title: 美濃加茂市の図書館を考える会 資料室
 1. <a href = "https://www.city.minokamo.lg.jp/site/gikai/" target="_blank">美濃加茂市議会</a>
 1. <a href = "https://smart.discussvision.net/smart/tenant/minokamo/WebView/rd/council_1.html?referrer=https%3A%2F%2Fwww.city.minokamo.lg.jp%2F" target="_blank">美濃加茂市議会　中継</a>
 
-1. <a href = "https://www.city.minokamo.lg.jp/site/gikai/7808.html" target="_blank">傍聴について</a>※「本会議傍聴について」及び「委員会傍聴について」の記載があります。
-1. <a href = "https://www.city.minokamo.lg.jp/site/gikai/7853.html" target="_blank">請願・陳情・意見書</a>※それぞれの手続きに係る説明の記載あり。。
+1. <a href = "https://www.city.minokamo.lg.jp/site/gikai/7808.html" target="_blank">傍聴について</a>※
+1. <a href = "https://www.city.minokamo.lg.jp/site/gikai/7853.html" target="_blank">請願・陳情・意見書</a>
 1. <a href = "https://smart.discussvision.net/smart/tenant/minokamo/WebView/rd/speech.html?council_id=58&schedule_id=2&playlist_id=3&speaker_id=23&target_year=2026" target="_balnk">2026-06-16美濃加茂市議会議会中継 令和８年第2回　纐纈源太議員　一般質問　2026-06-16</a>
-1. <a href = "https://www.city.minokamo.lg.jp/uploaded/attachment/21205.pdf" target="_blank">令和8年美濃加茂市議会第２回定例会一般質問通告一覧</a> 図書館に係る質問掲載あり
-1. <a href = "https://www.city.minokamo.lg.jp/uploaded/attachment/21935.pdf" target="_blank">令和８年美濃加茂市議会第３回定例会一般質問通告一覧</a> 図書館に係る質問掲載あり
+1. <a href = "https://www.city.minokamo.lg.jp/uploaded/attachment/21205.pdf" target="_blank">令和8年美濃加茂市議会第２回定例会一般質問通告一覧</a> 
+1. <a href = "https://www.city.minokamo.lg.jp/uploaded/attachment/21935.pdf" target="_blank">令和８年美濃加茂市議会第３回定例会一般質問通告一覧</a>
 1. <a href = "https://www.city.minokamo.lg.jp/soshiki/36/17947.html" target="_blank">美濃加茂市総合教育会議会議録</a>
   
 ## 日本の図書館統計
 1. <a href ="https://www.jla.or.jp/library_statistics_in_japan/" target="_blank">日本の図書館統計</a>
-1. <a href = "https://japanlibraryassociation.app.box.com/s/ctkfz1ejj3e5n798vjticckl4nn3a85h" target="_blank"> 日本の図書館電子媒体版（無償版）</a>　※『日本の図書館』電子媒体版（無償版・1996年～2020年）がオープンデータになっています。
+1. <a href = "https://japanlibraryassociation.app.box.com/s/ctkfz1ejj3e5n798vjticckl4nn3a85h" target="_blank"> 日本の図書館電子媒体版（無償版）</a>
 
 ## misc
 1. <a href = "https://www.jla.or.jp/library_resources-_and_guidelines/missions_and_goals/" target="_blank">日本図書館協会　公立図書館の任務と目標]</a>
