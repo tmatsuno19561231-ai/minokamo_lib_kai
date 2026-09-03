@@ -52,7 +52,7 @@ title: 美濃加茂市の図書館を考える会 資料室
 5. <a href = "https://www.jstage.jst.go.jp/article/finexjournal/2/2/2_KJ00001530474/_pdf" target="_blank">建築物の 耐久計画の考え方 https://doi.org/10.14820/finexjournal.2.2_59</a>
 6. <a href = "https://www.aij.or.jp/jpn/archives/971202.htm" target="_blank">気候温暖化への建築分野での対応（会長声明全文）
 1997年12月2日  社団法人 日本建築学会</a>
-<a href = "./003.html" target="_blank" >関係個所抜粋003</a> 
+<a href = "./002.html" target="_blank" >関係個所抜粋003</a> 
  
 ## 新庁舎整備関係
 1. <a href ="https://www.city.minokamo.lg.jp/soshiki/24/21451.html" target="_blnak">美濃加茂市新庁舎整備基本構想</a>
