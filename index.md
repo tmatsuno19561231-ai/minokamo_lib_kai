@@ -34,25 +34,7 @@ title: 美濃加茂市の図書館を考える会 資料室
 
 ### 決算実績報告書
 1. <a href = "https://www.city.minokamo.lg.jp/soshiki/28/2572.html" target="_blank">決算実績報告書</a>（トップページ > 組織でさがす > 経営企画部 > 財政課 > 決算実績報告書の階層に平成22年から令和6年までデータを掲載。）
-3.  決算実績報告書中の施設管理事業決算額の推移を令和分について整理
 
-| 年 | 西暦 | 中央図書館 | 東図書館 | 計 |
-| :--- | :--- | :--- | :--- | :--- |
-| R6年 | 2024 | 11,720,533 | 14,554,481 | 26,275,014 |
-| R5年 | 2023 | 24,285,301 | 37,091,473 | 61,376,774 |
-| R4年 | 2022 | 11,120,900 | 18,035,145 | 29,156,045 |
-| R3年 | 2021 | 24,442,566 | 11,888,053 | 36,330,619 |
-| R2年 | 2020 | 14,868,113 | 11,890,400 | 26,758,513 |
-| R元年 | 2019 | 14,127,789 | 15,224,208 | 29,351,997 |
-| AVR | | 16,760,867 | 18,113,960 | 34,874,827 |
-
-参考としたデータは、次のとおり。
-1. <a href = "https://www.city.minokamo.lg.jp/uploaded/attachment/18340.pdf#page=133" target="_blank">令和6年決算実績報告書 133p </a>
-1. <a href = "https://www.city.minokamo.lg.jp/uploaded/attachment/14869.pdf#page=122" target="_blank">令和5年決算実績報告書 122p </a>
-1. <a href = "https://www.city.minokamo.lg.jp/uploaded/attachment/6864.pdf#page=124" target="_blank">令和4年決算実績報告書 124p </a>
-1. <a href = "https://www.city.minokamo.lg.jp/uploaded/attachment/6865.pdf#page=128" target="_blank">令和3年決算実績報告書 128p </a>
-1. <a href = "https://www.city.minokamo.lg.jp/uploaded/attachment/6866.pdf#page=125" target="_blank">令和2年決算実績報告書 125p </a>
-1. <a href = "https://www.city.minokamo.lg.jp/uploaded/attachment/6867.pdf#page=130" target="_blank">令和元年決算実績報告書 130p </a>
            
 ## 計画等
 1. <a href ="https://www3.city.minokamo.gifu.jp/release/fileopen.cfm?id=1&filename=/katudousuisin.pdf" target="_blank">美濃加茂市子どもの読書活動推進計画</a>（平成１８年３月制定、計画期間は平成２２年度までの５年間）
