@@ -105,7 +105,12 @@ title: 美濃加茂市の図書館を考える会 資料室
 ## 日本の図書館統計
 1. <a href ="https://www.jla.or.jp/library_statistics_in_japan/" target="_blank">日本の図書館統計</a>
 1. <a href = "https://japanlibraryassociation.app.box.com/s/ctkfz1ejj3e5n798vjticckl4nn3a85h" target="_blank"> 日本の図書館電子媒体版（無償版）</a>
-1. <a href ="./008.md" target="_blank">美濃加茂市の図書館統計</a>
+1. <a href = "./008.html" target="_blank">美濃加茂市の図書館統計</a>
+# 2. <a href = "./003.html" target="_blank" > <span style="color: red;">施設管理事業決算額の推移（令和元年から令和６年度まで）</span></a>
+
+
+
+
 ## misc
 1. <a href = "https://www.jla.or.jp/library_resources-_and_guidelines/missions_and_goals/" target="_blank">日本図書館協会　公立図書館の任務と目標]</a>
 1. <a href = "https://www.jla.or.jp/library_resources-_and_guidelines/desirable_standards/" target="_blank">日本図書館協会　図書館の設置及び運営上の望ましい基準]</a>
