@@ -35,7 +35,11 @@ title: 図書館指標（岐阜県内市立図書館　2020年）
 
 ---
 出典：「日本の図書館 統計と名簿 2020年版」（公益社団法人日本図書館協会）
-（当該ページのURL： https://japanlibraryassociation.app.box.com/index.php?rm=box_download_shared_file&shared_name=ctkfz1ejj3e5n798vjticckl4nn3a85h&file_id=f_2183284821401 ）
+（当該ページのURL： 
+
+https://japanlibraryassociation.app.box.com/index.php?rm=box_download_shared_file&shared_name=ctkfz1ejj3e5n798vjticckl4nn3a85h&file_id=f_2183284821401
+
+）
 （2026年09月12日に利用）
 「日本の図書館 統計と名簿 2020年版」（日本図書館協会）（上記URL）を加工して作成 
 
