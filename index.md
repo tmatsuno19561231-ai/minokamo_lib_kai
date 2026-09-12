@@ -105,7 +105,7 @@ title: 美濃加茂市の図書館を考える会 資料室
 ## 美濃加茂市　図書館指標
 1. <a href = "./data/stat1.html" target="_blank" >美濃加茂市の図書館指標　単館</a>
 1. <a href = "./data/stat2.html" target="_blank" >美濃加茂市の図書館指標　県内市立図書館</a>
-   
+1. <a href = "./data/stat3.html" target="_blank" >美濃加茂市の図書館指標　県内市立図書館竣工年</a>
 
 ## misc
 1. <a href = "https://www.jla.or.jp/library_resources-_and_guidelines/missions_and_goals/" target="_blank">日本図書館協会　公立図書館の任務と目標]</a>
