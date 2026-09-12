@@ -102,7 +102,7 @@ title: 美濃加茂市の図書館を考える会 資料室
 
 1. <a href = "https://www.city.minokamo.lg.jp/soshiki/36/17947.html" target="_blank">美濃加茂市総合教育会議会議録</a>
   
-## 図書館指標
+## 美濃加茂市　図書館指標
 1. <a href = "./data/stat1.html" target="_blank" >美濃加茂市の図書館指標　単館</a>
 1. <a href = "./data/stat2.html" target="_blank" >美濃加茂市の図書館指標　県内市立図書館</a>
    
