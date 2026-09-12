@@ -1,13 +1,13 @@
 ---
 layout: default
-title: 図書館指標（岐阜県内市立図書館）
+title: 図書館指標（岐阜県内市立図書館　２０２０年）
 ---
 **更新日付: 2026年8月30日**
 
 * TOC
 {:toc}
 
-## 岐阜県内の市立図書館 図書館数 (設置者コード別)
+## 図書館数 (設置者コード別)
 
 |   設置者コード | 図書館名1            |   図書館数 | 図書館名2                                                                                                                                                              |
 |---------------:|:---------------------|-----------:|:-----------------------------------------------------------------------------------------------------------------------------------------------------------------------|
@@ -41,7 +41,7 @@ title: 図書館指標（岐阜県内市立図書館）
 
 
 
-## 岐阜県内の市立図書館 (設置者コード別)専任計
+## 専任計
 
 |   設置者コード | 図書館名1            |   専任計 |
 |---------------:|:---------------------|---------:|
@@ -69,11 +69,11 @@ title: 図書館指標（岐阜県内市立図書館）
 
 ---
 出典：「日本の図書館 統計と名簿 2020年版」（公益社団法人日本図書館協会）
-（当該ページのURL： https://japanlibraryassociation.app.box.com/index.phprm=box_download_shared_file&shared_name=ctkfz1ejj3e5n798vjticckl4nn3a85h&file_id=f_2183284821401 ）
+（当該ページのURL： https://japanlibraryassociation.app.box.com/index.php?rm=box_download_shared_file&shared_name=ctkfz1ejj3e5n798vjticckl4nn3a85h&file_id=f_2183284821401 ）
 （2026年09月12日に利用）
 「日本の図書館 統計と名簿 2020年版」（日本図書館協会）（上記URL）を加工して作成 
 
-## 岐阜県内の市立図書館 (設置者コード別)兼任計
+## 兼任計
 
 |   設置者コード | 図書館名1            |   兼任計 |
 |---------------:|:---------------------|---------:|
@@ -101,11 +101,11 @@ title: 図書館指標（岐阜県内市立図書館）
 
 ---
 出典：「日本の図書館 統計と名簿 2020年版」（公益社団法人日本図書館協会）
-（当該ページのURL： https://japanlibraryassociation.app.box.com/index.phprm=box_download_shared_file&shared_name=ctkfz1ejj3e5n798vjticckl4nn3a85h&file_id=f_2183284821401 ）
+（当該ページのURL： https://japanlibraryassociation.app.box.com/index.phpr?m=box_download_shared_file&shared_name=ctkfz1ejj3e5n798vjticckl4nn3a85h&file_id=f_2183284821401 ）
 （2026年09月12日に利用）
 「日本の図書館 統計と名簿 2020年版」（日本図書館協会）（上記URL）を加工して作成 
 
-## 岐阜県内の市立図書館 (設置者コード別)専任司書
+## 専任司書
 
 |   設置者コード | 図書館名1            |   専任司書 |
 |---------------:|:---------------------|-----------:|
@@ -133,11 +133,11 @@ title: 図書館指標（岐阜県内市立図書館）
 
 ---
 出典：「日本の図書館 統計と名簿 2020年版」（公益社団法人日本図書館協会）
-（当該ページのURL： https://japanlibraryassociation.app.box.com/index.phprm=box_download_shared_file&shared_name=ctkfz1ejj3e5n798vjticckl4nn3a85h&file_id=f_2183284821401 ）
+（当該ページのURL： https://japanlibraryassociation.app.box.com/index.php?rm=box_download_shared_file&shared_name=ctkfz1ejj3e5n798vjticckl4nn3a85h&file_id=f_2183284821401 ）
 （2026年09月12日に利用）
 「日本の図書館 統計と名簿 2020年版」（日本図書館協会）（上記URL）を加工して作成 
 
-## 岐阜県内の市立図書館 (設置者コード別)兼任司書
+## 兼任司書
 
 |   設置者コード | 図書館名1            |   兼任司書 |
 |---------------:|:---------------------|-----------:|
@@ -165,11 +165,11 @@ title: 図書館指標（岐阜県内市立図書館）
 
 ---
 出典：「日本の図書館 統計と名簿 2020年版」（公益社団法人日本図書館協会）
-（当該ページのURL： https://japanlibraryassociation.app.box.com/index.phprm=box_download_shared_file&shared_name=ctkfz1ejj3e5n798vjticckl4nn3a85h&file_id=f_2183284821401 ）
+（当該ページのURL： https://japanlibraryassociation.app.box.com/index.php?rm=box_download_shared_file&shared_name=ctkfz1ejj3e5n798vjticckl4nn3a85h&file_id=f_2183284821401 ）
 （2026年09月12日に利用）
 「日本の図書館 統計と名簿 2020年版」（日本図書館協会）（上記URL）を加工して作成 
 
-## 岐阜県内の市立図書館 (設置者コード別)蔵書冊数
+## 蔵書冊数
 
 |   設置者コード | 図書館名1            |   蔵書冊数 |
 |---------------:|:---------------------|-----------:|
@@ -197,11 +197,11 @@ title: 図書館指標（岐阜県内市立図書館）
 
 ---
 出典：「日本の図書館 統計と名簿 2020年版」（公益社団法人日本図書館協会）
-（当該ページのURL： https://japanlibraryassociation.app.box.com/index.phprm=box_download_shared_file&shared_name=ctkfz1ejj3e5n798vjticckl4nn3a85h&file_id=f_2183284821401 ）
+（当該ページのURL： https://japanlibraryassociation.app.box.com/index.php?rm=box_download_shared_file&shared_name=ctkfz1ejj3e5n798vjticckl4nn3a85h&file_id=f_2183284821401 ）
 （2026年09月12日に利用）
 「日本の図書館 統計と名簿 2020年版」（日本図書館協会）（上記URL）を加工して作成 
 
-## 岐阜県内の市立図書館 (設置者コード別)非常勤臨時
+## 非常勤臨時
 
 |   設置者コード | 図書館名1            |   非常勤臨時 |
 |---------------:|:---------------------|-------------:|
@@ -229,11 +229,11 @@ title: 図書館指標（岐阜県内市立図書館）
 
 ---
 出典：「日本の図書館 統計と名簿 2020年版」（公益社団法人日本図書館協会）
-（当該ページのURL： https://japanlibraryassociation.app.box.com/index.phprm=box_download_shared_file&shared_name=ctkfz1ejj3e5n798vjticckl4nn3a85h&file_id=f_2183284821401 ）
+（当該ページのURL： https://japanlibraryassociation.app.box.com/index.php?rm=box_download_shared_file&shared_name=ctkfz1ejj3e5n798vjticckl4nn3a85h&file_id=f_2183284821401 ）
 （2026年09月12日に利用）
 「日本の図書館 統計と名簿 2020年版」（日本図書館協会）（上記URL）を加工して作成 
 
-## 岐阜県内の市立図書館 (設置者コード別)委託・派遣
+## 委託・派遣
 
 |   設置者コード | 図書館名1            |   委託・派遣 |
 |---------------:|:---------------------|-------------:|
@@ -261,11 +261,11 @@ title: 図書館指標（岐阜県内市立図書館）
 
 ---
 出典：「日本の図書館 統計と名簿 2020年版」（公益社団法人日本図書館協会）
-（当該ページのURL： https://japanlibraryassociation.app.box.com/index.phprm=box_download_shared_file&shared_name=ctkfz1ejj3e5n798vjticckl4nn3a85h&file_id=f_2183284821401 ）
+（当該ページのURL： https://japanlibraryassociation.app.box.com/index.php?rm=box_download_shared_file&shared_name=ctkfz1ejj3e5n798vjticckl4nn3a85h&file_id=f_2183284821401 ）
 （2026年09月12日に利用）
 「日本の図書館 統計と名簿 2020年版」（日本図書館協会）（上記URL）を加工して作成 
 
-## 岐阜県内の市立図書館 (設置者コード別)蔵書冊数
+## 蔵書冊数
 
 |   設置者コード | 図書館名1            |   蔵書冊数 |
 |---------------:|:---------------------|-----------:|
@@ -296,7 +296,7 @@ title: 図書館指標（岐阜県内市立図書館）
 （当該ページのURL： https://japanlibraryassociation.app.box.com/index.php?rm=box_download_shared_file&shared_name=ctkfz1ejj3e5n798vjticckl4nn3a85h&file_id=f_2183284821401 ）（2026年09月12日に利用）
 「日本の図書館 統計と名簿 2020年版」（日本図書館協会）（上記URL）を加工して作成 
 
-## 岐阜県内の市立図書館 (設置者コード別)うち開架図書
+## うち開架図書
 
 |   設置者コード | 図書館名1            |   うち開架図書 |
 |---------------:|:---------------------|---------------:|
@@ -324,11 +324,11 @@ title: 図書館指標（岐阜県内市立図書館）
 
 ---
 出典：「日本の図書館 統計と名簿 2020年版」（公益社団法人日本図書館協会）
-（当該ページのURL： https://japanlibraryassociation.app.box.com/index.phprm=box_download_shared_file&shared_name=ctkfz1ejj3e5n798vjticckl4nn3a85h&file_id=f_2183284821401 ）
+（当該ページのURL： https://japanlibraryassociation.app.box.com/index.php?rm=box_download_shared_file&shared_name=ctkfz1ejj3e5n798vjticckl4nn3a85h&file_id=f_2183284821401 ）
 （2026年09月12日に利用）
 「日本の図書館 統計と名簿 2020年版」（日本図書館協会）（上記URL）を加工して作成 
 
-## 岐阜県内の市立図書館 (設置者コード別)受入冊数
+## 受入冊数
 
 |   設置者コード | 図書館名1            |   受入冊数 |
 |---------------:|:---------------------|-----------:|
@@ -356,11 +356,11 @@ title: 図書館指標（岐阜県内市立図書館）
 
 ---
 出典：「日本の図書館 統計と名簿 2020年版」（公益社団法人日本図書館協会）
-（当該ページのURL： https://japanlibraryassociation.app.box.com/index.phprm=box_download_shared_file&shared_name=ctkfz1ejj3e5n798vjticckl4nn3a85h&file_id=f_2183284821401 ）
+（当該ページのURL： https://japanlibraryassociation.app.box.com/index.php?rm=box_download_shared_file&shared_name=ctkfz1ejj3e5n798vjticckl4nn3a85h&file_id=f_2183284821401 ）
 （2026年09月12日に利用）
 「日本の図書館 統計と名簿 2020年版」（日本図書館協会）（上記URL）を加工して作成 
 
-# 岐阜県内の市立図書館 (設置者コード別)うち購入
+# うち購入
 
 |   設置者コード | 図書館名1            |   うち購入 |
 |---------------:|:---------------------|-----------:|
@@ -388,11 +388,11 @@ title: 図書館指標（岐阜県内市立図書館）
 
 ---
 出典：「日本の図書館 統計と名簿 2020年版」（公益社団法人日本図書館協会）
-（当該ページのURL： https://japanlibraryassociation.app.box.com/index.phprm=box_download_shared_file&shared_name=ctkfz1ejj3e5n798vjticckl4nn3a85h&file_id=f_2183284821401 ）
+（当該ページのURL： https://japanlibraryassociation.app.box.com/index.php?rm=box_download_shared_file&shared_name=ctkfz1ejj3e5n798vjticckl4nn3a85h&file_id=f_2183284821401 ）
 （2026年09月12日に利用）
 「日本の図書館 統計と名簿 2020年版」（日本図書館協会）（上記URL）を加工して作成 
 
-# 岐阜県内の市立図書館 (設置者コード別)年間除籍冊数
+# 年間除籍冊数
 
 |   設置者コード | 図書館名1            |   年間除籍冊数 |
 |---------------:|:---------------------|---------------:|
@@ -420,11 +420,11 @@ title: 図書館指標（岐阜県内市立図書館）
 
 ---
 出典：「日本の図書館 統計と名簿 2020年版」（公益社団法人日本図書館協会）
-（当該ページのURL： https://japanlibraryassociation.app.box.com/index.phprm=box_download_shared_file&shared_name=ctkfz1ejj3e5n798vjticckl4nn3a85h&file_id=f_2183284821401 ）
+（当該ページのURL： https://japanlibraryassociation.app.box.com/index.php?rm=box_download_shared_file&shared_name=ctkfz1ejj3e5n798vjticckl4nn3a85h&file_id=f_2183284821401 ）
 （2026年09月12日に利用）
 「日本の図書館 統計と名簿 2020年版」（日本図書館協会）（上記URL）を加工して作成 
 
-# 岐阜県内の市立図書館 (設置者コード別)雑誌購入種数
+# 雑誌購入種数
 
 |   設置者コード | 図書館名1            |   雑誌購入種数 |
 |---------------:|:---------------------|---------------:|
@@ -452,11 +452,11 @@ title: 図書館指標（岐阜県内市立図書館）
 
 ---
 出典：「日本の図書館 統計と名簿 2020年版」（公益社団法人日本図書館協会）
-（当該ページのURL： https://japanlibraryassociation.app.box.com/index.phprm=box_download_shared_file&shared_name=ctkfz1ejj3e5n798vjticckl4nn3a85h&file_id=f_2183284821401 ）
+（当該ページのURL： https://japanlibraryassociation.app.box.com/index.phpr?m=box_download_shared_file&shared_name=ctkfz1ejj3e5n798vjticckl4nn3a85h&file_id=f_2183284821401 ）
 （2026年09月12日に利用）
 「日本の図書館 統計と名簿 2020年版」（日本図書館協会）（上記URL）を加工して作成 
 
-# 岐阜県内の市立図書館 (設置者コード別)登録者数
+# 登録者数
 
 |   設置者コード | 図書館名1            |   登録者数 |
 |---------------:|:---------------------|-----------:|
@@ -484,11 +484,11 @@ title: 図書館指標（岐阜県内市立図書館）
 
 ---
 出典：「日本の図書館 統計と名簿 2020年版」（公益社団法人日本図書館協会）
-（当該ページのURL： https://japanlibraryassociation.app.box.com/index.phprm=box_download_shared_file&shared_name=ctkfz1ejj3e5n798vjticckl4nn3a85h&file_id=f_2183284821401 ）
+（当該ページのURL： https://japanlibraryassociation.app.box.com/index.php?rm=box_download_shared_file&shared_name=ctkfz1ejj3e5n798vjticckl4nn3a85h&file_id=f_2183284821401 ）
 （2026年09月12日に利用）
 「日本の図書館 統計と名簿 2020年版」（日本図書館協会）（上記URL）を加工して作成 
 
-# 岐阜県内の市立図書館 (設置者コード別)貸出数
+# 貸出数
 
 |   設置者コード | 図書館名1            |   貸出数 |
 |---------------:|:---------------------|---------:|
@@ -516,11 +516,11 @@ title: 図書館指標（岐阜県内市立図書館）
 
 ---
 出典：「日本の図書館 統計と名簿 2020年版」（公益社団法人日本図書館協会）
-（当該ページのURL： https://japanlibraryassociation.app.box.com/index.phprm=box_download_shared_file&shared_name=ctkfz1ejj3e5n798vjticckl4nn3a85h&file_id=f_2183284821401 ）
+（当該ページのURL： https://japanlibraryassociation.app.box.com/index.phpr?m=box_download_shared_file&shared_name=ctkfz1ejj3e5n798vjticckl4nn3a85h&file_id=f_2183284821401 ）
 （2026年09月12日に利用）
 「日本の図書館 統計と名簿 2020年版」（日本図書館協会）（上記URL）を加工して作成 
 
-# 岐阜県内の市立図書館 (設置者コード別)団体貸出団体数
+# 団体貸出団体数
 
 |   設置者コード | 図書館名1            |   団体貸出団体数 |
 |---------------:|:---------------------|-----------------:|
@@ -548,11 +548,11 @@ title: 図書館指標（岐阜県内市立図書館）
 
 ---
 出典：「日本の図書館 統計と名簿 2020年版」（公益社団法人日本図書館協会）
-（当該ページのURL： https://japanlibraryassociation.app.box.com/index.phprm=box_download_shared_file&shared_name=ctkfz1ejj3e5n798vjticckl4nn3a85h&file_id=f_2183284821401 ）
+（当該ページのURL： https://japanlibraryassociation.app.box.com/index.php?rm=box_download_shared_file&shared_name=ctkfz1ejj3e5n798vjticckl4nn3a85h&file_id=f_2183284821401 ）
 （2026年09月12日に利用）
 「日本の図書館 統計と名簿 2020年版」（日本図書館協会）（上記URL）を加工して作成 
 
-# 岐阜県内の市立図書館 (設置者コード別)団体貸出冊数
+# 団体貸出冊数
 
 |   設置者コード | 図書館名1            |   団体貸出冊数 |
 |---------------:|:---------------------|---------------:|
@@ -580,11 +580,11 @@ title: 図書館指標（岐阜県内市立図書館）
 
 ---
 出典：「日本の図書館 統計と名簿 2020年版」（公益社団法人日本図書館協会）
-（当該ページのURL： https://japanlibraryassociation.app.box.com/index.phprm=box_download_shared_file&shared_name=ctkfz1ejj3e5n798vjticckl4nn3a85h&file_id=f_2183284821401 ）
+（当該ページのURL： https://japanlibraryassociation.app.box.com/index.php?rm=box_download_shared_file&shared_name=ctkfz1ejj3e5n798vjticckl4nn3a85h&file_id=f_2183284821401 ）
 （2026年09月12日に利用）
 「日本の図書館 統計と名簿 2020年版」（日本図書館協会）（上記URL）を加工して作成 
 
-# 岐阜県内の市立図書館 (設置者コード別)予約件数
+# 予約件数
 
 |   設置者コード | 図書館名1            |   予約件数 |
 |---------------:|:---------------------|-----------:|
@@ -612,11 +612,11 @@ title: 図書館指標（岐阜県内市立図書館）
 
 ---
 出典：「日本の図書館 統計と名簿 2020年版」（公益社団法人日本図書館協会）
-（当該ページのURL： https://japanlibraryassociation.app.box.com/index.phprm=box_download_shared_file&shared_name=ctkfz1ejj3e5n798vjticckl4nn3a85h&file_id=f_2183284821401 ）
+（当該ページのURL： https://japanlibraryassociation.app.box.com/index.php?rm=box_download_shared_file&shared_name=ctkfz1ejj3e5n798vjticckl4nn3a85h&file_id=f_2183284821401 ）
 （2026年09月12日に利用）
 「日本の図書館 統計と名簿 2020年版」（日本図書館協会）（上記URL）を加工して作成 
 
-# 岐阜県内の市立図書館 (設置者コード別)図書借受冊数
+# 図書借受冊数
 
 |   設置者コード | 図書館名1            |   図書借受冊数 |
 |---------------:|:---------------------|---------------:|
@@ -648,7 +648,7 @@ title: 図書館指標（岐阜県内市立図書館）
 （2026年09月12日に利用）
 「日本の図書館 統計と名簿 2020年版」（日本図書館協会）（上記URL）を加工して作成 
 
-# 岐阜県内の市立図書館 (設置者コード別)図書館等に対する貸出冊数
+# 図書館等に対する貸出冊数
 
 |   設置者コード | 図書館名1            |   図書館等に対する貸出冊数 |
 |---------------:|:---------------------|---------------------------:|
@@ -676,11 +676,11 @@ title: 図書館指標（岐阜県内市立図書館）
 
 ---
 出典：「日本の図書館 統計と名簿 2020年版」（公益社団法人日本図書館協会）
-（当該ページのURL： https://japanlibraryassociation.app.box.com/index.phprm=box_download_shared_file&shared_name=ctkfz1ejj3e5n798vjticckl4nn3a85h&file_id=f_2183284821401 ）
+（当該ページのURL： https://japanlibraryassociation.app.box.com/index.php?rm=box_download_shared_file&shared_name=ctkfz1ejj3e5n798vjticckl4nn3a85h&file_id=f_2183284821401 ）
 （2026年09月12日に利用）
 「日本の図書館 統計と名簿 2020年版」（日本図書館協会）（上記URL）を加工して作成 
 
-# 岐阜県内の市立図書館 (設置者コード別)文献複写枚数
+# 文献複写枚数
 
 |   設置者コード | 図書館名1            |   文献複写枚数 |
 |---------------:|:---------------------|---------------:|
@@ -708,11 +708,11 @@ title: 図書館指標（岐阜県内市立図書館）
 
 ---
 出典：「日本の図書館 統計と名簿 2020年版」（公益社団法人日本図書館協会）
-（当該ページのURL： https://japanlibraryassociation.app.box.com/index.phprm=box_download_shared_file&shared_name=ctkfz1ejj3e5n798vjticckl4nn3a85h&file_id=f_2183284821401 ）
+（当該ページのURL： https://japanlibraryassociation.app.box.com/index.php?rm=box_download_shared_file&shared_name=ctkfz1ejj3e5n798vjticckl4nn3a85h&file_id=f_2183284821401 ）
 （2026年09月12日に利用）
 「日本の図書館 統計と名簿 2020年版」（日本図書館協会）（上記URL）を加工して作成 
 
-# 岐阜県内の市立図書館 (設置者コード別)決算額図書館費
+# 決算額図書館費
 
 |   設置者コード | 図書館名1            |   決算額図書館費 |
 |---------------:|:---------------------|-----------------:|
@@ -737,14 +737,15 @@ title: 図書館指標（岐阜県内市立図書館）
 |          21219 | 郡上市               |            49517 |
 |          21220 | 下呂市立             |            24920 |
 |          21221 | 海津市               |            55869 |
+（単位千円）
 
 ---
 出典：「日本の図書館 統計と名簿 2020年版」（公益社団法人日本図書館協会）
-（当該ページのURL： https://japanlibraryassociation.app.box.com/index.phprm=box_download_shared_file&shared_name=ctkfz1ejj3e5n798vjticckl4nn3a85h&file_id=f_2183284821401 ）
+（当該ページのURL： https://japanlibraryassociation.app.box.com/index.php?rm=box_download_shared_file&shared_name=ctkfz1ejj3e5n798vjticckl4nn3a85h&file_id=f_2183284821401 ）
 （2026年09月12日に利用）
 「日本の図書館 統計と名簿 2020年版」（日本図書館協会）（上記URL）を加工して作成 
 
-# 岐阜県内の市立図書館 (設置者コード別)決算額資料費
+# 決算額資料費
 
 |   設置者コード | 図書館名1            |   決算額資料費 |
 |---------------:|:---------------------|---------------:|
@@ -769,14 +770,15 @@ title: 図書館指標（岐阜県内市立図書館）
 |          21219 | 郡上市               |          12073 |
 |          21220 | 下呂市立             |           6745 |
 |          21221 | 海津市               |           7430 |
+（単位千円）
 
 ---
 出典：「日本の図書館 統計と名簿 2020年版」（公益社団法人日本図書館協会）
-（当該ページのURL： https://japanlibraryassociation.app.box.com/index.phprm=box_download_shared_file&shared_name=ctkfz1ejj3e5n798vjticckl4nn3a85h&file_id=f_2183284821401 ）
+（当該ページのURL： https://japanlibraryassociation.app.box.com/index.php?rm=box_download_shared_file&shared_name=ctkfz1ejj3e5n798vjticckl4nn3a85h&file_id=f_2183284821401 ）
 （2026年09月12日に利用）
 「日本の図書館 統計と名簿 2020年版」（日本図書館協会）（上記URL）を加工して作成 
 
-# 岐阜県内の市立図書館 (設置者コード別)決算額うち雑誌新聞費
+# 決算額うち雑誌新聞費
 
 |   設置者コード | 図書館名1            |   決算額うち雑誌新聞費 |
 |---------------:|:---------------------|-----------------------:|
@@ -801,14 +803,15 @@ title: 図書館指標（岐阜県内市立図書館）
 |          21219 | 郡上市               |                   2067 |
 |          21220 | 下呂市立             |                    746 |
 |          21221 | 海津市               |                   1410 |
+（単位千円）
 
 ---
 出典：「日本の図書館 統計と名簿 2020年版」（公益社団法人日本図書館協会）
-（当該ページのURL： https://japanlibraryassociation.app.box.com/index.phprm=box_download_shared_file&shared_name=ctkfz1ejj3e5n798vjticckl4nn3a85h&file_id=f_2183284821401 ）
+（当該ページのURL： https://japanlibraryassociation.app.box.com/index.php?rm=box_download_shared_file&shared_name=ctkfz1ejj3e5n798vjticckl4nn3a85h&file_id=f_2183284821401 ）
 （2026年09月12日に利用）
 「日本の図書館 統計と名簿 2020年版」（日本図書館協会）（上記URL）を加工して作成 
 
-# 岐阜県内の市立図書館 (設置者コード別)決算額うち視聴覚資料費
+# 決算額うち視聴覚資料費
 
 |   設置者コード | 図書館名1            |   決算額うち視聴覚資料費 |
 |---------------:|:---------------------|-------------------------:|
@@ -833,9 +836,10 @@ title: 図書館指標（岐阜県内市立図書館）
 |          21219 | 郡上市               |                        0 |
 |          21220 | 下呂市立             |                       67 |
 |          21221 | 海津市               |                      384 |
+（単位千円）
 
 ---
 出典：「日本の図書館 統計と名簿 2020年版」（公益社団法人日本図書館協会）
-（当該ページのURL： https://japanlibraryassociation.app.box.com/index.phprm=box_download_shared_file&shared_name=ctkfz1ejj3e5n798vjticckl4nn3a85h&file_id=f_2183284821401 ）
+（当該ページのURL： https://japanlibraryassociation.app.box.com/index.php?rm=box_download_shared_file&shared_name=ctkfz1ejj3e5n798vjticckl4nn3a85h&file_id=f_2183284821401 ）
 （2026年09月12日に利用）
 「日本の図書館 統計と名簿 2020年版」（日本図書館協会）（上記URL）を加工して作成 
