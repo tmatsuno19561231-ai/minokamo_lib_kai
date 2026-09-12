@@ -4,7 +4,8 @@ title: 図書館指標（岐阜県内市立図書館）
 ---
 **更新日付: 2026年8月30日**
 
-TOC {:toc}
+* TOC
+{:toc}
 
 ## 岐阜県内の市立図書館 (設置者コード別)専任計
 
@@ -34,7 +35,7 @@ TOC {:toc}
 
 ---
 出典：「日本の図書館 統計と名簿 2020年版」（公益社団法人日本図書館協会）
-（当該ページのURL： https://japanlibraryassociation.app.box.com/index.php?rm=box_download_shared_file&shared_name=ctkfz1ejj3e5n798vjticckl4nn3a85h&file_id=f_2183284821401 ）
+（当該ページのURL： https://japanlibraryassociation.app.box.com/index.phprm=box_download_shared_file&shared_name=ctkfz1ejj3e5n798vjticckl4nn3a85h&file_id=f_2183284821401 ）
 （2026年09月12日に利用）
 「日本の図書館 統計と名簿 2020年版」（日本図書館協会）（上記URL）を加工して作成 
 
@@ -66,7 +67,7 @@ TOC {:toc}
 
 ---
 出典：「日本の図書館 統計と名簿 2020年版」（公益社団法人日本図書館協会）
-（当該ページのURL： https://japanlibraryassociation.app.box.com/index.php?rm=box_download_shared_file&shared_name=ctkfz1ejj3e5n798vjticckl4nn3a85h&file_id=f_2183284821401 ）
+（当該ページのURL： https://japanlibraryassociation.app.box.com/index.phprm=box_download_shared_file&shared_name=ctkfz1ejj3e5n798vjticckl4nn3a85h&file_id=f_2183284821401 ）
 （2026年09月12日に利用）
 「日本の図書館 統計と名簿 2020年版」（日本図書館協会）（上記URL）を加工して作成 
 
@@ -98,7 +99,7 @@ TOC {:toc}
 
 ---
 出典：「日本の図書館 統計と名簿 2020年版」（公益社団法人日本図書館協会）
-（当該ページのURL： https://japanlibraryassociation.app.box.com/index.php?rm=box_download_shared_file&shared_name=ctkfz1ejj3e5n798vjticckl4nn3a85h&file_id=f_2183284821401 ）
+（当該ページのURL： https://japanlibraryassociation.app.box.com/index.phprm=box_download_shared_file&shared_name=ctkfz1ejj3e5n798vjticckl4nn3a85h&file_id=f_2183284821401 ）
 （2026年09月12日に利用）
 「日本の図書館 統計と名簿 2020年版」（日本図書館協会）（上記URL）を加工して作成 
 
@@ -130,7 +131,7 @@ TOC {:toc}
 
 ---
 出典：「日本の図書館 統計と名簿 2020年版」（公益社団法人日本図書館協会）
-（当該ページのURL： https://japanlibraryassociation.app.box.com/index.php?rm=box_download_shared_file&shared_name=ctkfz1ejj3e5n798vjticckl4nn3a85h&file_id=f_2183284821401 ）
+（当該ページのURL： https://japanlibraryassociation.app.box.com/index.phprm=box_download_shared_file&shared_name=ctkfz1ejj3e5n798vjticckl4nn3a85h&file_id=f_2183284821401 ）
 （2026年09月12日に利用）
 「日本の図書館 統計と名簿 2020年版」（日本図書館協会）（上記URL）を加工して作成 
 
@@ -162,7 +163,7 @@ TOC {:toc}
 
 ---
 出典：「日本の図書館 統計と名簿 2020年版」（公益社団法人日本図書館協会）
-（当該ページのURL： https://japanlibraryassociation.app.box.com/index.php?rm=box_download_shared_file&shared_name=ctkfz1ejj3e5n798vjticckl4nn3a85h&file_id=f_2183284821401 ）
+（当該ページのURL： https://japanlibraryassociation.app.box.com/index.phprm=box_download_shared_file&shared_name=ctkfz1ejj3e5n798vjticckl4nn3a85h&file_id=f_2183284821401 ）
 （2026年09月12日に利用）
 「日本の図書館 統計と名簿 2020年版」（日本図書館協会）（上記URL）を加工して作成 
 
@@ -194,7 +195,7 @@ TOC {:toc}
 
 ---
 出典：「日本の図書館 統計と名簿 2020年版」（公益社団法人日本図書館協会）
-（当該ページのURL： https://japanlibraryassociation.app.box.com/index.php?rm=box_download_shared_file&shared_name=ctkfz1ejj3e5n798vjticckl4nn3a85h&file_id=f_2183284821401 ）
+（当該ページのURL： https://japanlibraryassociation.app.box.com/index.phprm=box_download_shared_file&shared_name=ctkfz1ejj3e5n798vjticckl4nn3a85h&file_id=f_2183284821401 ）
 （2026年09月12日に利用）
 「日本の図書館 統計と名簿 2020年版」（日本図書館協会）（上記URL）を加工して作成 
 
@@ -226,7 +227,7 @@ TOC {:toc}
 
 ---
 出典：「日本の図書館 統計と名簿 2020年版」（公益社団法人日本図書館協会）
-（当該ページのURL： https://japanlibraryassociation.app.box.com/index.php?rm=box_download_shared_file&shared_name=ctkfz1ejj3e5n798vjticckl4nn3a85h&file_id=f_2183284821401 ）
+（当該ページのURL： https://japanlibraryassociation.app.box.com/index.phprm=box_download_shared_file&shared_name=ctkfz1ejj3e5n798vjticckl4nn3a85h&file_id=f_2183284821401 ）
 （2026年09月12日に利用）
 「日本の図書館 統計と名簿 2020年版」（日本図書館協会）（上記URL）を加工して作成 
 
@@ -258,8 +259,7 @@ TOC {:toc}
 
 ---
 出典：「日本の図書館 統計と名簿 2020年版」（公益社団法人日本図書館協会）
-（当該ページのURL： https://japanlibraryassociation.app.box.com/index.php?rm=box_download_shared_file&shared_name=ctkfz1ejj3e5n798vjticckl4nn3a85h&file_id=f_2183284821401 ）
-（2026年09月12日に利用）
+（当該ページのURL： https://japanlibraryassociation.app.box.com/index.php?rm=box_download_shared_file&shared_name=ctkfz1ejj3e5n798vjticckl4nn3a85h&file_id=f_2183284821401 ）（2026年09月12日に利用）
 「日本の図書館 統計と名簿 2020年版」（日本図書館協会）（上記URL）を加工して作成 
 
 ## 岐阜県内の市立図書館 (設置者コード別)うち開架図書
@@ -290,7 +290,7 @@ TOC {:toc}
 
 ---
 出典：「日本の図書館 統計と名簿 2020年版」（公益社団法人日本図書館協会）
-（当該ページのURL： https://japanlibraryassociation.app.box.com/index.php?rm=box_download_shared_file&shared_name=ctkfz1ejj3e5n798vjticckl4nn3a85h&file_id=f_2183284821401 ）
+（当該ページのURL： https://japanlibraryassociation.app.box.com/index.phprm=box_download_shared_file&shared_name=ctkfz1ejj3e5n798vjticckl4nn3a85h&file_id=f_2183284821401 ）
 （2026年09月12日に利用）
 「日本の図書館 統計と名簿 2020年版」（日本図書館協会）（上記URL）を加工して作成 
 
@@ -322,7 +322,7 @@ TOC {:toc}
 
 ---
 出典：「日本の図書館 統計と名簿 2020年版」（公益社団法人日本図書館協会）
-（当該ページのURL： https://japanlibraryassociation.app.box.com/index.php?rm=box_download_shared_file&shared_name=ctkfz1ejj3e5n798vjticckl4nn3a85h&file_id=f_2183284821401 ）
+（当該ページのURL： https://japanlibraryassociation.app.box.com/index.phprm=box_download_shared_file&shared_name=ctkfz1ejj3e5n798vjticckl4nn3a85h&file_id=f_2183284821401 ）
 （2026年09月12日に利用）
 「日本の図書館 統計と名簿 2020年版」（日本図書館協会）（上記URL）を加工して作成 
 
@@ -354,7 +354,7 @@ TOC {:toc}
 
 ---
 出典：「日本の図書館 統計と名簿 2020年版」（公益社団法人日本図書館協会）
-（当該ページのURL： https://japanlibraryassociation.app.box.com/index.php?rm=box_download_shared_file&shared_name=ctkfz1ejj3e5n798vjticckl4nn3a85h&file_id=f_2183284821401 ）
+（当該ページのURL： https://japanlibraryassociation.app.box.com/index.phprm=box_download_shared_file&shared_name=ctkfz1ejj3e5n798vjticckl4nn3a85h&file_id=f_2183284821401 ）
 （2026年09月12日に利用）
 「日本の図書館 統計と名簿 2020年版」（日本図書館協会）（上記URL）を加工して作成 
 
@@ -386,7 +386,7 @@ TOC {:toc}
 
 ---
 出典：「日本の図書館 統計と名簿 2020年版」（公益社団法人日本図書館協会）
-（当該ページのURL： https://japanlibraryassociation.app.box.com/index.php?rm=box_download_shared_file&shared_name=ctkfz1ejj3e5n798vjticckl4nn3a85h&file_id=f_2183284821401 ）
+（当該ページのURL： https://japanlibraryassociation.app.box.com/index.phprm=box_download_shared_file&shared_name=ctkfz1ejj3e5n798vjticckl4nn3a85h&file_id=f_2183284821401 ）
 （2026年09月12日に利用）
 「日本の図書館 統計と名簿 2020年版」（日本図書館協会）（上記URL）を加工して作成 
 
@@ -418,7 +418,7 @@ TOC {:toc}
 
 ---
 出典：「日本の図書館 統計と名簿 2020年版」（公益社団法人日本図書館協会）
-（当該ページのURL： https://japanlibraryassociation.app.box.com/index.php?rm=box_download_shared_file&shared_name=ctkfz1ejj3e5n798vjticckl4nn3a85h&file_id=f_2183284821401 ）
+（当該ページのURL： https://japanlibraryassociation.app.box.com/index.phprm=box_download_shared_file&shared_name=ctkfz1ejj3e5n798vjticckl4nn3a85h&file_id=f_2183284821401 ）
 （2026年09月12日に利用）
 「日本の図書館 統計と名簿 2020年版」（日本図書館協会）（上記URL）を加工して作成 
 
@@ -450,7 +450,7 @@ TOC {:toc}
 
 ---
 出典：「日本の図書館 統計と名簿 2020年版」（公益社団法人日本図書館協会）
-（当該ページのURL： https://japanlibraryassociation.app.box.com/index.php?rm=box_download_shared_file&shared_name=ctkfz1ejj3e5n798vjticckl4nn3a85h&file_id=f_2183284821401 ）
+（当該ページのURL： https://japanlibraryassociation.app.box.com/index.phprm=box_download_shared_file&shared_name=ctkfz1ejj3e5n798vjticckl4nn3a85h&file_id=f_2183284821401 ）
 （2026年09月12日に利用）
 「日本の図書館 統計と名簿 2020年版」（日本図書館協会）（上記URL）を加工して作成 
 
@@ -482,7 +482,7 @@ TOC {:toc}
 
 ---
 出典：「日本の図書館 統計と名簿 2020年版」（公益社団法人日本図書館協会）
-（当該ページのURL： https://japanlibraryassociation.app.box.com/index.php?rm=box_download_shared_file&shared_name=ctkfz1ejj3e5n798vjticckl4nn3a85h&file_id=f_2183284821401 ）
+（当該ページのURL： https://japanlibraryassociation.app.box.com/index.phprm=box_download_shared_file&shared_name=ctkfz1ejj3e5n798vjticckl4nn3a85h&file_id=f_2183284821401 ）
 （2026年09月12日に利用）
 「日本の図書館 統計と名簿 2020年版」（日本図書館協会）（上記URL）を加工して作成 
 
@@ -514,7 +514,7 @@ TOC {:toc}
 
 ---
 出典：「日本の図書館 統計と名簿 2020年版」（公益社団法人日本図書館協会）
-（当該ページのURL： https://japanlibraryassociation.app.box.com/index.php?rm=box_download_shared_file&shared_name=ctkfz1ejj3e5n798vjticckl4nn3a85h&file_id=f_2183284821401 ）
+（当該ページのURL： https://japanlibraryassociation.app.box.com/index.phprm=box_download_shared_file&shared_name=ctkfz1ejj3e5n798vjticckl4nn3a85h&file_id=f_2183284821401 ）
 （2026年09月12日に利用）
 「日本の図書館 統計と名簿 2020年版」（日本図書館協会）（上記URL）を加工して作成 
 
@@ -546,7 +546,7 @@ TOC {:toc}
 
 ---
 出典：「日本の図書館 統計と名簿 2020年版」（公益社団法人日本図書館協会）
-（当該ページのURL： https://japanlibraryassociation.app.box.com/index.php?rm=box_download_shared_file&shared_name=ctkfz1ejj3e5n798vjticckl4nn3a85h&file_id=f_2183284821401 ）
+（当該ページのURL： https://japanlibraryassociation.app.box.com/index.phprm=box_download_shared_file&shared_name=ctkfz1ejj3e5n798vjticckl4nn3a85h&file_id=f_2183284821401 ）
 （2026年09月12日に利用）
 「日本の図書館 統計と名簿 2020年版」（日本図書館協会）（上記URL）を加工して作成 
 
@@ -578,7 +578,7 @@ TOC {:toc}
 
 ---
 出典：「日本の図書館 統計と名簿 2020年版」（公益社団法人日本図書館協会）
-（当該ページのURL： https://japanlibraryassociation.app.box.com/index.php?rm=box_download_shared_file&shared_name=ctkfz1ejj3e5n798vjticckl4nn3a85h&file_id=f_2183284821401 ）
+（当該ページのURL： https://japanlibraryassociation.app.box.com/index.phprm=box_download_shared_file&shared_name=ctkfz1ejj3e5n798vjticckl4nn3a85h&file_id=f_2183284821401 ）
 （2026年09月12日に利用）
 「日本の図書館 統計と名簿 2020年版」（日本図書館協会）（上記URL）を加工して作成 
 
@@ -642,7 +642,7 @@ TOC {:toc}
 
 ---
 出典：「日本の図書館 統計と名簿 2020年版」（公益社団法人日本図書館協会）
-（当該ページのURL： https://japanlibraryassociation.app.box.com/index.php?rm=box_download_shared_file&shared_name=ctkfz1ejj3e5n798vjticckl4nn3a85h&file_id=f_2183284821401 ）
+（当該ページのURL： https://japanlibraryassociation.app.box.com/index.phprm=box_download_shared_file&shared_name=ctkfz1ejj3e5n798vjticckl4nn3a85h&file_id=f_2183284821401 ）
 （2026年09月12日に利用）
 「日本の図書館 統計と名簿 2020年版」（日本図書館協会）（上記URL）を加工して作成 
 
@@ -674,7 +674,7 @@ TOC {:toc}
 
 ---
 出典：「日本の図書館 統計と名簿 2020年版」（公益社団法人日本図書館協会）
-（当該ページのURL： https://japanlibraryassociation.app.box.com/index.php?rm=box_download_shared_file&shared_name=ctkfz1ejj3e5n798vjticckl4nn3a85h&file_id=f_2183284821401 ）
+（当該ページのURL： https://japanlibraryassociation.app.box.com/index.phprm=box_download_shared_file&shared_name=ctkfz1ejj3e5n798vjticckl4nn3a85h&file_id=f_2183284821401 ）
 （2026年09月12日に利用）
 「日本の図書館 統計と名簿 2020年版」（日本図書館協会）（上記URL）を加工して作成 
 
@@ -706,7 +706,7 @@ TOC {:toc}
 
 ---
 出典：「日本の図書館 統計と名簿 2020年版」（公益社団法人日本図書館協会）
-（当該ページのURL： https://japanlibraryassociation.app.box.com/index.php?rm=box_download_shared_file&shared_name=ctkfz1ejj3e5n798vjticckl4nn3a85h&file_id=f_2183284821401 ）
+（当該ページのURL： https://japanlibraryassociation.app.box.com/index.phprm=box_download_shared_file&shared_name=ctkfz1ejj3e5n798vjticckl4nn3a85h&file_id=f_2183284821401 ）
 （2026年09月12日に利用）
 「日本の図書館 統計と名簿 2020年版」（日本図書館協会）（上記URL）を加工して作成 
 
@@ -738,7 +738,7 @@ TOC {:toc}
 
 ---
 出典：「日本の図書館 統計と名簿 2020年版」（公益社団法人日本図書館協会）
-（当該ページのURL： https://japanlibraryassociation.app.box.com/index.php?rm=box_download_shared_file&shared_name=ctkfz1ejj3e5n798vjticckl4nn3a85h&file_id=f_2183284821401 ）
+（当該ページのURL： https://japanlibraryassociation.app.box.com/index.phprm=box_download_shared_file&shared_name=ctkfz1ejj3e5n798vjticckl4nn3a85h&file_id=f_2183284821401 ）
 （2026年09月12日に利用）
 「日本の図書館 統計と名簿 2020年版」（日本図書館協会）（上記URL）を加工して作成 
 
@@ -770,7 +770,7 @@ TOC {:toc}
 
 ---
 出典：「日本の図書館 統計と名簿 2020年版」（公益社団法人日本図書館協会）
-（当該ページのURL： https://japanlibraryassociation.app.box.com/index.php?rm=box_download_shared_file&shared_name=ctkfz1ejj3e5n798vjticckl4nn3a85h&file_id=f_2183284821401 ）
+（当該ページのURL： https://japanlibraryassociation.app.box.com/index.phprm=box_download_shared_file&shared_name=ctkfz1ejj3e5n798vjticckl4nn3a85h&file_id=f_2183284821401 ）
 （2026年09月12日に利用）
 「日本の図書館 統計と名簿 2020年版」（日本図書館協会）（上記URL）を加工して作成 
 
@@ -802,39 +802,6 @@ TOC {:toc}
 
 ---
 出典：「日本の図書館 統計と名簿 2020年版」（公益社団法人日本図書館協会）
-（当該ページのURL： https://japanlibraryassociation.app.box.com/index.php?rm=box_download_shared_file&shared_name=ctkfz1ejj3e5n798vjticckl4nn3a85h&file_id=f_2183284821401 ）
+（当該ページのURL： https://japanlibraryassociation.app.box.com/index.phprm=box_download_shared_file&shared_name=ctkfz1ejj3e5n798vjticckl4nn3a85h&file_id=f_2183284821401 ）
 （2026年09月12日に利用）
 「日本の図書館 統計と名簿 2020年版」（日本図書館協会）（上記URL）を加工して作成 
-
-# 岐阜県内の市立図書館 (設置者コード別)決算額うち図書費
-
-|   設置者コード | 図書館名1            |   決算額うち図書費 |
-|---------------:|:---------------------|-------------------:|
-|          21201 | 岐阜市立             |              57717 |
-|          21202 | 大垣市立             |              20237 |
-|          21203 | 高山市               |              25200 |
-|          21204 | 多治見市             |              17658 |
-|          21205 | 関市立               |              19002 |
-|          21206 | 中津川市立           |              10873 |
-|          21207 | 美濃市               |               4314 |
-|          21208 | 瑞浪市民             |               7873 |
-|          21209 | 羽島市立             |               9923 |
-|          21210 | 恵那市               |               9957 |
-|          21211 | 美濃加茂市           |              10200 |
-|          21212 | 土岐市               |              11884 |
-|          21213 | 各務原市立、各務原市 |              23212 |
-|          21214 | 可児市立             |              17325 |
-|          21215 | 山県市               |               3367 |
-|          21216 | 瑞穂市               |              12255 |
-|          21217 | 飛騨市               |               5838 |
-|          21218 | しんせい             |               6368 |
-|          21219 | 郡上市               |              10006 |
-|          21220 | 下呂市立             |               5932 |
-|          21221 | 海津市               |               5636 |
-
----
-出典：「日本の図書館 統計と名簿 2020年版」（公益社団法人日本図書館協会）
-（当該ページのURL： https://japanlibraryassociation.app.box.com/index.php?rm=box_download_shared_file&shared_name=ctkfz1ejj3e5n798vjticckl4nn3a85h&file_id=f_2183284821401 ）
-（2026年09月12日に利用）
-「日本の図書館 統計と名簿 2020年版」（日本図書館協会）（上記URL）を加工して作成 
-
