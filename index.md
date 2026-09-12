@@ -27,12 +27,13 @@ title: 美濃加茂市の図書館を考える会 資料室
 
 ## 図書館関係予算
 
-### 美濃加茂市歳入歳出決算書
+美濃加茂市歳入歳出決算書
 
 1. <a href = "https://www.city.minokamo.lg.jp/uploaded/attachment/15501.pdf#page=94" target="_blank">美濃加茂市一般会計　歳入歳出決算事項別明細書（歳出）令和５年度 94p</a>
 2.  <a href = "https://www.city.minokamo.lg.jp/soshiki/30/2633.html" target="_blank">美濃加茂市歳入歳出決算書</a>
 
-### 決算実績報告書
+決算実績報告書
+
 1. <a href = "https://www.city.minokamo.lg.jp/soshiki/28/2572.html" target="_blank">決算実績報告書</a>
 2. <a href = "./003.html" target="_blank" > <span style="color: red;">施設管理事業決算額の推移（令和元年から令和６年度まで）</span></a>
 
@@ -78,7 +79,8 @@ title: 美濃加茂市の図書館を考える会 資料室
 1. <a href = "https://www.city.minokamo.lg.jp/site/gikai/7808.html" target="_blank">傍聴について</a>※
 1. <a href = "https://www.city.minokamo.lg.jp/site/gikai/7853.html" target="_blank">請願・陳情・意見書</a>
 
-### 一般質問通告一覧
+一般質問通告一覧
+
 1. <a href = "https://www.city.minokamo.lg.jp/uploaded/attachment/21954.pdf" target="_blank">令和８年美濃加茂市議会第３回定例会一般質問通告一覧</a>
 1. <a href = "https://www.city.minokamo.lg.jp/uploaded/attachment/21205.pdf" target="_blank">令和８年美濃加茂市議会第２回定例会一般質問通告一覧</a> 
 1. <a href = "https://www.city.minokamo.lg.jp/uploaded/attachment/19924.pdf" target="_blank">令和８年美濃加茂市議会第１回定例会一般質問通告一覧</a>
