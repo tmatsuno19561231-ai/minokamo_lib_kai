@@ -705,6 +705,7 @@ title: 図書館指標（岐阜県内市立図書館　２０２０年）
 |          21219 | 郡上市               |            725 |
 |          21220 | 下呂市立             |            443 |
 |          21221 | 海津市               |            884 |
+
 ---
 出典：「日本の図書館 統計と名簿 2020年版」（公益社団法人日本図書館協会）
 （当該ページのURL： https://japanlibraryassociation.app.box.com/index.php?rm=box_download_shared_file&shared_name=ctkfz1ejj3e5n798vjticckl4nn3a85h&file_id=f_2183284821401 ）
@@ -768,6 +769,7 @@ title: 図書館指標（岐阜県内市立図書館　２０２０年）
 |          21219 | 郡上市               |          12073 |
 |          21220 | 下呂市立             |           6745 |
 |          21221 | 海津市               |           7430 |
+
 ---
 出典：「日本の図書館 統計と名簿 2020年版」（公益社団法人日本図書館協会）
 （当該ページのURL： https://japanlibraryassociation.app.box.com/index.php?rm=box_download_shared_file&shared_name=ctkfz1ejj3e5n798vjticckl4nn3a85h&file_id=f_2183284821401 ）
@@ -799,6 +801,7 @@ title: 図書館指標（岐阜県内市立図書館　２０２０年）
 |          21219 | 郡上市               |                   2067 |
 |          21220 | 下呂市立             |                    746 |
 |          21221 | 海津市               |                   1410 |
+
 ---
 出典：「日本の図書館 統計と名簿 2020年版」（公益社団法人日本図書館協会）
 （当該ページのURL： https://japanlibraryassociation.app.box.com/index.php?rm=box_download_shared_file&shared_name=ctkfz1ejj3e5n798vjticckl4nn3a85h&file_id=f_2183284821401 ）
@@ -830,6 +833,7 @@ title: 図書館指標（岐阜県内市立図書館　２０２０年）
 |          21219 | 郡上市               |                        0 |
 |          21220 | 下呂市立             |                       67 |
 |          21221 | 海津市               |                      384 |
+
 ---
 出典：「日本の図書館 統計と名簿 2020年版」（公益社団法人日本図書館協会）
 （当該ページのURL： https://japanlibraryassociation.app.box.com/index.php?rm=box_download_shared_file&shared_name=ctkfz1ejj3e5n798vjticckl4nn3a85h&file_id=f_2183284821401 ）
