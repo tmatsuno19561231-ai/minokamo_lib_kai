@@ -33,6 +33,14 @@ summary {
   cursor: pointer;
 }
 
+@media (orientation: landscape) and (max-width: 960px) {
+  /* スマホ・タブレットを横向きにした時だけに適用するデザイン */
+  body {
+    font-size: 16px;
+  }
+}
+
+
 
 /* 4. フッターの「maintained by...」の文字を非表示にする（既存の設定） */
 .site-footer {
