@@ -105,9 +105,9 @@ title: 美濃加茂市の図書館を考える会 資料室
 1. <a href = "https://www.city.minokamo.lg.jp/soshiki/36/17947.html" target="_blank">美濃加茂市総合教育会議会議録</a>
   
 ## 美濃加茂市　図書館指標
-1. <a href = "./data/stat1.html" target="_blank" >美濃加茂市の図書館指標　単館</a>
-1. <a href = "./data/stat2.html" target="_blank" >美濃加茂市の図書館指標　県内市立図書館</a>
-1. <a href = "./data/stat3.html" target="_blank" >美濃加茂市の図書館指標　県内市立図書館竣工年</a>
+1. <a href = "./data/stat1.html" target="_blank" >美濃加茂市立図書館　2003-2020</a>
+1. <a href = "./data/stat2.html" target="_blank" >県内市立図書館　2020年調査</a>
+1. <a href = "./data/stat3.html" target="_blank" >県内市立図書館竣工年　2020年調査</a>
 
 ## misc
 1. <a href = "https://www.mext.go.jp/a_menu/01_l/08052911/1282451.htm" target="_blank">図書館の設置及び運営上の望ましい基準（平成24年12月19日文部科学省告示第172号）</a>
