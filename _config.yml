@@ -1,8 +1,9 @@
 # remote_theme: jekyll/minima
 # theme: minima
 # theme: jekyll-theme-Minima
-# theme: jekyll-theme-cayman
-theme: jekyll-theme-minimal
+ theme: jekyll-theme-cayman
+
+# theme: jekyll-theme-minimal
 # theme: jekyll-theme-architect
 # theme: jekyll-theme-minima
 # 通常のパソコン（ローカル）でのテスト用
