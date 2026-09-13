@@ -15,6 +15,8 @@ title: 美濃加茂市の図書館を考える会 資料室
 ## 図書館関係法令等
 1. <a href = "https://laws.e-gov.go.jp/law/325AC0000000118/" target="_blank">図書館法（昭和二十五年法律第百十八号）</a>
 1. <a href = "https://laws.e-gov.go.jp/law/325M50000080027/" target="_blank"> 図書館法施行規則（昭和二十五年文部省令第二十七号）</a>
+1. <a href = "https://www.mext.go.jp/a_menu/01_l/08052911/1282451.htm" target="_blank">図書館の設置及び運営上の望ましい基準（平成24年12月19日文部科学省告示第172号）</a>
+---
 1. <a href = "https://www1.g-reiki.net/minokamo/reiki_honbun/i312RG00000367.html" target="_blank">美濃加茂市立図書館設置条例　昭和54年3月24日　条例第7号</a>
 1. <a href = "https://www1.g-reiki.net/minokamo/reiki_honbun/i312RG00001002.html" target="_blank">美濃加茂市立図書館設置条例施行規則 平成25年9月1日 規則第40号</a>
 1. <a href = "https://www1.g-reiki.net/minokamo/reiki_honbun/i312RG00000369.html" target="_blank">美濃加茂市立図書館協議会規則 平成21年3月31日 規則第25号</a>
@@ -110,7 +112,6 @@ title: 美濃加茂市の図書館を考える会 資料室
 1. <a href = "./data/stat3.html" target="_blank" >県内市立図書館竣工年　2020年調査</a>
 
 ## misc
-1. <a href = "https://www.mext.go.jp/a_menu/01_l/08052911/1282451.htm" target="_blank">図書館の設置及び運営上の望ましい基準（平成24年12月19日文部科学省告示第172号）</a>
 1. <a href = "https://www.mext.go.jp/b_menu/houdou/mext_01613.html" target="_blank">文部科学省　図書館が拓く未来の学びと地域社会（報告書）令和８年３月１７日</a>
 1. <a href = "https://www.mext.go.jp/a_menu/shougai/tosho/mext_00001.html" target="_blank">文部科学省　図書館・書店等連携実践事例集</a>
 
