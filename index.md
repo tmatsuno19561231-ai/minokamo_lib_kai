@@ -71,7 +71,7 @@ title: 美濃加茂市の図書館を考える会 資料室
 1. <a href ="https://www.city.minokamo.lg.jp/uploaded/attachment/17071.pdf" target="_blank">みんなの新庁舎かわらばんvol.2</a>
 1. <a href = "https://www.city.minokamo.lg.jp/uploaded/attachment/11932.pdf" target="_blank">みんなの新庁舎 かわらばんvol.1 2024年2月23日更新</a>
 1. <a href ="https://www.city.minokamo.lg.jp/uploaded/attachment/18539.pdf" target="_blank">新庁舎整備事業説明会説明会の質問に対する回答（2025.9.21開催：みのかも文化の森）</a>
-<a href = "./006.html" target="_blank" > <span style="color: red;">抜粋ある</span><a>
+<a href = "./006.html" target="_blank" > <span style="color: red;">抜粋あり</span><a>
 1. <a href ="https://www.city.minokamo.lg.jp/uploaded/attachment/20837.pdf" target="_blank"> 「美濃加茂市新庁舎整備基本構想（案）」に関する意見募集結果</a>　この情報は <a href = "https://www.city.minokamo.lg.jp/soshiki/26/2531.html" target="_blank"> パブリックコメント</a>に掲載あり。
 <a href = "./007.html" target="_blank" > <span style="color: red;">抜粋あり</span><a>
 
