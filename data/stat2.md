@@ -38,7 +38,7 @@ title: 図書館指標（岐阜県内市立図書館　2020年）
 
 当該ページのURL：
 
-[pb4_p基本市.CSV](https://japanlibraryassociation.app.box.com/s/ctkfz1ejj3e5n798vjticckl4nn3a85h/file/2183284821401）
+[pb4_p基本市.CSV](https://japanlibraryassociation.app.box.com/s/ctkfz1ejj3e5n798vjticckl4nn3a85h/file/2183284821401)
 
 （2026年09月12日に利用）
 
