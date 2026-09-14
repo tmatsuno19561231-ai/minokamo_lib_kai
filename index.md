@@ -109,9 +109,9 @@ title: 美濃加茂市の図書館を考える会 資料室
 1. <a href = "https://www.city.minokamo.lg.jp/gikai/kekka/r06pdf/r06_01_teireikai_ippanshitsumon.pdf" target="_blank">令和６年美濃加茂市議会第１回定例会一般質問通告一覧</a>
 -->
 
-
-
-1. <a href = "https://www.city.minokamo.lg.jp/soshiki/36/17947.html" target="_blank">美濃加茂市総合教育会議会議録</a>
+---
+1. <a href = "https://www.city.minokamo.lg.jp/soshiki/36/23142.html" target="_blank">令和8年度美濃加茂市教育委員会会議録</a>
+1. <a href = "https://www.city.minokamo.lg.jp/soshiki/36/17947.html" target="_blank">令和7年度美濃加茂市総合教育会議会議録</a>
   
 ## 美濃加茂市に係る図書館指標
 1. <a href = "./data/stat1.html" target="_blank" >美濃加茂市立図書館　2003-2020</a>
