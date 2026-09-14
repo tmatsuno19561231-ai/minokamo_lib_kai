@@ -54,7 +54,7 @@ title: 美濃加茂市の図書館を考える会 資料室
 1. <a href = "https://www.city.minokamo.lg.jp/uploaded/life/15706_26038_misc.pdf" target="_blank">美濃加茂市教育振興基本計画　令和７年度-令和１１年度　令和７年３月策定</a>
 1. <a href = "https://static.gifu-ebooks.jp/actibook_data/01_minokamo_city_6th_comprehensive_plan_late_basic_plan__/?pNo=48" target="_blank">美濃加茂市第6次総合計画後期基本計画</a>
 1. <a href = "https://www.city.minokamo.lg.jp/soshiki/26/6788.html" target="_blank">美濃加茂市　事業評価</a>
-1. <a href = "https://www.city.minokamo.lg.jp/uploaded/attachment/18717.pdf" target="_blank"> 市民協働部 ひとづくり課 事務事業 令和６年度 事業評価書 事務事業</a>
+1. <a href = "https://www.city.minokamo.lg.jp/uploaded/attachment/18717.pdf" target="_blank"> 美濃加茂市　事業評価  令和６年度 市民協働部 ひとづくり課 事務事業 事業評価書 事務事業</a>
 
 
 ## 美濃加茂市公共施設等類型別カルテ
