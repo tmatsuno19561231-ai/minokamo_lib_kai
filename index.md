@@ -34,6 +34,13 @@ title: 美濃加茂市の図書館を考える会 資料室
 
 ## 図書館年報等
 1. <a href = "https://www3.city.minokamo.gifu.jp/release/fileopen.cfm?id=388&filename=/%E5%9B%B3%E6%9B%B8%E9%A4%A8%E5%B9%B4%E5%A0%B1R7.pdf" target="_blank">図書館年報　令和７年度（令和６年度資料）</a>
+1. <a href = "https://www3.city.minokamo.gifu.jp/release/fileopen.cfm?id=366&filename=/%E5%B9%B4%E5%A0%B1R6.pdf" target="_blank">図書館年報　令和6年度（令和5年度資料）</a>
+1. <a href = "https://www3.city.minokamo.gifu.jp/release/fileopen.cfm?id=353&filename=/%E4%BB%A4%E5%92%8C5%E5%B9%B4%E5%BA%A6%E5%9B%B3%E6%9B%B8%E9%A4%A8%E5%B9%B4%E5%A0%B1.pdf" target="_blank">図書館年報　令和5年度（令和4年度資料）</a>
+1. <a href = "https://www3.city.minokamo.gifu.jp/release/fileopen.cfm?id=325&filename=/%E4%BB%A4%E5%92%8C4%E5%B9%B4%E5%BA%A6%EF%BC%88%E4%BB%A4%E5%92%8C3%E5%B9%B4%E5%BA%A6%E8%B3%87%E6%96%99%EF%BC%89%E5%9B%B3%E6%9B%B8%E9%A4%A8%E5%B9%B4%E5%A0%B1%20.pdf" target="_blank">図書館年報　令和4年度（令和3年度資料）</a>
+1. <a href = "https://www3.city.minokamo.gifu.jp/release/fileopen.cfm?id=326&filename=/%E4%BB%A4%E5%92%8C3%E5%B9%B4%E5%BA%A6%EF%BC%88%E4%BB%A4%E5%92%8C2%E5%B9%B4%E5%BA%A6%E8%B3%87%E6%96%99%EF%BC%89%E5%9B%B3%E6%9B%B8%E9%A4%A8%E5%B9%B4%E5%A0%B1.pdf" target="_blank">図書館年報　令和元年度（平成31年度資料）</a>
+1. <a href = "https://www3.city.minokamo.gifu.jp/release/fileopen.cfm?id=249&filename=/H30%E3%80%80%E5%B9%B4%E5%A0%B1.pdf" target="_blank">図書館年報　平成30年度（平成29年度資料）</a>
+1. <a href = "[https://www3.city.minokamo.gifu.jp/release/fileopen.cfm?id=159&filename=/H28%20%E5%9B%B3%E6%9B%B8%E9%A4%A8%E5%B9%B4%E5%A0%B1PDF.pdf](https://www3.city.minokamo.gifu.jp/release/fileopen.cfm?id=205&filename=/%E5%B9%B4%E5%A0%B1%EF%BC%92%EF%BC%99%E5%B9%B4%E7%89%88%E6%A0%A1%E6%AD%A3%E7%89%88.pdf)" target="_blank">図書館年報　平成29年度（平成28年度資料）</a>
+1. <a href = "https://www3.city.minokamo.gifu.jp/release/fileopen.cfm?id=107&filename=/%E5%B9%B3%E6%88%90%EF%BC%92%EF%BC%97%E5%B9%B4%E5%BA%A6%E3%80%80%E5%9B%B3%E6%9B%B8%E9%A4%A8%E5%B9%B4%E5%A0%B1.pdf" target="_blank">図書館年報　平成28年度（平成27年度資料）</a>
 
 ## 図書館関係予算
 
