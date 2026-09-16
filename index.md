@@ -163,6 +163,4 @@ title: 美濃加茂市の図書館を考える会 資料室
 ## 資料室のQRコード
 <img src="./data/QR_530075.png" alt="[QRコード](https://tmatsuno19561231-ai.github.io/minokamo_lib_kai/)" width="150" style="display: block; margin-right: auto; margin-left: 0;">
 
-https://tmatsuno19561231-ai.github.io/minokamo_lib_kai/
-
 
