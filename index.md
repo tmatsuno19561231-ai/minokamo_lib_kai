@@ -160,7 +160,7 @@ title: 美濃加茂市の図書館を考える会 資料室
 
 1. <a href ="https://tomonken.org/wp-content/uploads/2026/07/%E5%9B%B3%E6%9B%B8%E9%A4%A8%E8%A8%88%E7%94%BB%E3%81%AF%E3%81%93%E3%82%8C%E3%81%A7%E3%81%84%E3%81%84%E3%81%AE%E3%81%8B%EF%BC%9F-%E3%83%AA%E3%83%BC%E3%83%95%E3%83%AC%E3%83%83%E3%83%88%E6%94%B9%E8%A8%82%E7%89%88-2026.7.6.pdf" target="_blank">図書館問題研究会　図書館計画はこれでいいのか？　リーフレット改訂版 2026.7.6</a>
 
-## 資料室のQRコード
+## 資料室URLのQRコード
 <img src="./data/QR_530075.png" alt="[QRコード](https://tmatsuno19561231-ai.github.io/minokamo_lib_kai/)" width="150" style="display: block; margin-right: auto; margin-left: 0;">
 
 
