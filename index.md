@@ -9,12 +9,11 @@ title: 美濃加茂市の図書館を考える会 資料室
 
 # 活動記録
 - 2026-09-20(日）13:30 ～ 15:00 生涯学習センター402室　集い（第2回）予定
-<img src="./data/S__103948313.jpg" alt="代替テキスト" width="150" style="display: block; margin-right: auto; margin-left: 0;">
+<img src="./data/S__103948313.jpg" alt="　集い（第2回）" width="150" style="display: block; margin-right: auto; margin-left: 0;">
 
   
 - 2026-08-16(日）13:00 ～ 15:00 生涯学習センター203室　集い（第1回）
-<img src="./data/1789359271501.jpg" alt="代替テキスト" width="150" style="display: block; margin-right: auto; margin-left: 0;">
-
+<img src="./data/1789359271501.jpg" alt="集い（第1回）" width="150" style="display: block; margin-right: auto; margin-left: 0;">
 
 # 関係資料
 
@@ -160,4 +159,7 @@ title: 美濃加茂市の図書館を考える会 資料室
 
 
 1. <a href ="https://tomonken.org/wp-content/uploads/2026/07/%E5%9B%B3%E6%9B%B8%E9%A4%A8%E8%A8%88%E7%94%BB%E3%81%AF%E3%81%93%E3%82%8C%E3%81%A7%E3%81%84%E3%81%84%E3%81%AE%E3%81%8B%EF%BC%9F-%E3%83%AA%E3%83%BC%E3%83%95%E3%83%AC%E3%83%83%E3%83%88%E6%94%B9%E8%A8%82%E7%89%88-2026.7.6.pdf" target="_blank">図書館問題研究会　図書館計画はこれでいいのか？　リーフレット改訂版 2026.7.6</a>
+
+## このページのQRコード
+<img src="./data/QR_530075.png" alt="QRコード" width="150" style="display: block; margin-right: auto; margin-left: 0;">
 
