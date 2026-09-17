@@ -37,7 +37,7 @@ title: 美濃加茂市の図書館を考える会 資料室
 1. <a href = "https://www3.city.minokamo.gifu.jp/release/fileopen.cfm?id=353" target="_blank">図書館年報　令和5年度（令和4年度資料）</a>
 1. <a href = "https://www3.city.minokamo.gifu.jp/release/fileopen.cfm?id=325" target="_blank">図書館年報　令和4年度（令和3年度資料）</a>
 1. <a href = "https://www3.city.minokamo.gifu.jp/release/fileopen.cfm?id=326" target="_blank">図書館年報　令和3年度（令和2年度資料）</a>
-1. 図書館年報　令和2年度（令和元年度資料）該当リンク無し
+1. 図書館年報　令和2年度（令和元年度資料）　URL不明
 1. <a href = "https://www3.city.minokamo.gifu.jp/release/fileopen.cfm?id=271" target="_blank">図書館年報　令和元年度（平成30年度資料）</a>
 1. <a href = "https://www3.city.minokamo.gifu.jp/release/fileopen.cfm?id=249" target="_blank">図書館年報　平成30年度（平成29年度資料）</a>
 1. <a href = "https://www3.city.minokamo.gifu.jp/release/fileopen.cfm?id=205" target="_blank">図書館年報　平成29年度（平成28年度資料）</a>
