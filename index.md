@@ -77,7 +77,8 @@ title: 美濃加茂市の図書館を考える会 資料室
 1. <a href = "https://www.city.minokamo.lg.jp/uploaded/attachment/18717.pdf" target="_blank"> 美濃加茂市　市民協働部 ひとづくり課 令和６年度事業評価書 </a>
 
 
-## 美濃加茂市公共施設等類型別カルテ
+## 美濃加茂市公共施設等総合管理計画
+1. <a href ="https://www.city.minokamo.lg.jp/soshiki/27/2562.html" target="_blank">「美濃加茂市公共施設等総合管理計画」について</a>
 1. <a href ="https://www.city.minokamo.lg.jp/uploaded/attachment/6761.pdf" target="_blank">美濃加茂市公共施設等総合管理計画　本編＋資料編1・2（令和4年3月一部改訂）</a>
 1. <a href = "https://www.city.minokamo.lg.jp/uploaded/attachment/19601.pdf#page=48" target="_blank" >R7公共施設等類型別カルテ（公共施設白書）</a><a href = "./001.html" target="_blank" > <span style="color: red;">抜粋あり</span></a> 
 
