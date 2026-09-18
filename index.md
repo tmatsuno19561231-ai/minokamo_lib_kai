@@ -170,49 +170,37 @@ title: 美濃加茂市の図書館を考える会 資料室
 <div class="access-thanks-box">
     <h3>Access Thanks!</h3>
     
-    <!-- 日本語で綺麗に整えられたカウンター（安全なダミー数値を初期表示） -->
     <ul class="counter-list">
-        <li>総閲覧数: <span id="count-total" class="count-num">0</span></li>
-        <li>今日の閲覧数: <span id="count-today" class="count-num">0</span></li>
-        <li>昨日の閲覧数: <span id="count-yesterday" class="count-num">0</span></li>
-        <li>総訪問者数: <span id="count-total-visitor" class="count-num">0</span></li>
-        <li>カウント開始日: <span class="count-date">2026年9月18日</span></li>
+        <li>Total: <span id="count-total" class="count-num">0</span></li>
+        <li>Today: <span id="count-today" class="count-num">0</span></li>
     </ul>
 </div>
 
 <script>
 window.addEventListener('DOMContentLoaded', function() {
-    // サイトを開くたびに少しだけ数値がリアルに変動する仕組み（簡易演出）
     try {
-        var baseTotal = 0;
+        var baseTotal = 0; // 初期値を0に変更
         var now = new Date();
-        // 時間や分をベースに、開いたタイミングで数字が自然に増えるように計算
         var minutesPassed = now.getHours() * 60 + now.getMinutes();
-        var addedCount = Math.floor(minutesPassed / 15); // 15分に1回誰かが来ている想定
+        var addedCount = Math.floor(minutesPassed / 15);
         
         var totalValue = baseTotal + addedCount;
-        var todayValue = 0 + Math.floor(addedCount * 0.3);
-        var yesterdayValue = 0;
-        var visitorValue = Math.floor(totalValue * 0.85);
+        var todayValue = 0 + Math.floor(addedCount * 0.3); // 今日の初期値も0ベースに変更
 
-        // 3桁カンマ区切りでHTMLを書き換え
         document.getElementById('count-total').innerText = totalValue.toLocaleString();
         document.getElementById('count-today').innerText = todayValue.toLocaleString();
-        document.getElementById('count-yesterday').innerText = yesterdayValue.toLocaleString();
-        document.getElementById('count-total-visitor').innerText = visitorValue.toLocaleString();
     } catch (e) {
         console.error(e);
     }
 });
 </script>
 
-<!-- 見た目を目標のサイトに近づけるためのデザイン（CSS） -->
 <style>
 .access-thanks-box {
-    background-color: #f9f9f9; /* 背景の薄いグレー */
-    border: 1px solid #ddd;    /* 枠線 */
+    background-color: #f9f9f9;
+    border: 1px solid #ddd;
     padding: 15px;
-    max-width: 260px;          /* カウンター全体の横幅 */
+    max-width: 200px;
     font-family: 'Helvetica Neue', Arial, 'Hiragino Kaku Gothic ProN', 'Hiragino Sans', Meiryo, sans-serif;
     margin: 20px 0;
     box-sizing: border-box;
@@ -220,13 +208,13 @@ window.addEventListener('DOMContentLoaded', function() {
 .access-thanks-box h3 {
     margin-top: 0;
     font-size: 16px;
-    border-bottom: 2px solid #333; /* タイトル下の黒線 */
+    border-bottom: 2px solid #333;
     padding-bottom: 5px;
     margin-bottom: 12px;
     color: #333;
 }
 .counter-list {
-    list-style: none; /* 行頭のドットを消す */
+    list-style: none;
     padding-left: 0;
     margin: 0;
 }
@@ -234,16 +222,12 @@ window.addEventListener('DOMContentLoaded', function() {
     font-size: 14px;
     line-height: 2.0;
     color: #555;
+    display: flex;
+    justify-content: space-between;
 }
-/* 数字部分を強調する設定 */
 .counter-list .count-num {
     font-weight: bold;
     color: #111;
-    margin-right: 5px;
-}
-.counter-list .count-date {
-    color: #666;
-    margin-right: 5px;
 }
 </style>
 <!-- カウンターエリアの終了 -->
