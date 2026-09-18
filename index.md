@@ -167,18 +167,14 @@ title: 美濃加茂市の図書館を考える会 資料室
 ---
 
 <!-- ======================================================
-     アクセスカウンター（画像から数値を自動抽出してテキスト化）
+     アクセスカウンター（修正版：極小画像で確実にカウント）
      ====================================================== -->
 <div class="access-thanks-box">
     <h3>Access Thanks!</h3>
     
-    <!-- 1. 外部カウンターからデータをこっそり取得するための非表示エリア -->
-    <div style="display:none;">
-        <a href='http://freevisitorcounters.com'>click here</a>
+    <!-- 1. 外部カウンターを1ピクセルで実際に画面に描画してカウントさせる -->
+    <div id="raw-counter-data" style="position: absolute; width: 1px; height: 1px; overflow: hidden; opacity: 0;">
         <script type='text/javascript' src='https://freevisitorcounters.com'></script>
-    </div>
-    <div id="raw-counter-data" style="display:none;">
-        <script type="text/javascript" src="https://freevisitorcounters.com"></script>
     </div>
 
     <!-- 2. 実際に画面に表示される日本語カウンター -->
@@ -191,30 +187,25 @@ title: 美濃加茂市の図書館を考える会 資料室
     </ul>
 </div>
 
-<!-- 3. 画像のURLから数字を抜き出してハメ込むプログラム -->
+<!-- 3. 画像のURLから数字を抜き出してハメ込むプログラム（変更なし） -->
 <script>
 window.addEventListener('DOMContentLoaded', function() {
-    // 外部の海外サーバーから画像データが届くまで、0.2秒おきに見張る処理
     var checkInterval = setInterval(function() {
         var rawDataArea = document.getElementById('raw-counter-data');
         if (!rawDataArea) return;
 
-        // 生成された画像（imgタグ）をすべて取得
         var imgs = rawDataArea.getElementsByTagName('img');
         
-        // カウンターの画像が届いたら処理を開始
         if (imgs && imgs.length > 0) {
-            clearInterval(checkInterval); // 見張り番を終了
+            clearInterval(checkInterval);
 
             var total = 0;
             var today = 0;
             var yesterday = 0;
 
-            // 画像のURL（例: ...&cnt=1&tod=1&yes=0 のような文字列）を解析
             for (var i = 0; i < imgs.length; i++) {
                 var src = imgs[i].src;
                 
-                // URLのパラメーターから数字を取り出す
                 var cntMatch = src.match(/cnt=([0-9]+)/);
                 var todMatch = src.match(/tod=([0-9]+)/);
                 var yesMatch = src.match(/yes=([0-9]+)/);
@@ -224,19 +215,16 @@ window.addEventListener('DOMContentLoaded', function() {
                 if (yesMatch) yesterday = parseInt(yesMatch[1], 10);
             }
 
-            // 数字にカンマ（1,000など）をつけて画面に反映
             document.getElementById('count-total').innerText = total.toLocaleString();
             document.getElementById('count-today').innerText = today.toLocaleString();
             document.getElementById('count-yesterday').innerText = yesterday.toLocaleString();
             
-            // 総訪問者数は、総閲覧数の約85%として自動計算
             var totalVisitor = Math.floor(total * 0.85);
-            if (totalVisitor === 0 && total > 0) totalVisitor = total; // 最低でも合計数と同じにする安全策
+            if (totalVisitor === 0 && total > 0) totalVisitor = total;
             document.getElementById('count-total-visitor').innerText = totalVisitor.toLocaleString();
         }
     }, 200);
 
-    // 万が一データが届かなかった場合の安全装置（7秒で諦めて初期値を表示）
     setTimeout(function() {
         clearInterval(checkInterval);
         var totalEl = document.getElementById('count-total');
@@ -253,10 +241,10 @@ window.addEventListener('DOMContentLoaded', function() {
 <!-- 4. 見た目を綺麗に整えるデザイン（CSS） -->
 <style>
 .access-thanks-box {
-    background-color: #f9f9f9; /* 背景の薄いグレー */
-    border: 1px solid #ddd;    /* 枠線 */
+    background-color: #f9f9f9;
+    border: 1px solid #ddd;
     padding: 15px;
-    max-width: 260px;          /* カウンター全体の横幅 */
+    max-width: 260px;
     font-family: 'MS Pゴシック', sans-serif;
     margin: 20px 0;
     box-sizing: border-box;
@@ -264,13 +252,13 @@ window.addEventListener('DOMContentLoaded', function() {
 .access-thanks-box h3 {
     margin-top: 0;
     font-size: 16px;
-    border-bottom: 2px solid #333; /* タイトル下の黒線 */
+    border-bottom: 2px solid #333;
     padding-bottom: 5px;
     margin-bottom: 12px;
     color: #333;
 }
 .counter-list {
-    list-style: none; /* 行頭の「・」を消す */
+    list-style: none;
     padding-left: 0;
     margin: 0;
 }
@@ -279,7 +267,6 @@ window.addEventListener('DOMContentLoaded', function() {
     line-height: 2.0;
     color: #555;
 }
-/* 数字部分を強調する太字の設定 */
 .counter-list .count-num {
     font-weight: bold;
     color: #111;
