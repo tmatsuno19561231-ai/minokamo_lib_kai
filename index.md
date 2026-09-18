@@ -184,11 +184,11 @@ title: 美濃加茂市の図書館を考える会 資料室
 
     <!-- 日本語で綺麗に整えられたカウンターが表示される場所 -->
     <ul class="counter-list">
-        <li><span id="count-total" class="count-num">0</span> 総閲覧数:</li>
-        <li><span id="count-today" class="count-num">0</span> 今日の閲覧数:</li>
-        <li><span id="count-yesterday" class="count-num">0</span> 昨日の閲覧数:</li>
-        <li><span id="count-total-visitor" class="count-num">0</span> 総訪問者数:</li>
-        <li><span class="count-date">2026年9月18日</span> カウント開始日:</li>
+        <li>総閲覧数: <span id="count-total" class="count-num">読み込み中...</span></li>
+        <li>今日の閲覧数: <span id="count-today" class="count-num">読み込み中...</span></li>
+        <li>昨日の閲覧数: <span id="count-yesterday" class="count-num">読み込み中...</span></li>
+        <li>総訪問者数: <span id="count-total-visitor" class="count-num">読み込み中...</span></li>
+        <li>カウント開始日: <span class="count-date">2026年9月18日</span></li>
     </ul>
 </div>
 
