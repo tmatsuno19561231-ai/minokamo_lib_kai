@@ -172,10 +172,10 @@ title: 美濃加茂市の図書館を考える会 資料室
     
     <!-- 日本語で綺麗に整えられたカウンター（安全なダミー数値を初期表示） -->
     <ul class="counter-list">
-        <li>総閲覧数: <span id="count-total" class="count-num">1,248</span></li>
-        <li>今日の閲覧数: <span id="count-today" class="count-num">12</span></li>
-        <li>昨日の閲覧数: <span id="count-yesterday" class="count-num">35</span></li>
-        <li>総訪問者数: <span id="count-total-visitor" class="count-num">1,061</span></li>
+        <li>総閲覧数: <span id="count-total" class="count-num">0</span></li>
+        <li>今日の閲覧数: <span id="count-today" class="count-num">0</span></li>
+        <li>昨日の閲覧数: <span id="count-yesterday" class="count-num">0</span></li>
+        <li>総訪問者数: <span id="count-total-visitor" class="count-num">0</span></li>
         <li>カウント開始日: <span class="count-date">2026年9月18日</span></li>
     </ul>
 </div>
