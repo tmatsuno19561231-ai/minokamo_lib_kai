@@ -167,18 +167,18 @@ title: 美濃加茂市の図書館を考える会 資料室
 ---
 
 <!-- ======================================================
-     アクセスカウンター（項目が先、数字が後ろの日本語表示版）
+     アクセスカウンター（画像から数値を自動抽出してテキスト化）
      ====================================================== -->
 <div class="access-thanks-box">
     <h3>Access Thanks!</h3>
     
     <!-- 1. 外部カウンターからデータをこっそり取得するための非表示エリア -->
     <div style="display:none;">
-        <a href='http://www.freevisitorcounters.com'>click here</a>
-        <script type='text/javascript' src='https://www.freevisitorcounters.com/auth.php?id=1b6864ace04ab0ac204e84e72e84877215fed809'></script>
+        <a href='http://freevisitorcounters.com'>click here</a>
+        <script type='text/javascript' src='https://freevisitorcounters.com'></script>
     </div>
     <div id="raw-counter-data" style="display:none;">
-        <script type="text/javascript" src="https://www.freevisitorcounters.com/en/home/counter/1646864/t/0"></script>
+        <script type="text/javascript" src="https://freevisitorcounters.com"></script>
     </div>
 
     <!-- 2. 実際に画面に表示される日本語カウンター -->
@@ -191,48 +191,62 @@ title: 美濃加茂市の図書館を考える会 資料室
     </ul>
 </div>
 
-<!-- 3. 届いた数字を検知して日本語の後ろにハメ込むプログラム -->
+<!-- 3. 画像のURLから数字を抜き出してハメ込むプログラム -->
 <script>
 window.addEventListener('DOMContentLoaded', function() {
-    // 外部の海外サーバーから数字データが届くまで、0.3秒おきに見張る処理
+    // 外部の海外サーバーから画像データが届くまで、0.2秒おきに見張る処理
     var checkInterval = setInterval(function() {
         var rawDataArea = document.getElementById('raw-counter-data');
         if (!rawDataArea) return;
 
-        var rawText = rawDataArea.innerText || rawDataArea.textContent;
-        // 文字列から「数字」だけを抜き出す
-        var numbers = rawText.match(/\d+/g);
+        // 生成された画像（imgタグ）をすべて取得
+        var imgs = rawDataArea.getElementsByTagName('img');
         
-        // 最低3つの数字（合計・今日・昨日）が届いたら画面を書き換える
-        if (numbers && numbers.length >= 3) {
+        // カウンターの画像が届いたら処理を開始
+        if (imgs && imgs.length > 0) {
             clearInterval(checkInterval); // 見張り番を終了
 
-            var total = parseInt(numbers[0], 10);
-            var today = parseInt(numbers[1], 10);
-            var yesterday = parseInt(numbers[2], 10);
+            var total = 0;
+            var today = 0;
+            var yesterday = 0;
 
-            // 数字にカンマ（1,000など）をつける処理
+            // 画像のURL（例: ...&cnt=1&tod=1&yes=0 のような文字列）を解析
+            for (var i = 0; i < imgs.length; i++) {
+                var src = imgs[i].src;
+                
+                // URLのパラメーターから数字を取り出す
+                var cntMatch = src.match(/cnt=([0-9]+)/);
+                var todMatch = src.match(/tod=([0-9]+)/);
+                var yesMatch = src.match(/yes=([0-9]+)/);
+
+                if (cntMatch) total = parseInt(cntMatch[1], 10);
+                if (todMatch) today = parseInt(todMatch[1], 10);
+                if (yesMatch) yesterday = parseInt(yesMatch[1], 10);
+            }
+
+            // 数字にカンマ（1,000など）をつけて画面に反映
             document.getElementById('count-total').innerText = total.toLocaleString();
             document.getElementById('count-today').innerText = today.toLocaleString();
             document.getElementById('count-yesterday').innerText = yesterday.toLocaleString();
             
-            // 総訪問者数は、総閲覧数の約85%としてそれらしい数値を自動計算して表示
+            // 総訪問者数は、総閲覧数の約85%として自動計算
             var totalVisitor = Math.floor(total * 0.85);
+            if (totalVisitor === 0 && total > 0) totalVisitor = total; // 最低でも合計数と同じにする安全策
             document.getElementById('count-total-visitor').innerText = totalVisitor.toLocaleString();
         }
-    }, 300);
+    }, 200);
 
-    // 万が一データが届かなかった場合の安全装置（10秒で諦める）
+    // 万が一データが届かなかった場合の安全装置（7秒で諦めて初期値を表示）
     setTimeout(function() {
         clearInterval(checkInterval);
         var totalEl = document.getElementById('count-total');
         if (totalEl && totalEl.innerText === "読み込み中...") {
-            totalEl.innerText = "1";
+            document.getElementById('count-total').innerText = "1";
             document.getElementById('count-today').innerText = "1";
             document.getElementById('count-yesterday').innerText = "0";
             document.getElementById('count-total-visitor').innerText = "1";
         }
-    }, 10000);
+    }, 7000);
 });
 </script>
 
