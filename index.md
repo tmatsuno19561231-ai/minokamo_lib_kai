@@ -181,7 +181,7 @@ title: 美濃加茂市の図書館を考える会 資料室
 
     <!-- 
       本物のカウンター画像（スタイル0番）を非表示で読み込み、
-      そこからJavaScriptで実際のアクセスカウント数（数値）を自動で抽出します。
+      そこからJavaScriptで実際のアクセスタウント数（数値）を自動で抽出します。
     -->
     <iframe id="counter-loader-frame" style="display:none;" srcdoc="
         <script type='text/javascript' src='https://www.freevisitorcounters.com/en/home/counter/1646800/t/0'></script>
