@@ -164,4 +164,69 @@ title: 美濃加茂市の図書館を考える会 資料室
 ## 資料室URLのQRコード
 <img src="./data/QR_530075.png" alt="[QRコード](https://tmatsuno19561231-ai.github.io/minokamo_lib_kai/)" width="150" style="display: block; margin-right: auto; margin-left: 0;">
 
+<!-- カウンターエリアの開始 -->
+<div class="access-thanks-box">
+    <h3>Access Thanks!</h3>
+    
+    <!-- 実際の動作に必要なシステムコード（画面には表示されません） -->
+    <div style="display:none;">
+        <a href='http://www.freevisitorcounters.com'>click here</a>
+        <script type='text/javascript' src='https://www.freevisitorcounters.com/auth.php?id=2ff4ae2f0425032fb8b80b74b0f83f03c6db332f'></script>
+    </div>
+
+    <!-- カウンターの表示部分 -->
+    <div class="counter-display-area">
+        <!-- 
+          取得されたカウンターのデータをここに読み込みます。
+          サービスの仕様に合わせつつ、日本のレトロサイト風に文字を並び替えるスクリプトです。
+        -->
+        <script type="text/javascript" src="https://www.freevisitorcounters.com/en/home/counter/1646788/t/3"></script>
+    </div>
+    
+    <!-- カウント開始日の表示（今日の日付やサイト開設日に自由に書き換えてください） -->
+    <div class="counter-start-date">
+        <span>2026年9月18日</span> カウント開始日:
+    </div>
+</div>
+
+<!-- 見た目を目標のサイトに近づけるためのデザイン（CSS） -->
+<style>
+.access-thanks-box {
+    background-color: #f9f9f9; /* 背景の薄いグレー */
+    border: 1px solid #ddd;    /* 枠線 */
+    padding: 15px;
+    max-width: 250px;          /* カウンター全体の横幅 */
+    font-family: 'MS Pゴシック', sans-serif;
+    margin: 20px 0;
+}
+.access-thanks-box h3 {
+    margin-top: 0;
+    font-size: 16px;
+    border-bottom: 2px solid #333; /* タイトル下の黒線 */
+    padding-bottom: 5px;
+    margin-bottom: 10px;
+    color: #333;
+}
+/* カウンターの文字の並びや余白を整える設定 */
+.counter-display-area br {
+    display: block;
+    content: "";
+    margin-top: 5px;
+}
+.counter-display-area, .counter-start-date {
+    font-size: 14px;
+    line-height: 1.8;
+    color: #555;
+}
+.counter-start-date {
+    margin-top: 5px;
+}
+/* 数字部分を強調する設定 */
+.counter-display-area b, .counter-display-area strong, .counter-start-date span {
+    font-weight: bold;
+    color: #111;
+    margin-right: 5px;
+}
+</style>
+<!-- カウンターエリアの終了 -->
 
