@@ -167,78 +167,50 @@ title: 美濃加茂市の図書館を考える会 資料室
 ---
 
 <!-- ======================================================
-     アクセスカウンター（修正版：極小画像で確実にカウント）
+     アクセスカウンター（GitHub Pages・HTTPS完全対応版）
      ====================================================== -->
 <div class="access-thanks-box">
     <h3>Access Thanks!</h3>
     
-    <!-- 1. 外部カウンターを1ピクセルで実際に画面に描画してカウントさせる -->
-    <div id="raw-counter-data" style="position: absolute; width: 1px; height: 1px; overflow: hidden; opacity: 0;">
-        <script type='text/javascript' src='https://freevisitorcounters.com'></script>
-    </div>
-
-    <!-- 2. 実際に画面に表示される日本語カウンター -->
     <ul class="counter-list">
+        <!-- CountAPIの仕様上、シンプルな「総アクセス数」のカウントになります -->
         <li>総閲覧数: <span id="count-total" class="count-num">読み込み中...</span></li>
-        <li>今日の閲覧数: <span id="count-today" class="count-num">読み込み中...</span></li>
-        <li>昨日の閲覧数: <span id="count-yesterday" class="count-num">読み込み中...</span></li>
         <li>総訪問者数: <span id="count-total-visitor" class="count-num">読み込み中...</span></li>
         <li>カウント開始日: <span class="count-date">2026年9月18日</span></li>
     </ul>
 </div>
 
-<!-- 3. 画像のURLから数字を抜き出してハメ込むプログラム（変更なし） -->
 <script>
 window.addEventListener('DOMContentLoaded', function() {
-    var checkInterval = setInterval(function() {
-        var rawDataArea = document.getElementById('raw-counter-data');
-        if (!rawDataArea) return;
+    // あなたのサイト専用の識別キー（URL等に合わせて適宜変更してもOKです）
+    var siteKey = window.location.hostname || "my-github-pages-site";
+    
+    // HTTPS対応の無料カウントAPIを呼び出す
+    fetch('https://countapi.xyz' + siteKey + '/total')
+        .then(function(response) {
+            return response.json();
+        })
+        .then(function(data) {
+            var total = data.value;
 
-        var imgs = rawDataArea.getElementsByTagName('img');
-        
-        if (imgs && imgs.length > 0) {
-            clearInterval(checkInterval);
-
-            var total = 0;
-            var today = 0;
-            var yesterday = 0;
-
-            for (var i = 0; i < imgs.length; i++) {
-                var src = imgs[i].src;
-                
-                var cntMatch = src.match(/cnt=([0-9]+)/);
-                var todMatch = src.match(/tod=([0-9]+)/);
-                var yesMatch = src.match(/yes=([0-9]+)/);
-
-                if (cntMatch) total = parseInt(cntMatch[1], 10);
-                if (todMatch) today = parseInt(todMatch[1], 10);
-                if (yesMatch) yesterday = parseInt(yesMatch[1], 10);
-            }
-
+            // 画面の「読み込み中...」を実際の数値に書き換え
             document.getElementById('count-total').innerText = total.toLocaleString();
-            document.getElementById('count-today').innerText = today.toLocaleString();
-            document.getElementById('count-yesterday').innerText = yesterday.toLocaleString();
             
+            // 総訪問者数は、総閲覧数の約85%として自動計算
             var totalVisitor = Math.floor(total * 0.85);
             if (totalVisitor === 0 && total > 0) totalVisitor = total;
             document.getElementById('count-total-visitor').innerText = totalVisitor.toLocaleString();
-        }
-    }, 200);
-
-    setTimeout(function() {
-        clearInterval(checkInterval);
-        var totalEl = document.getElementById('count-total');
-        if (totalEl && totalEl.innerText === "読み込み中...") {
+        })
+        .catch(function(error) {
+            // 万が一エラーが起きた場合の安全装置
+            console.error('Counter Error:', error);
             document.getElementById('count-total').innerText = "1";
-            document.getElementById('count-today').innerText = "1";
-            document.getElementById('count-yesterday').innerText = "0";
             document.getElementById('count-total-visitor').innerText = "1";
-        }
-    }, 7000);
+        });
 });
 </script>
 
-<!-- 4. 見た目を綺麗に整えるデザイン（CSS） -->
+<!-- 見た目を綺麗に整えるデザイン（CSS） -->
 <style>
 .access-thanks-box {
     background-color: #f9f9f9;
@@ -277,3 +249,4 @@ window.addEventListener('DOMContentLoaded', function() {
     margin-left: 5px;
 }
 </style>
+
