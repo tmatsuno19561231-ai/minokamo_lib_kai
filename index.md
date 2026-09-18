@@ -191,8 +191,8 @@ window.addEventListener('DOMContentLoaded', function() {
         var addedCount = Math.floor(minutesPassed / 15); // 15分に1回誰かが来ている想定
         
         var totalValue = baseTotal + addedCount;
-        var todayValue = 12 + Math.floor(addedCount * 0.3);
-        var yesterdayValue = 35;
+        var todayValue = 0 + Math.floor(addedCount * 0.3);
+        var yesterdayValue = 0;
         var visitorValue = Math.floor(totalValue * 0.85);
 
         // 3桁カンマ区切りでHTMLを書き換え
