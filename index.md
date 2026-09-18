@@ -184,7 +184,7 @@ title: 美濃加茂市の図書館を考える会 資料室
 window.addEventListener('DOMContentLoaded', function() {
     // サイトを開くたびに少しだけ数値がリアルに変動する仕組み（簡易演出）
     try {
-        var baseTotal = 1248;
+        var baseTotal = 0;
         var now = new Date();
         // 時間や分をベースに、開いたタイミングで数字が自然に増えるように計算
         var minutesPassed = now.getHours() * 60 + now.getMinutes();
