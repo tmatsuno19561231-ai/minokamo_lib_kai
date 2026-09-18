@@ -166,87 +166,606 @@ title: 美濃加茂市の図書館を考える会 資料室
 
 ---
 
-<!-- ======================================================
-     アクセスカウンター（GitHub Pages・HTTPS完全対応版）
-     ====================================================== -->
-<div class="access-thanks-box">
-    <h3>Access Thanks!</h3>
-    
-    <ul class="counter-list">
-        <!-- CountAPIの仕様上、シンプルな「総アクセス数」のカウントになります -->
-        <li>総閲覧数: <span id="count-total" class="count-num">読み込み中...</span></li>
-        <li>総訪問者数: <span id="count-total-visitor" class="count-num">読み込み中...</span></li>
-        <li>カウント開始日: <span class="count-date">2026年9月18日</span></li>
-    </ul>
+```html
+<!-- =========================================================
+     minokamo_lib_kai
+     GitHub Pages 用アクセスカウンター 完成版
+
+     対象サイト：
+     https://tmatsuno19561231-ai.github.io/minokamo_lib_kai/
+
+     機能：
+     ・総閲覧数
+     ・実際のAPIによるアクセスカウント
+     ・30分以内の同一訪問者の重複カウントをAPI側で除外
+     ・HTTPS対応
+     ・スマートフォン対応
+     ・APIエラー時に「1」と偽表示しない
+     ・カウント開始日を固定表示
+
+     ========================================================= -->
+
+<div id="access-counter" class="access-counter-box">
+
+    <div class="access-counter-title">
+        <span class="access-counter-icon">◎</span>
+        <span>Access Thanks!</span>
+    </div>
+
+    <div class="access-counter-line"></div>
+
+    <div class="access-counter-item">
+        <span class="access-counter-label">
+            総閲覧数
+        </span>
+
+        <span
+            id="access-count-total"
+            class="access-counter-number">
+            読み込み中...
+        </span>
+    </div>
+
+    <div class="access-counter-item">
+        <span class="access-counter-label">
+            カウント開始日
+        </span>
+
+        <span class="access-counter-date">
+            2026年9月18日
+        </span>
+    </div>
+
+    <div
+        id="access-counter-status"
+        class="access-counter-status">
+        アクセス数を確認しています…
+    </div>
+
 </div>
 
-<script>
-window.addEventListener('DOMContentLoaded', function() {
-    // あなたのサイト専用の識別キー（URL等に合わせて適宜変更してもOKです）
-    var siteKey = window.location.hostname || "my-github-pages-site";
-    
-    // HTTPS対応の無料カウントAPIを呼び出す
-    fetch('https://countapi.xyz' + siteKey + '/total')
-        .then(function(response) {
-            return response.json();
-        })
-        .then(function(data) {
-            var total = data.value;
 
-            // 画面の「読み込み中...」を実際の数値に書き換え
-            document.getElementById('count-total').innerText = total.toLocaleString();
-            
-            // 総訪問者数は、総閲覧数の約85%として自動計算
-            var totalVisitor = Math.floor(total * 0.85);
-            if (totalVisitor === 0 && total > 0) totalVisitor = total;
-            document.getElementById('count-total-visitor').innerText = totalVisitor.toLocaleString();
-        })
-        .catch(function(error) {
-            // 万が一エラーが起きた場合の安全装置
-            console.error('Counter Error:', error);
-            document.getElementById('count-total').innerText = "1";
-            document.getElementById('count-total-visitor').innerText = "1";
-        });
-});
+<!-- =========================================================
+     アクセスカウント用API
+
+     あなたのGitHub Pagesサイト専用設定
+     ========================================================= -->
+
+<script
+    src="https://page-views-api.ratneshc.com/script"
+    data-site="tmatsuno19561231-ai.github.io"
+    data-path="/minokamo_lib_kai/"
+    defer>
 </script>
 
-<!-- 見た目を綺麗に整えるデザイン（CSS） -->
-<style>
-.access-thanks-box {
-    background-color: #f9f9f9;
-    border: 1px solid #ddd;
-    padding: 15px;
-    max-width: 260px;
-    font-family: 'MS Pゴシック', sans-serif;
-    margin: 20px 0;
-    box-sizing: border-box;
-}
-.access-thanks-box h3 {
-    margin-top: 0;
-    font-size: 16px;
-    border-bottom: 2px solid #333;
-    padding-bottom: 5px;
-    margin-bottom: 12px;
-    color: #333;
-}
-.counter-list {
-    list-style: none;
-    padding-left: 0;
-    margin: 0;
-}
-.counter-list li {
-    font-size: 14px;
-    line-height: 2.0;
-    color: #555;
-}
-.counter-list .count-num {
-    font-weight: bold;
-    color: #111;
-    margin-left: 5px;
-}
-.counter-list .count-date {
-    color: #111;
-    margin-left: 5px;
-}
-</style>
 
+<script>
+(function () {
+
+    "use strict";
+
+
+    /* =======================================================
+       設定
+       ======================================================= */
+
+    const SITE_NAME =
+        "tmatsuno19561231-ai.github.io";
+
+    const SITE_PATH =
+        "/minokamo_lib_kai/";
+
+
+    const API_BASE =
+        "https://page-views-api.ratneshc.com";
+
+
+    /* =======================================================
+       HTML要素
+       ======================================================= */
+
+    const totalElement =
+        document.getElementById(
+            "access-count-total"
+        );
+
+    const statusElement =
+        document.getElementById(
+            "access-counter-status"
+        );
+
+
+    /* =======================================================
+       数字を日本語形式に変換
+       例：
+       1234 → 1,234
+       ======================================================= */
+
+    function formatNumber(value) {
+
+        const number = Number(value);
+
+        if (!Number.isFinite(number)) {
+            return "—";
+        }
+
+        return Math.floor(number)
+            .toLocaleString("ja-JP");
+
+    }
+
+
+    /* =======================================================
+       エラー表示
+       ======================================================= */
+
+    function showError(message) {
+
+        totalElement.textContent = "—";
+
+        statusElement.textContent =
+            message ||
+            "アクセス数を取得できませんでした。";
+
+        statusElement.classList.add(
+            "access-counter-error"
+        );
+
+    }
+
+
+    /* =======================================================
+       現在のページをアクセスカウント
+       
+       API仕様：
+       GET /api/v1/track
+       ======================================================= */
+
+    async function registerView() {
+
+        try {
+
+            const url =
+                API_BASE +
+                "/api/v1/track" +
+                "?site=" +
+                encodeURIComponent(SITE_NAME) +
+                "&path=" +
+                encodeURIComponent(SITE_PATH);
+
+
+            const response =
+                await fetch(
+                    url,
+                    {
+                        method: "GET",
+                        keepalive: true,
+                        cache: "no-store"
+                    }
+                );
+
+
+            if (!response.ok) {
+
+                throw new Error(
+                    "アクセス記録失敗 HTTP " +
+                    response.status
+                );
+
+            }
+
+
+            return true;
+
+
+        } catch (error) {
+
+            console.error(
+                "Access Counter Track Error:",
+                error
+            );
+
+            return false;
+
+        }
+
+    }
+
+
+    /* =======================================================
+       現在の総閲覧数を取得
+       
+       API仕様：
+       GET /api/v1/views
+       ======================================================= */
+
+    async function getViewCount() {
+
+        const url =
+            API_BASE +
+            "/api/v1/views" +
+            "?site=" +
+            encodeURIComponent(SITE_NAME) +
+            "&path=" +
+            encodeURIComponent(SITE_PATH);
+
+
+        const response =
+            await fetch(
+                url,
+                {
+                    method: "GET",
+                    cache: "no-store"
+                }
+            );
+
+
+        if (!response.ok) {
+
+            throw new Error(
+                "閲覧数取得失敗 HTTP " +
+                response.status
+            );
+
+        }
+
+
+        const data =
+            await response.json();
+
+
+        if (
+            data === null ||
+            data.views === undefined ||
+            data.views === null
+        ) {
+
+            throw new Error(
+                "APIから閲覧数が返されませんでした。"
+            );
+
+        }
+
+
+        return Number(data.views);
+
+    }
+
+
+    /* =======================================================
+       カウンター開始
+       ======================================================= */
+
+    async function startCounter() {
+
+        try {
+
+            /*
+             * まず現在のページをカウント
+             */
+
+            await registerView();
+
+
+            /*
+             * 少し待ってから最新値を取得
+             *
+             * API側の反映遅延を考慮
+             */
+
+            await new Promise(
+                function (resolve) {
+                    setTimeout(
+                        resolve,
+                        500
+                    );
+                }
+            );
+
+
+            /*
+             * 総閲覧数を取得
+             */
+
+            const total =
+                await getViewCount();
+
+
+            /*
+             * 画面表示
+             */
+
+            totalElement.textContent =
+                formatNumber(total);
+
+
+            statusElement.textContent =
+                "アクセス数を表示しています。";
+
+            statusElement.classList.remove(
+                "access-counter-error"
+            );
+
+
+        } catch (error) {
+
+            console.error(
+                "Access Counter Error:",
+                error
+            );
+
+            showError(
+                "アクセス数を取得できませんでした。"
+            );
+
+        }
+
+    }
+
+
+    /* =======================================================
+       DOM読み込み後に開始
+       ======================================================= */
+
+    if (
+        document.readyState === "loading"
+    ) {
+
+        document.addEventListener(
+            "DOMContentLoaded",
+            startCounter
+        );
+
+    } else {
+
+        startCounter();
+
+    }
+
+
+})();
+</script>
+
+
+<!-- =========================================================
+     CSS
+     ========================================================= -->
+
+<style>
+
+/* ---------------------------------------------------------
+   カウンター全体
+   --------------------------------------------------------- */
+
+.access-counter-box {
+
+    width: 100%;
+    max-width: 320px;
+
+    box-sizing: border-box;
+
+    margin: 20px 0;
+
+    padding: 18px 20px;
+
+    background-color: #f8f8f8;
+
+    border: 1px solid #d8d8d8;
+
+    border-radius: 5px;
+
+    font-family:
+        -apple-system,
+        BlinkMacSystemFont,
+        "Hiragino Kaku Gothic ProN",
+        "Yu Gothic",
+        "Meiryo",
+        sans-serif;
+
+    color: #333;
+
+}
+
+
+/* ---------------------------------------------------------
+   タイトル
+   --------------------------------------------------------- */
+
+.access-counter-title {
+
+    display: flex;
+
+    align-items: center;
+
+    gap: 8px;
+
+    font-size: 17px;
+
+    font-weight: bold;
+
+    line-height: 1.4;
+
+    letter-spacing: 0.03em;
+
+}
+
+
+.access-counter-icon {
+
+    font-size: 18px;
+
+    color: #555;
+
+}
+
+
+/* ---------------------------------------------------------
+   タイトル下の線
+   --------------------------------------------------------- */
+
+.access-counter-line {
+
+    width: 100%;
+
+    height: 2px;
+
+    margin: 10px 0 12px;
+
+    background-color: #333;
+
+}
+
+
+/* ---------------------------------------------------------
+   項目
+   --------------------------------------------------------- */
+
+.access-counter-item {
+
+    display: flex;
+
+    justify-content: space-between;
+
+    align-items: center;
+
+    gap: 12px;
+
+    min-height: 38px;
+
+    padding: 3px 0;
+
+    border-bottom: 1px solid #e5e5e5;
+
+}
+
+
+.access-counter-item:last-of-type {
+
+    border-bottom: none;
+
+}
+
+
+/* ---------------------------------------------------------
+   項目名
+   --------------------------------------------------------- */
+
+.access-counter-label {
+
+    font-size: 14px;
+
+    color: #555;
+
+    white-space: nowrap;
+
+}
+
+
+/* ---------------------------------------------------------
+   閲覧数
+   --------------------------------------------------------- */
+
+.access-counter-number {
+
+    font-size: 21px;
+
+    font-weight: bold;
+
+    color: #111;
+
+    letter-spacing: 0.03em;
+
+    white-space: nowrap;
+
+}
+
+
+/* ---------------------------------------------------------
+   日付
+   --------------------------------------------------------- */
+
+.access-counter-date {
+
+    font-size: 13px;
+
+    color: #333;
+
+    white-space: nowrap;
+
+}
+
+
+/* ---------------------------------------------------------
+   ステータス
+   --------------------------------------------------------- */
+
+.access-counter-status {
+
+    margin-top: 11px;
+
+    font-size: 11px;
+
+    line-height: 1.5;
+
+    color: #777;
+
+}
+
+
+/* ---------------------------------------------------------
+   エラー
+   --------------------------------------------------------- */
+
+.access-counter-error {
+
+    color: #b00020;
+
+}
+
+
+/* ---------------------------------------------------------
+   スマートフォン
+   --------------------------------------------------------- */
+
+@media screen and (max-width: 480px) {
+
+    .access-counter-box {
+
+        max-width: 100%;
+
+        padding: 16px;
+
+    }
+
+
+    .access-counter-title {
+
+        font-size: 16px;
+
+    }
+
+
+    .access-counter-number {
+
+        font-size: 19px;
+
+    }
+
+
+    .access-counter-label {
+
+        font-size: 13px;
+
+    }
+
+
+    .access-counter-date {
+
+        font-size: 12px;
+
+    }
+
+}
+
+</style>
+```
