@@ -195,6 +195,7 @@ title: 美濃加茂市の図書館を考える会 資料室
   src="https://page-views-api.ratneshc.com/script"
   data-site="tmatsuno19561231-ai.github.io"
   data-path="/minokamo_lib_kai/"
+  data-debug="true"
   defer>
 </script>
 
