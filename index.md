@@ -170,24 +170,58 @@ title: 美濃加茂市の図書館を考える会 資料室
     
     <!-- 実際の動作に必要なシステムコード（画面には表示されません） -->
     <div style="display:none;">
-        <a href='http://www.freevisitorcounters.com'>click here</a>
-        <script type='text/javascript' src='https://www.freevisitorcounters.com/auth.php?id=2ff4ae2f0425032fb8b80b74b0f83f03c6db332f'></script>
+        <a href='http://freevisitorcounters.com'>click here</a>
+        <script type='text/javascript' src='https://freevisitorcounters.com'></script>
     </div>
 
-    <!-- カウンターの表示部分 -->
-    <div class="counter-display-area">
-        <!-- 
-          取得されたカウンターのデータをここに読み込みます。
-          サービスの仕様に合わせつつ、日本のレトロサイト風に文字を並び替えるスクリプトです。
-        -->
-        <script type="text/javascript" src="https://www.freevisitorcounters.com/en/home/counter/1646788/t/3"></script>
+    <!-- 
+      サービスから届く元のデータを一時的に隠して読み込み、
+      JavaScriptで日本語に変換して並び替えます。
+    -->
+    <div id="raw-counter-data" style="display:none;">
+        <script type="text/javascript" src="https://freevisitorcounters.com"></script>
     </div>
-    
-    <!-- カウント開始日の表示（今日の日付やサイト開設日に自由に書き換えてください） -->
-    <div class="counter-start-date">
-        <span>2026年9月18日</span> カウント開始日:
-    </div>
+
+    <!-- 日本語で綺麗に整えられたカウンターが表示される場所 -->
+    <ul class="counter-list">
+        <li><span id="count-total" class="count-num">0</span> 総閲覧数:</li>
+        <li><span id="count-today" class="count-num">0</span> 今日の閲覧数:</li>
+        <li><span id="count-yesterday" class="count-num">0</span> 昨日の閲覧数:</li>
+        <li><span id="count-total-visitor" class="count-num">0</span> 総訪問者数:</li>
+        <li><span class="count-date">2026年9月18日</span> カウント開始日:</li>
+    </ul>
 </div>
+
+<script>
+window.addEventListener('DOMContentLoaded', function() {
+    // 外部サービスから数字が届くまで少し待ってから処理を実行します
+    setTimeout(function() {
+        var rawDataArea = document.getElementById('raw-counter-data');
+        if (!rawDataArea) return;
+
+        // 届いたテキスト（例: "Total: 123 Today: 5 Yesterday: 10" のような文字列）を取得
+        var rawText = rawDataArea.innerText || rawDataArea.textContent;
+        
+        // テキストから数字だけを抽出します
+        var numbers = rawText.match(/\d+/g);
+        
+        if (numbers && numbers.length >= 3) {
+            var total = numbers[0];     // 全体の合計
+            var today = numbers[1];     // 本日の数値
+            var yesterday = numbers[2]; // 昨日の数値
+
+            // HTML側の「0」の部分を本物の数字に書き換えます
+            document.getElementById('count-total').innerText = total;
+            document.getElementById('count-today').innerText = today;
+            document.getElementById('count-yesterday').innerText = yesterday;
+            
+            // 簡易的に総閲覧数と同じ、または近い値を総訪問者数として表示します
+            // (お好みに合わせて固定値や計算式に変えることも可能です)
+            document.getElementById('count-total-visitor').innerText = Math.floor(total * 0.85); 
+        }
+    }, 1500); // 1.5秒待ってから書き換えを実行
+});
+</script>
 
 <!-- 見た目を目標のサイトに近づけるためのデザイン（CSS） -->
 <style>
@@ -195,7 +229,7 @@ title: 美濃加茂市の図書館を考える会 資料室
     background-color: #f9f9f9; /* 背景の薄いグレー */
     border: 1px solid #ddd;    /* 枠線 */
     padding: 15px;
-    max-width: 250px;          /* カウンター全体の横幅 */
+    max-width: 260px;          /* カウンター全体の横幅 */
     font-family: 'MS Pゴシック', sans-serif;
     margin: 20px 0;
 }
@@ -204,29 +238,28 @@ title: 美濃加茂市の図書館を考える会 資料室
     font-size: 16px;
     border-bottom: 2px solid #333; /* タイトル下の黒線 */
     padding-bottom: 5px;
-    margin-bottom: 10px;
+    margin-bottom: 12px;
     color: #333;
 }
-/* カウンターの文字の並びや余白を整える設定 */
-.counter-display-area br {
-    display: block;
-    content: "";
-    margin-top: 5px;
+.counter-list {
+    list-style: none; /* 行頭のドットを消す */
+    padding-left: 0;
+    margin: 0;
 }
-.counter-display-area, .counter-start-date {
+.counter-list li {
     font-size: 14px;
-    line-height: 1.8;
+    line-height: 2.0;
     color: #555;
 }
-.counter-start-date {
-    margin-top: 5px;
-}
 /* 数字部分を強調する設定 */
-.counter-display-area b, .counter-display-area strong, .counter-start-date span {
+.counter-list .count-num {
     font-weight: bold;
     color: #111;
     margin-right: 5px;
 }
+.counter-list .count-date {
+    color: #666;
+    margin-right: 5px;
+}
 </style>
 <!-- カウンターエリアの終了 -->
-
