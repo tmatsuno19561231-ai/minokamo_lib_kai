@@ -165,3 +165,41 @@ title: 美濃加茂市の図書館を考える会 資料室
 <img src="./data/QR_530075.png" alt="[QRコード](https://tmatsuno19561231-ai.github.io/minokamo_lib_kai/)" width="150" style="display: block; margin-right: auto; margin-left: 0;">
 
 
+
+<!-- カウンターエリアの開始 -->
+<div style="text-align: center; font-family: 'MS Pゴシック', sans-serif; margin: 20px 0;">
+    <p>総閲覧数</p>
+    
+    <!-- カウンター画像を表示する場所 -->
+    <div id="my-retro-counter" style="display: inline-block; min-height: 50px;"></div>
+
+</div>
+
+<script>
+(function() {
+    // ⚠️ あなた独自の文字列に変更してください（英数字）
+    const counterId = "your-github-id-unique"; 
+    const theme = "moebooru"; // 見た目（moebooru, rule34, asoul など）
+
+    const storageKey = "visited_" + counterId;
+    const now = new Date().getTime();
+    const oneDay = 24 * 60 * 60 * 1000; // 24時間のミリ秒
+    const lastVisit = localStorage.getItem(storageKey);
+
+    let url = "";
+
+    if (!lastVisit || (now - lastVisit > oneDay)) {
+        // 24時間以上経っている、または初めての訪問なら「カウントして画像を表示」
+        url = `https://getloli.com{counterId}?theme=${theme}`;
+        localStorage.setItem(storageKey, now);
+    } else {
+        // 24時間以内の再訪問なら「カウントを増やさずに現在の数字（画像）だけを見る」
+        url = `https://getloli.com{counterId}?theme=${theme}`;
+    }
+
+    // HTMLにカウンター画像を埋め込む
+    document.getElementById("my-retro-counter").innerHTML = `<img src="${url}" alt="Moe-Counter" />`;
+})();
+</script>
+<!-- カウンターエリアの終了 -->
+
