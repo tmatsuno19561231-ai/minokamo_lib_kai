@@ -166,6 +166,5 @@ title: 美濃加茂市の図書館を考える会 資料室
 
 ---
 
-![バッジ](https://hitscounter.dev/api/hit?url=https%3A%2F%2Ftmatsuno19561231-ai.github.io%2Fminokamo_lib_kai%2F&label=&icon=github&color=%23198754&message=&style=flat&tz=UTC)
 
-
+[![Hits](https://hitscounter.dev)](https://hitscounter.dev/)
