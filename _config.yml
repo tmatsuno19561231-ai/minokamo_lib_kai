@@ -14,3 +14,5 @@
 # Jekyllのビルド時に data フォルダを強制的に含める設定
 include:
   - data
+plugins:
+  - jekyll-sitemap
