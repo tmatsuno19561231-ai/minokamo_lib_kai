@@ -148,7 +148,7 @@ title: 美濃加茂市の図書館を考える会 資料室
 1. <a href = "./data/stat3.html" target="_blank" >県内図書館竣工年　2020年調査</a>
 
 ## misc
-1. <a href = "https://www.mext.go.jp/b_menu/houdou/mext_01613.html" target="_blank">文部科学省　図書館が拓く未来の学びと地域社会（報告書）令和８年３月１７日</a>
+1. <a href = "https://www.mext.go.jp/b_menu/houdou/mext_01613.html" target="_blank">文部科学省　図書館が拓く未来の学びと地域社会（報告書）令和8年3月17日</a>
 1. <a href = "https://www.mext.go.jp/a_menu/shougai/tosho/mext_00001.html" target="_blank">文部科学省　図書館・書店等連携実践事例集</a>
 
 ---
