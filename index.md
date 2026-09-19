@@ -166,5 +166,6 @@ title: 美濃加茂市の図書館を考える会 資料室
 
 ---
 総閲覧数： ![Visitor Count](https://glitch.me)
+[![hits](https://myhits.vercel.app/api/hit/https://tmatsuno19561231-ai.github.io/minokamo_lib_kai/?color=blue&label=hits&size=small)](https://myhits.vercel.app)
 
 
