@@ -165,6 +165,7 @@ title: 美濃加茂市の図書館を考える会 資料室
 <img src="./data/QR_530075.png" alt="[QRコード](https://tmatsuno19561231-ai.github.io/minokamo_lib_kai/)" width="150" style="display: block; margin-right: auto; margin-left: 0;">
 
 ---
-総閲覧数： [![hits](https://myhits.vercel.app/api/hit/ https://tmatsuno19561231-ai.github.io/minokamo_lib_kai/?color=blue&label=hits&size=small)](https://myhits.vercel.app)
+
+総閲覧数： [![hits](https://myhits.vercel.app/api/hit/https://tmatsuno19561231-ai.github.io/minokamo_lib_kai/?color=blue&label=hits&size=small)](https://myhits.vercel.app)
 
 
