@@ -16,3 +16,5 @@ include:
   - data
 plugins:
   - jekyll-sitemap
+gems:
+  - jekyll-sitemap
