@@ -180,6 +180,8 @@ title: 美濃加茂市の図書館を考える会 資料室
 ### 医学・医療情報
 1. <a href = "https://www.jamas.or.jp/public/publiclibrary.html" target = "_blank">医中誌Webを使える公共図書館</a>
 1. <a href = "https://www.jamas.or.jp/public/" target = "_blank">医療情報を探したい方へ</a>
+1. <a hred = "https://help.jamas.or.jp/houjin/pubmedAbout.html" target="_blank">医中誌WebのPubMed検索</a>
+
 
 
 ## 資料室URLのQRコード
