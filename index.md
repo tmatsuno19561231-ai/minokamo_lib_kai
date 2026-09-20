@@ -162,7 +162,7 @@ title: 美濃加茂市の図書館を考える会 資料室
 
 ### 国立国会図書館
 1. <a href = "https://www.ndl.go.jp/use/digital_transmission" target="_blank"> 図書館向けデジタル化資料送信サービス</a>
-1. <a href = "https://www.ndl.go.jp/use/digital_transmission_individuals" target="_blank">個人向けデジタル化資料送信サービス</aZ>
+1. <a href = "https://www.ndl.go.jp/use/digital_transmission_individuals" target="_blank">個人向けデジタル化資料送信サービス</a>
 1. <a href = "https://www.ndl.go.jp/library/supportvisual/send" target="_blank">視覚障害者等用データ送信サービス<a/>
 
 
