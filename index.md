@@ -154,17 +154,25 @@ title: 美濃加茂市の図書館を考える会 資料室
 1. <a href = "./data/stat3.html" target="_blank" >県内図書館竣工年　2020年調査</a>
 
 ## misc
+### 文部科学省
 1. <a href = "https://www.mext.go.jp/b_menu/houdou/mext_01613.html" target="_blank">文部科学省　図書館が拓く未来の学びと地域社会（報告書）令和8年3月17日</a>
 1. <a href = "https://www.mext.go.jp/a_menu/shougai/tosho/mext_00001.html" target="_blank">文部科学省　図書館・書店等連携実践事例集</a>
 
----
+
+### 国立国会図書館
+1. <a href = "https://www.ndl.go.jp/use/digital_transmission" target="_blank"> 図書館向けデジタル化資料送信サービス</a>
+1. <a href = "https://www.ndl.go.jp/use/digital_transmission_individuals" target="_blank">個人向けデジタル化資料送信サービス</aZ>
+1. <a href "https://www.ndl.go.jp/library/supportvisual/send" target="_blank">視覚障害者等用データ送信サービス<a/>
+
+
+
+### 日本図書館協会
 1. <a href = "https://www.jla.or.jp/library_resources-_and_guidelines/missions_and_goals/" target="_blank">日本図書館協会　公立図書館の任務と目標]</a>
 1. <a href = "https://www.jla.or.jp/library_resources-_and_guidelines/desirable_standards/" target="_blank">日本図書館協会　図書館の設置及び運営上の望ましい基準]</a>
 1. <a href = "https://www.jla.or.jp/library_resources-_and_guidelines/ifla-unesco-public-library-manifesto2022/" target="_blank">日本図書館協会　IFLA-UNESCO公共図書館宣言2022</a>
 
 ---
-
-
+### 図書館問題研究会
 1. <a href ="https://tomonken.org/wp-content/uploads/2026/07/%E5%9B%B3%E6%9B%B8%E9%A4%A8%E8%A8%88%E7%94%BB%E3%81%AF%E3%81%93%E3%82%8C%E3%81%A7%E3%81%84%E3%81%84%E3%81%AE%E3%81%8B%EF%BC%9F-%E3%83%AA%E3%83%BC%E3%83%95%E3%83%AC%E3%83%83%E3%83%88%E6%94%B9%E8%A8%82%E7%89%88-2026.7.6.pdf" target="_blank">図書館問題研究会　図書館計画はこれでいいのか？　リーフレット改訂版 2026.7.6</a>
 
 ---
