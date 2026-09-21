@@ -13,5 +13,8 @@ Googleのシステムが実際にページを見に来るまで、数日から�
 ひとまず作業はすべて大成功です。無事に検索に載るまで、ゆっくりお待ちくださいね。
 今回の登録手順や、サーチコンソールの使い方について、ほかに気になっていることや確認したいことはありますか？問題なければ、これで様子見として終了して大丈夫です！
 
+https://search.google.com/search-console?resource_id=https%3A%2F%2Ftmatsuno19561231-ai.github.io%2Fminokamo_lib_kai%2F&hl=ja
+
+
 
 
