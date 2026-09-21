@@ -167,7 +167,7 @@ title: 美濃加茂市の図書館を考える会 資料室
 
 
 ### 文部科学省
-1. <a href = "https://www.mext.go.jp/b_menu/houdou/mext_01613.html" target="_blank">文部科学省　図書館が拓く未来の学びと地域社会（報告書）図書館・学校図書館の運営の充実に関する有識者会議（令和8年3月17日）</a>
+1. <a href = "https://www.mext.go.jp/b_menu/houdou/mext_01613.html" target="_blank">文部科学省　図書館が拓く未来の学びと地域社会（報告書）令和8年3月17日　図書館・学校図書館の運営の充実に関する有識者会議</a>
 1. <a href = "https://www.mext.go.jp/a_menu/shougai/tosho/mext_00001.html" target="_blank">文部科学省　図書館・書店等連携実践事例集　令和6年6月　文部科学省総合教育政策局地域学習推進課</a>
 
 
