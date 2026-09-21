@@ -54,39 +54,51 @@ title: 美濃加茂市の図書館を考える会 資料室
 美濃加茂市歳入歳出決算書
 
 1. <a href = "https://www.city.minokamo.lg.jp/uploaded/attachment/15501.pdf#page=94" target="_blank">美濃加茂市一般会計　歳入歳出決算事項別明細書（歳出）令和５年度 94p</a>
-2.  <a href = "https://www.city.minokamo.lg.jp/soshiki/30/2633.html" target="_blank">美濃加茂市歳入歳出決算書</a>
+2.  <a href = "https://www.city.minokamo.lg.jp/soshiki/30/2633.html" target="_blank">美濃加茂市歳入歳出決算書（令和5年度決算書〜令和4年度決算書）</a>
 
 決算実績報告書
 
-1. <a href = "https://www.city.minokamo.lg.jp/soshiki/28/2572.html" target="_blank">決算実績報告書</a>
-2. <a href = "./003.html" target="_blank" > 施設管理事業決算額の推移<span style="color: red;">（令和元年から令和６年度まで）</span></a>
+1. <a href = "https://www.city.minokamo.lg.jp/soshiki/28/2572.html" target="_blank">決算実績報告書（令和７年度実績報告書〜平成22年度決算実績houkokusho)</a>
+3. <a href = "./003.html" target="_blank" > 施設管理事業決算額の推移<span style="color: red;">（令和元年から令和６年度まで）</span></a>
 
            
 ## 計画等
-1. <a href ="https://www3.city.minokamo.gifu.jp/release/fileopen.cfm?id=1&filename=/katudousuisin.pdf" target="_blank">美濃加茂市子どもの読書活動推進計画</a>
+1. <a href ="https://www3.city.minokamo.gifu.jp/release/fileopen.cfm?id=1&filename=/katudousuisin.pdf" target="_blank">美濃加茂市子どもの読書活動推進計画</a>平成18年3月
 1. <a href = "https://www.pref.gifu.lg.jp/page/171510.html" target="_blank"> 市町村子どもの読書活動推進計画の策定状況<a/>
 
 ---
 
 1. <a href = "https://www.city.minokamo.lg.jp/uploaded/life/15706_26038_misc.pdf" target="_blank">美濃加茂市教育振興基本計画　令和７年度-令和１１年度　令和７年３月策定</a>
-1. <a href = "https://static.gifu-ebooks.jp/actibook_data/01_minokamo_city_6th_comprehensive_plan_late_basic_plan__/?pNo=48" target="_blank">美濃加茂市第6次総合計画後期基本計画</a>
+1. <a href = "https://static.gifu-ebooks.jp/actibook_data/01_minokamo_city_6th_comprehensive_plan_late_basic_plan__/?pNo=48" target="_blank">美濃加茂市第6次総合計画後期基本計画　政策6　生涯学習・文化スポーツ　令和７年4月1日</a>
 
 ---
 
-1. <a href = "https://www.city.minokamo.lg.jp/soshiki/26/6788.html" target="_blank">美濃加茂市　事業評価</a>
-1. <a href = "https://www.city.minokamo.lg.jp/uploaded/attachment/18717.pdf" target="_blank"> 美濃加茂市　市民協働部 ひとづくり課 令和６年度事業評価書 </a>
+1. <a href = "https://www.city.minokamo.lg.jp/soshiki/26/6788.html" target="_blank">美濃加茂市　事業評価　令和6年度〜令和4年度</a>
+1. <a href = "https://www.city.minokamo.lg.jp/uploaded/attachment/18717.pdf" target="_blank"> 令和６年度事業評価書　市民協働部 ひとづくり課  実施計画事業</a>
 
 
 ## 美濃加茂市公共施設等総合管理計画
 1. <a href ="https://www.city.minokamo.lg.jp/soshiki/27/2562.html" target="_blank">「美濃加茂市公共施設等総合管理計画」について</a>
-1. <a href ="https://www.city.minokamo.lg.jp/uploaded/attachment/6761.pdf" target="_blank">美濃加茂市公共施設等総合管理計画　本編＋資料編1・2（令和4年3月一部改訂）</a>
-1. <a href = "https://www.city.minokamo.lg.jp/uploaded/attachment/19601.pdf#page=48" target="_blank" >R7公共施設等類型別カルテ（公共施設白書）</a><a href = "./001.html" target="_blank" > <span style="color: red;">抜粋あり</span></a> 
+1. <a href ="https://www.city.minokamo.lg.jp/uploaded/attachment/6761.pdf" target="_blank">美濃加茂市公共施設等総合管理計画　本編＋資料編1・2（平成29年3月　平成31年1月一部改定　令和4年3月一部改訂）</a>
+1. <a href = "https://www.city.minokamo.lg.jp/uploaded/attachment/19601.pdf#page=48" target="_blank" >R7公共施設等類型別カルテ（公共施設白書）令和8年2月</a><a href = "./001.html" target="_blank" > <span style="color: red;">抜粋あり</span></a> 
 
 ---
 
-1. <a href = "https://www.city.kakamigahara.lg.jp/_res/projects/default_project/_page_/001/010/615/r8.4_2-1.pdf" target="_blank" >各務原市社会教育系施設（中央図書館、もりの本やさん・森の交流館）個別施設計画</a>
+1. <a href = "https://www.city.kakamigahara.lg.jp/_res/projects/default_project/_page_/001/010/615/r8.4_2-1.pdf" target="_blank" >各務原市社会教育系施設（中央図書館、もりの本やさん・森の交流館）個別施設計画</a>令和３年3月（令和８年4月一部改訂）
+
+>「〇鉄筋コンクリート造・・・80年
+>　鉄筋コンクリート造の施設は、構造的に他の用途への転用等は考えにくいため、できる限り延命することとし、「建築物の耐久計画に関する考え方」における目標耐用年数の範囲の最大値を採用し、80年とします。」２p
+
+
+   
 1. <a href = "https://current.ndl.go.jp/ca2034" _target="_blank">カレントアウェアネス No.354　2022年12月20日 CA2034
-動向レビュー 公共施設等総合管理計画と公立図書館の施設整備</a>
+動向レビュー 公共施設等総合管理計画と公立図書館の施設整備 慶應義塾大学文学部：松本直樹</a>
+
+>　公共施設等総合管理計画、さらには個別施設計画の策定では、法令等により住民の合意を得るための特別な手続きが定められているわけではない。しかし、図書館の場合、図書館法第14条(10)で、運営等に関する図書館協議会への諮問について言及されていることに留意する必要がある。仮に図書館を廃止、移転するといった運営に関わる重要案件は、条例改正前に諮問等を求めるべきである。それに留まらず、市民利用が活発な施設であることを考えれば、市民への丁寧な説明と納得を得る努力が求められる。例えば、東京都多摩市では、中央図書館整備とあわせて7館のうち4館を廃止する計画を2013年に発表したが、市民からの強い反対があり、その廃止は一旦取りやめとなった(11)。住民への丁寧な説明と腰を据えた対話が求められる。
+
+>　「長寿命化改修」は物理的耐用年数をできるだけ延ばすために実施される。日本建築学会は、構造等により標準的な目標耐用年数を示しているが(19)、長寿命化改修と予防保全等により、それを可能な限り延ばすことを目指す図書館も見られる。例えば、さいたま市(20)、我孫子市（千葉県）(21)、岡山市(22)などは個別施設計画で80年の使用を目指している。さきほど見たように、現時点では、竣工から60年以上経過した図書館は全体の1％にも満たないが、今後、そうした図書館が増えていくことが予想される。
+
+
 1. <a href = "https://www.jstage.jst.go.jp/article/finexjournal/2/2/2_KJ00001530474/_pdf" target="_blank">建築物の 耐久計画の考え方 https://doi.org/10.14820/finexjournal.2.2_59</a>
 1. <a href = "https://www.aij.or.jp/jpn/archives/971202.htm" target="_blank">気候温暖化への建築分野での対応（会長声明全文）
 1997年12月2日  社団法人 日本建築学会</a>
