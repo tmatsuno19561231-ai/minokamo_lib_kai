@@ -150,7 +150,7 @@ title: 美濃加茂市の図書館を考える会 資料室
 ## misc（その他）
 
 ### 医学・医療情
-1. <a href = "https://www3.city.minokamo.gifu.jp/news_view.cfm?news_id=1190" target = "_blank">医中誌Webが利用できるようになりました</a>美濃加茂市立図書館　過去のお知らせ
+1. <a href = "https://www3.city.minokamo.gifu.jp/news_view.cfm?news_id=1190" target = "_blank">医中誌Webが利用できるようになりました</a>
 ---
 1.  <a href = "https://www.jamas.or.jp/public/publiclibrary.html" target = "_blank">医中誌Webを使える公共図書館</a>
 1. <a href = "https://www.jamas.or.jp/public/" target = "_blank">医療情報を探したい方へ</a>
