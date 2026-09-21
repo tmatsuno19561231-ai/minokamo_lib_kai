@@ -58,12 +58,12 @@ title: 美濃加茂市の図書館を考える会 資料室
 
 決算実績報告書
 
-1. <a href = "https://www.city.minokamo.lg.jp/soshiki/28/2572.html" target="_blank">決算実績報告書（令和７年度実績報告書〜平成22年度決算実績houkokusho)</a>
+1. <a href = "https://www.city.minokamo.lg.jp/soshiki/28/2572.html" target="_blank">決算実績報告書（令和７年度実績報告書〜平成22年度決算実績報告書)</a>
 3. <a href = "./003.html" target="_blank" > 施設管理事業決算額の推移<span style="color: red;">（令和元年から令和６年度まで）</span></a>
 
            
 ## 計画等
-1. <a href ="https://www3.city.minokamo.gifu.jp/release/fileopen.cfm?id=1&filename=/katudousuisin.pdf" target="_blank">美濃加茂市子どもの読書活動推進計画</a>平成18年3月
+1. <a href ="https://www3.city.minokamo.gifu.jp/release/fileopen.cfm?id=1&filename=/katudousuisin.pdf" target="_blank">美濃加茂市子どもの読書活動推進計画<　平成18年3月/a>　
 1. <a href = "https://www.pref.gifu.lg.jp/page/171510.html" target="_blank"> 市町村子どもの読書活動推進計画の策定状況<a/>
 
 ---
