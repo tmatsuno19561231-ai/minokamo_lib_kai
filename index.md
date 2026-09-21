@@ -164,12 +164,9 @@ title: 美濃加茂市の図書館を考える会 資料室
 1. <a href = "https://www.library.pref.gifu.lg.jp/user-guide/not-visit/copy-mail/" target="_blank">郵送による複写（岐阜県図書館）</a>
 1. <a href = "https://www.ndl.go.jp/copy/remote" target="_blank">遠隔複写サービス(国立国会図書館）</a>
 
-
-
 ### 文部科学省
 1. <a href = "https://www.mext.go.jp/b_menu/houdou/mext_01613.html" target="_blank">文部科学省　図書館が拓く未来の学びと地域社会（報告書）令和8年3月17日　図書館・学校図書館の運営の充実に関する有識者会議</a>
 1. <a href = "https://www.mext.go.jp/a_menu/shougai/tosho/mext_00001.html" target="_blank">文部科学省　図書館・書店等連携実践事例集　令和6年6月　文部科学省総合教育政策局地域学習推進課</a>
-
 
 ### 国立国会図書館
 1. <a href ="https://dl.ndl.go.jp/" target="_blank">国立国会図書館デジタルコレクション</a>
@@ -182,19 +179,11 @@ title: 美濃加茂市の図書館を考える会 資料室
 1. <a href = "https://www.jla.or.jp/library_resources-_and_guidelines/desirable_standards/" target="_blank">日本図書館協会　図書館の設置及び運営上の望ましい基準]</a>
 1. <a href = "https://www.jla.or.jp/library_resources-_and_guidelines/ifla-unesco-public-library-manifesto2022/" target="_blank">日本図書館協会　IFLA-UNESCO公共図書館宣言2022</a>
 
----
 ### 図書館問題研究会
 1. <a href ="https://tomonken.org/wp-content/uploads/2026/07/%E5%9B%B3%E6%9B%B8%E9%A4%A8%E8%A8%88%E7%94%BB%E3%81%AF%E3%81%93%E3%82%8C%E3%81%A7%E3%81%84%E3%81%84%E3%81%AE%E3%81%8B%EF%BC%9F-%E3%83%AA%E3%83%BC%E3%83%95%E3%83%AC%E3%83%83%E3%83%88%E6%94%B9%E8%A8%82%E7%89%88-2026.7.6.pdf" target="_blank">図書館問題研究会　図書館計画はこれでいいのか？　リーフレット改訂版 2026.7.6</a>
 
----
-
-
-
 ## 資料室URLのQRコード
 <img src="./data/QR_530075.png" alt="[QRコード](https://tmatsuno19561231-ai.github.io/minokamo_lib_kai/)" width="150" style="display: block; margin-right: auto; margin-left: 0;">
-
----
-
 
 ## 訪問者数
 ![Badge](https://hitscounter.dev/api/hit?url=https%3A%2F%2Ftmatsuno19561231-ai.github.io%2Fminokamo_lib_kai%2F&label=%E9%96%B2%E8%A6%A7%E8%80%85%E6%95%B0%EF%BC%88%E6%9C%AC%E6%97%A5%2F%E7%B7%8F%E6%95%B0%29&icon=github&color=%23198754&message=&style=flat&tz=Japan)
