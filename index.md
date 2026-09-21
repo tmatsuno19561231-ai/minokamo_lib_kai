@@ -116,33 +116,10 @@ title: 美濃加茂市の図書館を考える会 資料室
 1. <a href = "https://www.city.minokamo.lg.jp/site/gikai/" target="_blank">美濃加茂市議会</a>
 1. <a href = "https://smart.discussvision.net/smart/tenant/minokamo/WebView/rd/council_1.html" target="_blank">
 美濃加茂市議会　議会中継</a>
-  - <a href ="https://smart.discussvision.net/smart/tenant/minokamo/WebView/rd/speech.html?council_id=59&schedule_id=3&playlist_id=6&speaker_id=14&target_year=2026" target="_blankl">2026-09-04森弓子議員　一般質問</a>
-   
+- <a href ="https://smart.discussvision.net/smart/tenant/minokamo/WebView/rd/speech.html?council_id=59&schedule_id=3&playlist_id=6&speaker_id=14&target_year=2026" target="_blankl">2026-09-04森弓子議員　一般質問</a>
+
 1. <a href = "https://www.city.minokamo.lg.jp/site/gikai/7808.html" target="_blank">傍聴について</a>
 1. <a href = "https://www.city.minokamo.lg.jp/site/gikai/7853.html" target="_blank">請願・陳情・意見書</a>
-
-<!-- 
-一般質問通告一覧
-
-1. <a href = "https://www.city.minokamo.lg.jp/uploaded/attachment/21954.pdf" target="_blank">令和８年美濃加茂市議会第３回定例会一般質問通告一覧</a>
-1. <a href = "https://www.city.minokamo.lg.jp/uploaded/attachment/21205.pdf" target="_blank">令和８年美濃加茂市議会第２回定例会一般質問通告一覧</a> 
-1. <a href = "https://www.city.minokamo.lg.jp/uploaded/attachment/19924.pdf" target="_blank">令和８年美濃加茂市議会第１回定例会一般質問通告一覧</a>
-
----
-
-1. <a href = "https://www.city.minokamo.lg.jp/uploaded/attachment/18917.pdf" target="_blank">令和７年美濃加茂市議会第４回定例会一般質問通告一覧</a>
-1. <a href = "https://www.city.minokamo.lg.jp/uploaded/attachment/18073.pdf" target="_blank">令和７年美濃加茂市議会第３回定例会一般質問通告一覧</a>
-1. <a href = "https://www.city.minokamo.lg.jp/uploaded/attachment/17307.pdf" target="_blank">令和７年美濃加茂市議会第２回定例会一般質問通告一覧</a>
-1. <a href = "https://www.city.minokamo.lg.jp/uploaded/attachment/16241.pdf" target="_blank">令和７年美濃加茂市議会第１回定例会一般質問通告一覧</a>
-
----
-
-1. <a href = "https://www.city.minokamo.lg.jp/uploaded/attachment/15489.pdf" target="_blank">令和６年美濃加茂市議会第４回定例会一般質問通告一覧</a>
-1. <a href = "https://www.city.minokamo.lg.jp/uploaded/attachment/14742.pdf" target="_blank">令和６年美濃加茂市議会第３回定例会一般質問通告一覧</a>
-1. <a href = "https://www.city.minokamo.lg.jp/uploaded/attachment/13928.pdf" target="_blank">令和６年美濃加茂市議会第２回定例会一般質問通告一覧</a>
-1. <a href = "https://www.city.minokamo.lg.jp/gikai/kekka/r06pdf/r06_01_teireikai_ippanshitsumon.pdf" target="_blank">令和６年美濃加茂市議会第１回定例会一般質問通告一覧</a>
--->
-
 ---
 1. <a href = "https://www.city.minokamo.lg.jp/soshiki/36/23142.html" target="_blank">令和8年度美濃加茂市教育委員会会議録</a>
 1. <a href = "https://www.city.minokamo.lg.jp/soshiki/36/17947.html" target="_blank">令和7年度美濃加茂市総合教育会議会議録</a>
@@ -176,8 +153,10 @@ title: 美濃加茂市の図書館を考える会 資料室
 1. <a href ="https://tomonken.org/wp-content/uploads/2026/07/%E5%9B%B3%E6%9B%B8%E9%A4%A8%E8%A8%88%E7%94%BB%E3%81%AF%E3%81%93%E3%82%8C%E3%81%A7%E3%81%84%E3%81%84%E3%81%AE%E3%81%8B%EF%BC%9F-%E3%83%AA%E3%83%BC%E3%83%95%E3%83%AC%E3%83%83%E3%83%88%E6%94%B9%E8%A8%82%E7%89%88-2026.7.6.pdf" target="_blank">図書館問題研究会　図書館計画はこれでいいのか？　リーフレット改訂版 2026.7.6</a>
 
 ---
-### 医学・医療情報
-1. <a href = "https://www.jamas.or.jp/public/publiclibrary.html" target = "_blank">医中誌Webを使える公共図書館</a>
+### 医学・医療情
+1. <a href = "https://www3.city.minokamo.gifu.jp/news_view.cfm?news_id=1190" target = "_blank">医中誌Webが利用できるようになりました</a>
+---
+1.  <a href = "https://www.jamas.or.jp/public/publiclibrary.html" target = "_blank">医中誌Webを使える公共図書館</a>
 1. <a href = "https://www.jamas.or.jp/public/" target = "_blank">医療情報を探したい方へ</a>
 1. <a href = "https://help.jamas.or.jp/houjin/pubmedAbout.html" target="_blank">医中誌WebのPubMed検索</a>
 
@@ -189,5 +168,5 @@ title: 美濃加茂市の図書館を考える会 資料室
 ---
 
 
-
+## 訪問者数
 ![Badge](https://hitscounter.dev/api/hit?url=https%3A%2F%2Ftmatsuno19561231-ai.github.io%2Fminokamo_lib_kai%2F&label=%E9%96%B2%E8%A6%A7%E8%80%85%E6%95%B0%EF%BC%88%E6%9C%AC%E6%97%A5%2F%E7%B7%8F%E6%95%B0%29&icon=github&color=%23198754&message=&style=flat&tz=Japan)
