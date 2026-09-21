@@ -135,7 +135,6 @@ title: 美濃加茂市の図書館を考える会 資料室
 1. <a href = "https://smart.discussvision.net/smart/tenant/minokamo/WebView/rd/council_1.html" target="_blank">
 美濃加茂市議会　議会中継</a>
 - <a href ="https://smart.discussvision.net/smart/tenant/minokamo/WebView/rd/speech.html?council_id=59&schedule_id=3&playlist_id=6&speaker_id=14&target_year=2026" target="_blankl">2026-09-04　一般質問　森弓子議員</a>
-
 1. <a href = "https://www.city.minokamo.lg.jp/site/gikai/7808.html" target="_blank">傍聴について</a>
 1. <a href = "https://www.city.minokamo.lg.jp/site/gikai/7853.html" target="_blank">請願・陳情・意見書</a>
 ---
