@@ -193,8 +193,11 @@ title: 美濃加茂市の図書館を考える会 資料室
 
 ### 日本図書館協会
 
-1. <a href = "https://www.jla.or.jp/library_resources-_and_guidelines/missions_and_goals/" target="_blank">日本図書館協会　公立図書館の任務と目標　1989年1月　確定公表　2004年3月　改訂　日本図書館協会図書館政策特別委員会</a>
-1. <a href = "https://www.jla.or.jp/library_resources-_and_guidelines/ifla-unesco-public-library-manifesto2022/" target="_blank">日本図書館協会　IFLA-UNESCO公共図書館宣言2022　2022年7月18日採択</a>
+1. <a href = "https://www.jla.or.jp/library_resources-_and_guidelines/missions_and_goals/" target="_blank">公立図書館の任務と目標　1989年1月　確定公表　2004年3月　改訂　日本図書館協会図書館政策特別委員会</a>
+
+### IFLA
+1. <a href = "https://www.jla.or.jp/library_resources-_and_guidelines/ifla-unesco-public-library-manifesto2022/" target="_blank">IFLA-UNESCO公共図書館宣言2022　2022年7月18日採択</a>
+1. <a href = "https://current.ndl.go.jp/ca2056" target="_blank">CA2056 – 「ユネスコ公共図書館宣言2022」：2022年版に至る歩みとその活用 / 永田治樹</a>
 
 ### 図書館問題研究会
 
