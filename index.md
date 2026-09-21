@@ -8,6 +8,7 @@ title: 美濃加茂市の図書館を考える会 資料室
 {:toc}
 
 # 活動記録
+
 - 2026-09-20(日）13:30 ～ 15:30 生涯学習センター402室　集い（第2回）
 <img src="./data/S__103948313.jpg" alt="　集い（第2回）" width="150" style="display: block; margin-right: auto; margin-left: 0;">
 
@@ -18,6 +19,7 @@ title: 美濃加茂市の図書館を考える会 資料室
 # 関係資料
 
 ## 図書館関係法令等
+
 1. <a href = "https://laws.e-gov.go.jp/law/325AC0000000118/" target="_blank">図書館法（昭和二十五年法律第百十八号）</a>
 1. <a href = "https://laws.e-gov.go.jp/law/325M50000080027/" target="_blank"> 図書館法施行規則（昭和二十五年文部省令第二十七号）</a>
 1. <a href = "https://www.mext.go.jp/a_menu/01_l/08052911/1282451.htm" target="_blank">図書館の設置及び運営上の望ましい基準（平成24年12月19日文部科学省告示第172号）</a>
@@ -29,6 +31,7 @@ title: 美濃加茂市の図書館を考える会 資料室
 1. <a href = "https://www1.g-reiki.net/minokamo/reiki_honbun/i312RG00000369.html" target="_blank">美濃加茂市立図書館協議会規則 平成21年3月31日 規則第25号</a>
 
 ## 美濃加茂市立図書館ホームページ
+
 1. <a href = "https://www.city.minokamo.lg.jp/site/library/" target="_blank">美濃加茂市立図書館HP</a>
 1. <a href = "https://www.city.minokamo.lg.jp/site/library/21513.html" target="_balnk">【共通】［重要］図書館ホームページＵＲＬ変更のお知らせ 2026年3月18日更新</a>
 1. <a href ="https://www3.city.minokamo.gifu.jp/" target="_blank">美濃加茂市立図書館HP 2026-03-31終了</a>
@@ -59,6 +62,7 @@ title: 美濃加茂市の図書館を考える会 資料室
 1. これからの図書館協議会を考える : 公共図書館と市民が向き合うために 河瀬 裕子 図書館界 = The library world 76 (4), 234-239, 2024-11 <a href = " https://doi.org/10.20628/toshokankai.76.4_234" target="_blank"> DOI</a>
 
 ## 図書館年報等
+
 1. <a href = "https://www3.city.minokamo.gifu.jp/release/fileopen.cfm?id=388" target="_blank">図書館年報　令和7年度（令和6年度資料）</a>
 1. <a href = "https://www3.city.minokamo.gifu.jp/release/fileopen.cfm?id=366" target="_blank">図書館年報　令和6年度（令和5年度資料）</a>
 1. <a href = "https://www3.city.minokamo.gifu.jp/release/fileopen.cfm?id=353" target="_blank">図書館年報　令和5年度（令和4年度資料）</a>
@@ -90,6 +94,7 @@ title: 美濃加茂市の図書館を考える会 資料室
 
            
 ## 計画等
+
 1. <a href ="https://www3.city.minokamo.gifu.jp/release/fileopen.cfm?id=1&filename=/katudousuisin.pdf" target="_blank">美濃加茂市子どもの読書活動推進計画（平成18年3月）</a>　
 1. <a href = "https://www.pref.gifu.lg.jp/page/171510.html" target="_blank"> 市町村子どもの読書活動推進計画の策定状況（確認日:令和8年3月9日）<a/>
 
@@ -105,6 +110,7 @@ title: 美濃加茂市の図書館を考える会 資料室
 
 
 ## 美濃加茂市公共施設等総合管理計画
+
 1. <a href ="https://www.city.minokamo.lg.jp/soshiki/27/2562.html" target="_blank">「美濃加茂市公共施設等総合管理計画」について</a>
 1. <a href ="https://www.city.minokamo.lg.jp/uploaded/attachment/6761.pdf" target="_blank">美濃加茂市公共施設等総合管理計画　本編＋資料編1・2（平成29年3月　平成31年1月一部改定　令和4年3月一部改訂）</a>
 1. <a href = "https://www.city.minokamo.lg.jp/uploaded/attachment/19601.pdf#page=48" target="_blank" >R7公共施設等類型別カルテ（公共施設白書）令和8年2月</a><a href = "./001.html" target="_blank" > <span style="color: red;">抜粋あり</span></a> 
@@ -123,6 +129,7 @@ title: 美濃加茂市の図書館を考える会 資料室
 1997年12月2日  社団法人 日本建築学会</a>
 
 ## 新庁舎整備関係
+
 1. <a href ="https://www.city.minokamo.lg.jp/soshiki/24/21451.html" target="_blnak">美濃加茂市新庁舎整備基本構想</a>
 1. <a href = "https://minokamochosha.jp/wp-content/uploads/2026/03/%E3%80%90%E5%8F%82%E8%80%83%E8%B3%87%E6%96%99%E3%80%9101-1%E5%9F%BA%E6%9C%AC%E6%A7%8B%E6%83%B3%EF%BC%88%E6%9C%AC%E7%B7%A8%EF%BC%89.pdf" target="_blank">新庁舎整備基本構想　本編</a>
 1. <a href = "https://minokamochosha.jp/wp-content/uploads/2026/03/%E3%80%90%E5%8F%82%E8%80%83%E8%B3%87%E6%96%99%E3%80%9101-2%E5%9F%BA%E6%9C%AC%E6%A7%8B%E6%83%B3%EF%BC%88%E6%A6%82%E8%A6%81%E7%89%88%EF%BC%89.pdf" target="_blank">新庁舎整備基本構想　概要版</a>
@@ -143,6 +150,7 @@ title: 美濃加茂市の図書館を考える会 資料室
 <a href = "./007.html" target="_blank" > <span style="color: red;">抜粋あり</span><a>
 
 ## 議会等
+
 1. <a href = "https://www.city.minokamo.lg.jp/site/gikai/" target="_blank">美濃加茂市議会</a>
 1. <a href = "https://smart.discussvision.net/smart/tenant/minokamo/WebView/rd/council_1.html" target="_blank">
 美濃加茂市議会　議会中継</a>
@@ -156,6 +164,7 @@ title: 美濃加茂市の図書館を考える会 資料室
 1. <a href = "https://www.city.minokamo.lg.jp/soshiki/36/17947.html" target="_blank">令和7年度美濃加茂市総合教育会議会議録</a>
   
 ## 美濃加茂市に係る図書館指標
+
 1. <a href = "./data/stat1.html" target="_blank" >美濃加茂市立図書館　2003-2020</a>
 1. <a href = "./data/stat2.html" target="_blank" >県内市立図書館　2020年調査</a>
 1. <a href = "./data/stat3.html" target="_blank" >県内図書館竣工年　2020年調査</a>
@@ -163,6 +172,7 @@ title: 美濃加茂市の図書館を考える会 資料室
 ## misc（その他）
 
 ### 医学・医療情報
+
 1. <a href = "https://www3.city.minokamo.gifu.jp/news_view.cfm?news_id=1190" target = "_blank">医中誌Webが利用できるようになりました(美濃加茂市立図書館)掲載期間 2023/06/27 ～ 2023/12/31</a>
 1. <a href = "https://www.jamas.or.jp/public/publiclibrary.html" target = "_blank">医中誌Webを使える公共図書館</a>
 1. <a href = "https://www.jamas.or.jp/public/" target = "_blank">医療情報を探したい方へ</a>
@@ -171,24 +181,30 @@ title: 美濃加茂市の図書館を考える会 資料室
 1. <a href = "https://www.ndl.go.jp/copy/remote" target="_blank">遠隔複写サービス(国立国会図書館）</a>
 
 ### 文部科学省
+
 1. <a href = "https://www.mext.go.jp/b_menu/houdou/mext_01613.html" target="_blank">文部科学省　図書館が拓く未来の学びと地域社会（報告書）令和8年3月17日　図書館・学校図書館の運営の充実に関する有識者会議</a>
 1. <a href = "https://www.mext.go.jp/a_menu/shougai/tosho/mext_00001.html" target="_blank">文部科学省　図書館・書店等連携実践事例集　令和6年6月　文部科学省総合教育政策局地域学習推進課</a>
 
 ### 国立国会図書館
+
 1. <a href ="https://dl.ndl.go.jp/" target="_blank">国立国会図書館デジタルコレクション</a>
 1. <a href = "https://www.ndl.go.jp/use/digital_transmission" target="_blank"> 図書館向けデジタル化資料送信サービス</a>
 1. <a href = "https://www.ndl.go.jp/use/digital_transmission_individuals" target="_blank">個人向けデジタル化資料送信サービス</a>
 1. <a href = "https://www.ndl.go.jp/library/supportvisual/send" target="_blank">視覚障害者等用データ送信サービス<a/>
 
 ### 日本図書館協会
+
 1. <a href = "https://www.jla.or.jp/library_resources-_and_guidelines/missions_and_goals/" target="_blank">日本図書館協会　公立図書館の任務と目標　1989年1月　確定公表　2004年3月　改訂　日本図書館協会図書館政策特別委員会</a>
 1. <a href = "https://www.jla.or.jp/library_resources-_and_guidelines/ifla-unesco-public-library-manifesto2022/" target="_blank">日本図書館協会　IFLA-UNESCO公共図書館宣言2022　2022年7月18日採択</a>
 
 ### 図書館問題研究会
+
 1. <a href ="https://tomonken.org/wp-content/uploads/2026/07/%E5%9B%B3%E6%9B%B8%E9%A4%A8%E8%A8%88%E7%94%BB%E3%81%AF%E3%81%93%E3%82%8C%E3%81%A7%E3%81%84%E3%81%84%E3%81%AE%E3%81%8B%EF%BC%9F-%E3%83%AA%E3%83%BC%E3%83%95%E3%83%AC%E3%83%83%E3%83%88%E6%94%B9%E8%A8%82%E7%89%88-2026.7.6.pdf" target="_blank">図書館問題研究会　図書館計画はこれでいいのか？　リーフレット図書館問題研究会図書館づくり支援委員会　改訂版 2026 年 7 月発行改訂版</a>
 
 ## 資料室URLのQRコード
+
 <img src="./data/QR_530075.png" alt="[QRコード](https://tmatsuno19561231-ai.github.io/minokamo_lib_kai/)" width="150" style="display: block; margin-right: auto; margin-left: 0;">
 
-## 訪問者数(2026-09-20から）
+## 閲覧者数(2026-09-20から）
+
 ![Badge](https://hitscounter.dev/api/hit?url=https%3A%2F%2Ftmatsuno19561231-ai.github.io%2Fminokamo_lib_kai%2F&label=%E9%96%B2%E8%A6%A7%E8%80%85%E6%95%B0%EF%BC%88%E6%9C%AC%E6%97%A5%2F%E7%B7%8F%E6%95%B0%29&icon=github&color=%23198754&message=&style=flat&tz=Japan)
