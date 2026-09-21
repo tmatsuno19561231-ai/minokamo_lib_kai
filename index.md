@@ -53,6 +53,7 @@ title: 美濃加茂市の図書館を考える会 資料室
    3. 図書館協議会の傍聴の取り扱いについて
    4. その他
 
+ 
 ### 図書館協議会議事録
 
 1. <a href = "https://www.city.minokamo.lg.jp/uploaded/attachment/20139.pdf" target="_blank">2026-02-18 令和７年度第２回図書館協議会議事録</a>
