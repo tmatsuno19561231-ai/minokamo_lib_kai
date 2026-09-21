@@ -169,5 +169,5 @@ title: 美濃加茂市の図書館を考える会 資料室
 ## 資料室URLのQRコード
 <img src="./data/QR_530075.png" alt="[QRコード](https://tmatsuno19561231-ai.github.io/minokamo_lib_kai/)" width="150" style="display: block; margin-right: auto; margin-left: 0;">
 
-## 訪問者数
+## 訪問者数(2026-09-20から）
 ![Badge](https://hitscounter.dev/api/hit?url=https%3A%2F%2Ftmatsuno19561231-ai.github.io%2Fminokamo_lib_kai%2F&label=%E9%96%B2%E8%A6%A7%E8%80%85%E6%95%B0%EF%BC%88%E6%9C%AC%E6%97%A5%2F%E7%B7%8F%E6%95%B0%29&icon=github&color=%23198754&message=&style=flat&tz=Japan)
