@@ -157,10 +157,14 @@ title: 美濃加茂市の図書館を考える会 資料室
 ## misc（その他）
 
 ### 医学・医療情
-1. <a href = "https://www3.city.minokamo.gifu.jp/news_view.cfm?news_id=1190" target = "_blank">医中誌Webが利用できるようになりました　美濃加茂市立図書館</a>
-2. <a href = "https://www.jamas.or.jp/public/publiclibrary.html" target = "_blank">医中誌Webを使える公共図書館</a>
-3. <a href = "https://www.jamas.or.jp/public/" target = "_blank">医療情報を探したい方へ</a>
-4. <a href = "https://help.jamas.or.jp/houjin/pubmedAbout.html" target="_blank">医中誌WebのPubMed検索</a>
+1. <a href = "https://www3.city.minokamo.gifu.jp/news_view.cfm?news_id=1190" target = "_blank">医中誌Webが利用できるようになりました(美濃加茂市立図書館)
+2. </a>
+3. <a href = "https://www.jamas.or.jp/public/publiclibrary.html" target = "_blank">医中誌Webを使える公共図書館</a>
+4. <a href = "https://www.jamas.or.jp/public/" target = "_blank">医療情報を探したい方へ</a>
+5. <a href = "https://help.jamas.or.jp/houjin/pubmedAbout.html" target="_blank">医中誌WebのPubMed検索</a>
+6. <a href = "https://www.library.pref.gifu.lg.jp/user-guide/not-visit/copy-mail/" target="_blank">郵送による複写（岐阜県図書館）</a>
+7. <a href = "https://www.ndl.go.jp/copy/remote" target="_blank">遠隔複写サービス(国立国会図書館）</a>
+
 
 
 ### 文部科学省
