@@ -33,9 +33,10 @@ title: 美濃加茂市の図書館を考える会 資料室
 1. <a href = "https://www.city.minokamo.lg.jp/site/library/21513.html" target="_balnk">【共通】［重要］図書館ホームページＵＲＬ変更のお知らせ 2026年3月18日更新</a>
 1. <a href ="https://www3.city.minokamo.gifu.jp/" target="_blank">美濃加茂市立図書館HP 2026-03-31終了</a>
 
-
 ## 図書館協議会
+
 ### 図書館協議会 会議内容
+
 1. 令和８年度第1回　令和8年6月23日（火）午前９時30分〜11時　中央図書館2階集会室
    1. 図書館の運営方針について
    2. 図書館の概要について（施設・各種指標）
@@ -50,9 +51,11 @@ title: 美濃加茂市の図書館を考える会 資料室
    4. その他
 
 ### 図書館協議会議事録
+
 1. <a href = "https://www.city.minokamo.lg.jp/uploaded/attachment/20139.pdf" target="_blank">2026-02-18 令和７年度第２回図書館協議会議事録</a>
 
 ### 参考資料
+
 1. これからの図書館協議会を考える : 公共図書館と市民が向き合うために 河瀬 裕子 図書館界 = The library world 76 (4), 234-239, 2024-11 <a href = " https://doi.org/10.20628/toshokankai.76.4_234" target="_blank"> DOI</a>
 
 ## 図書館年報等
