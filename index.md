@@ -52,7 +52,7 @@ title: 美濃加茂市の図書館を考える会 資料室
 1. <a href = "https://www.city.minokamo.lg.jp/uploaded/attachment/20139.pdf" target="_blank">2026-02-18 令和７年度第２回図書館協議会議事録</a>
 
 ### 参考資料
-1. これからの図書館協議会を考える : 公共図書館と市民が向き合うために 河瀬 裕子 図書館界 = The library world 76 (4), 234-239, 2024-11 <a href = " https://doi.org/10.20628/toshokankai.76.4_234"> target="_blank"> https://doi.org/10.20628/toshokankai.76.4_234</a>
+1. これからの図書館協議会を考える : 公共図書館と市民が向き合うために 河瀬 裕子 図書館界 = The library world 76 (4), 234-239, 2024-11 <a href = " https://doi.org/10.20628/toshokankai.76.4_234" target="_blank"> https://doi.org/10.20628/toshokankai.76.4_234</a>
 
 ## 図書館年報等
 1. <a href = "https://www3.city.minokamo.gifu.jp/release/fileopen.cfm?id=388" target="_blank">図書館年報　令和7年度（令和6年度資料）</a>
