@@ -102,8 +102,16 @@ title: 美濃加茂市の図書館を考える会 資料室
 1. <a href = "https://www.jstage.jst.go.jp/article/finexjournal/2/2/2_KJ00001530474/_pdf" target="_blank">建築物の 耐久計画の考え方 https://doi.org/10.14820/finexjournal.2.2_59</a>
 1. <a href = "https://www.aij.or.jp/jpn/archives/971202.htm" target="_blank">気候温暖化への建築分野での対応（会長声明全文）
 1997年12月2日  社団法人 日本建築学会</a>
-<a href = "./002.html" target="_blank" > <span style="color: red;">抜粋あり</span></a> 
+
+<blockquote style="text-align: left; display: inline-block; margin-top: 10px;">         
+B．二酸化炭素排出量の削減のためには，我が国の建築物の耐用年数を３倍に延長することが必要不可欠であり，また可能であると考える。<br>
+
+　同時期に建設された建築物の残存率が半減する年数を寿命と定義すると，事務所建築物では鉄筋コンクリート造は38年，鉄骨造は29年，木造専用住宅で40年となっている。この寿命について米国の住宅を見ると約100年である。また建築物への投資周期を国際的に比較すると，住宅において顕著に短く，我が国は23年程度であるのに，欧米は38年から73年となっている。さらに，住宅のストック対フローによるいはば代替わりの周期を見てみると，我が国は30年程度であるのに対して，米国103年，イギリス141年と大きな開きがある。<br>
  
+　建築に係わる生涯二酸化炭素排出量に対して4割近い水準で寄与している建設段階の排出を抑制するには，このように短い寿命あるいは投資周期の状態から脱して，我が国の建築物の耐用年数を欧米並みに延長することは，非常に効果的であり，また我が国の良好な社会資本蓄積の上でも，意義のあることと考えられる。<br>
+</blocquote>
+
+
 ## 新庁舎整備関係
 1. <a href ="https://www.city.minokamo.lg.jp/soshiki/24/21451.html" target="_blnak">美濃加茂市新庁舎整備基本構想</a>
 1. <a href = "https://minokamochosha.jp/wp-content/uploads/2026/03/%E3%80%90%E5%8F%82%E8%80%83%E8%B3%87%E6%96%99%E3%80%9101-1%E5%9F%BA%E6%9C%AC%E6%A7%8B%E6%83%B3%EF%BC%88%E6%9C%AC%E7%B7%A8%EF%BC%89.pdf" target="_blank">新庁舎整備基本構想　本編</a>
