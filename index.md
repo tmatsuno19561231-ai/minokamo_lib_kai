@@ -125,9 +125,6 @@ title: 美濃加茂市の図書館を考える会 資料室
 1. <a href = "https://current.ndl.go.jp/ca2034" _target="_blank">カレントアウェアネス No.354　2022年12月20日 CA2034
 動向レビュー 公共施設等総合管理計画と公立図書館の施設整備 慶應義塾大学文学部：松本直樹</a>
 
-
-1. <a href = "https://www.jstage.jst.go.jp/article/finexjournal/2/2/2_KJ00001530474/_pdf" target="_blank">建築物の 耐久計画の考え方 https://doi.org/10.14820/finexjournal.2.2_59</a>
-
 1. 建築物の耐久計画の考え方 (耐久性に関する話題を中心に) 白山 和久<a href = "https://doi.org/10.14820/finexjournal.2.2_59" target="_blank">DOI</a>
 
 1. <a href = "https://www.aij.or.jp/jpn/archives/971202.htm" target="_blank">気候温暖化への建築分野での対応（会長声明全文）1997年12月2日  社団法人 日本建築学会</a>
