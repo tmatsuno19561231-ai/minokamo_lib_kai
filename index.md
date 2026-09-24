@@ -136,10 +136,14 @@ title: 美濃加茂市の図書館を考える会 資料室
 
 1. <a href ="https://www.city.minokamo.lg.jp/soshiki/24/21451.html" target="_blnak">美濃加茂市新庁舎整備基本構想</a>
 1. <a href = "https://minokamochosha.jp/wp-content/uploads/2026/03/%E3%80%90%E5%8F%82%E8%80%83%E8%B3%87%E6%96%99%E3%80%9101-1%E5%9F%BA%E6%9C%AC%E6%A7%8B%E6%83%B3%EF%BC%88%E6%9C%AC%E7%B7%A8%EF%BC%89.pdf" target="_blank">新庁舎整備基本構想　本編</a>
-1. <a href = "https://minokamochosha.jp/wp-content/uploads/2026/03/%E3%80%90%E5%8F%82%E8%80%83%E8%B3%87%E6%96%99%E3%80%9101-2%E5%9F%BA%E6%9C%AC%E6%A7%8B%E6%83%B3%EF%BC%88%E6%A6%82%E8%A6%81%E7%89%88%EF%BC%89.pdf" target="_blank">新庁舎整備基本構想　概要版</a>
+1. <a href = "https://minokamochosha.jp/wp-content/uploads/2026/03/%E3%80%90%E5%8F%82%E8%80%83%E8%B3%87%E6%96%99%E3%80%9101-2%E5%9F%BA%E6%9C%AC%E6%A7%8B%E6%83%B3%EF%BC%88%E6%A6%82%E8%A6%81%E7%89%88%EF%BC%89.pdf" target="_blank">新庁舎整備基本構想　概要版 = みんなの新庁舎かわらばんvol.7 </a>
 
 ---
 1. <a href ="https://www.city.minokamo.lg.jp/soshiki/24/" target="_blank">新庁舎整備推進課</a>
+
+
+1. <a href =https://minokamochosha.jp/wp-content/uploads/2026/03/%E3%80%90%E5%8F%82%E8%80%83%E8%B3%87%E6%96%99%E3%80%9101-2%E5%9F%BA%E6%9C%AC%E6%A7%8B%E6%83%B3%EF%BC%88%E6%A6%82%E8%A6%81%E7%89%88%EF%BC%89.pdf" target="_balnk">みんなの新庁舎かわらばんvol.7</a>
+
 1. <a href ="https://minokamochosha.jp/wp-content/uploads/2025/06/%E3%80%90070610%E6%9C%80%E7%B5%82%E3%80%91%E3%81%8B%E3%82%8F%E3%82%89%E3%81%B0%E3%82%93vol.6.pdf" target="_balnk">みんなの新庁舎かわらばんvol.6</a>
  <a href = "./004.html" target="_blank" > <span style="color: red;">抜粋あり</span></a>
  1. <a href="https://minokamochosha.jp/wp-content/uploads/2025/01/%E3%80%90%E6%9C%80%E7%B5%82%E3%80%91%E3%81%8B%E3%82%8F%E3%82%89%E3%81%B0%E3%82%93.pdf" target="_blank">みんなの新庁舎かわらばんvol.5</a>
@@ -180,6 +184,9 @@ title: 美濃加茂市の図書館を考える会 資料室
 ### 医学・医療情報
 
 1. <a href = "https://www3.city.minokamo.gifu.jp/news_view.cfm?news_id=1190" target = "_blank">医中誌Webが利用できるようになりました(美濃加茂市立図書館)掲載期間 2023/06/27 ～ 2023/12/31</a>
+
+---
+
 1. <a href = "https://www.jamas.or.jp/public/publiclibrary.html" target = "_blank">医中誌Webを使える公共図書館</a>
 1. <a href = "https://www.jamas.or.jp/public/" target = "_blank">医療情報を探したい方へ</a>
 1. <a href = "https://help.jamas.or.jp/houjin/pubmedAbout.html" target="_blank">医中誌WebのPubMed検索</a>
