@@ -214,6 +214,11 @@ title: 美濃加茂市の図書館を考える会 資料室
 
 1. <a href ="https://tomonken.org/wp-content/uploads/2026/07/%E5%9B%B3%E6%9B%B8%E9%A4%A8%E8%A8%88%E7%94%BB%E3%81%AF%E3%81%93%E3%82%8C%E3%81%A7%E3%81%84%E3%81%84%E3%81%AE%E3%81%8B%EF%BC%9F-%E3%83%AA%E3%83%BC%E3%83%95%E3%83%AC%E3%83%83%E3%83%88%E6%94%B9%E8%A8%82%E7%89%88-2026.7.6.pdf" target="_blank">図書館問題研究会　図書館計画はこれでいいのか？　リーフレット図書館問題研究会図書館づくり支援委員会　改訂版 2026 年 7 月発行改訂版</a>
 
+### 図書館と健康長寿
+1. <a hrfd = "https://www.jages.net/library/pressrelease/?action=cabinet_action_main_download&block_id=3849&room_id=549&cabinet_id=234&file_id=15024&upload_id=20350" target="_blank">図書館の本が多い街ほど健康長寿の傾向 ～蔵書が人口当たり１冊増えると要介護リスク４％減に相当～ 報道発表 Press Release No: 464-25-9 2025 年 5 月発行 慶應義塾大学・京都大学</a>
+1. <a href ="https://doi.org/10.1016/j.ssmph.2025.101762" target ="_blank">Otani, S., Sato, K., Kondo, N. Public libraries and functional disability: A cohort study of Japanese older adults.SSM – Population Health, 29; 101762 (2025). https://doi.org/10.1016/j.ssmph.2025.101762</a>
+
+
 ## 資料室URLのQRコード
 
 <img src="./data/QR_530075.png" alt="[QRコード](https://tmatsuno19561231-ai.github.io/minokamo_lib_kai/)" width="150" style="display: block; margin-right: auto; margin-left: 0;">
