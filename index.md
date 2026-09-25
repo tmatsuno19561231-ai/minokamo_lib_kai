@@ -216,7 +216,7 @@ title: 美濃加茂市の図書館を考える会 資料室
 
 ### 図書館と健康長寿
 1. <a href = "https://www.jages.net/library/pressrelease/?action=cabinet_action_main_download&block_id=3849&room_id=549&cabinet_id=234&file_id=15024&upload_id=20350" target="_blank">図書館の本が多い街ほど健康長寿の傾向 ～蔵書が人口当たり１冊増えると要介護リスク４％減に相当～ 報道発表 Press Release No: 464-25-9 2025 年 5 月発行 慶應義塾大学・京都大学</a>
-1. <a href ="https://doi.org/10.1016/j.ssmph.2025.101762" target ="_blank">上記の発表論文</a>Otani, S., Sato, K., Kondo, N. Public libraries and functional disability: A cohort study of Japanese older adults.SSM – Population Health, 29; 101762 (2025). https://doi.org/10.1016/j.ssmph.2025.101762
+1. <a href ="https://doi.org/10.1016/j.ssmph.2025.101762" target ="_blank">上記の発表論文</a>Otani, S., Sato, K., Kondo, N. Public libraries and functional disability: A cohort study of Japanese older adults.SSM – Population Health, 29; 101762 (2025). 
 
 
 ## 資料室URLのQRコード
