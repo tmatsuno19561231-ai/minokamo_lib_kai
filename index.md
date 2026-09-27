@@ -124,17 +124,10 @@ title: 美濃加茂市の図書館を考える会 資料室
 1. <a href ="https://www.city.minokamo.lg.jp/soshiki/27/2562.html" target="_blank">「美濃加茂市公共施設等総合管理計画」について</a>
 1. <a href ="https://www.city.minokamo.lg.jp/uploaded/attachment/6761.pdf" target="_blank">美濃加茂市公共施設等総合管理計画　本編＋資料編1・2（平成29年3月　平成31年1月一部改定　令和4年3月一部改訂）</a>
 1. <a href = "https://www.city.minokamo.lg.jp/uploaded/attachment/19601.pdf#page=48" target="_blank" >R7公共施設等類型別カルテ（公共施設白書）令和8年2月</a><a href = "./001.html" target="_blank" > <span style="color: red;">抜粋あり</span></a> 
-
 ---
-
 1. <a href = "https://www.city.kakamigahara.lg.jp/_res/projects/default_project/_page_/001/010/615/r8.4_2-1.pdf" target="_blank" >各務原市社会教育系施設（中央図書館、もりの本やさん・森の交流館）個別施設計画</a>令和３年3月（令和８年4月一部改訂）
-
-   
-1. <a href = "https://current.ndl.go.jp/ca2034" _target="_blank">カレントアウェアネス No.354　2022年12月20日 CA2034
-動向レビュー 公共施設等総合管理計画と公立図書館の施設整備 慶應義塾大学文学部：松本直樹</a>
-
+1. <a href = "https://current.ndl.go.jp/ca2034" _target="_blank">カレントアウェアネス No.354　2022年12月20日 CA2034　動向レビュー 公共施設等総合管理計画と公立図書館の施設整備 慶應義塾大学文学部：松本直樹</a>
 1. 建築物の耐久計画の考え方 (耐久性に関する話題を中心に) 白山 和久 <a href = "https://doi.org/10.14820/finexjournal.2.2_59" target="_blank">DOI</a>
-
 1. <a href = "https://www.aij.or.jp/jpn/archives/971202.htm" target="_blank">気候温暖化への建築分野での対応（会長声明全文）1997年12月2日  社団法人 日本建築学会</a>
 
 ## 新庁舎整備関係
@@ -148,7 +141,7 @@ title: 美濃加茂市の図書館を考える会 資料室
 1. <a href ="https://minokamochosha.jp/wp-content/uploads/2026/03/%E3%80%90%E5%8F%82%E8%80%83%E8%B3%87%E6%96%99%E3%80%9101-2%E5%9F%BA%E6%9C%AC%E6%A7%8B%E6%83%B3%EF%BC%88%E6%A6%82%E8%A6%81%E7%89%88%EF%BC%89.pdf" target="_balnk">みんなの新庁舎かわらばんvol.7=新庁舎整備基本構想　概要版</a>
 1. <a href ="https://minokamochosha.jp/wp-content/uploads/2025/06/%E3%80%90070610%E6%9C%80%E7%B5%82%E3%80%91%E3%81%8B%E3%82%8F%E3%82%89%E3%81%B0%E3%82%93vol.6.pdf" target="_balnk">みんなの新庁舎かわらばんvol.6</a>
  <a href = "./004.html" target="_blank" > <span style="color: red;">抜粋あり</span></a>
- 1. <a href="https://minokamochosha.jp/wp-content/uploads/2025/01/%E3%80%90%E6%9C%80%E7%B5%82%E3%80%91%E3%81%8B%E3%82%8F%E3%82%89%E3%81%B0%E3%82%93.pdf" target="_blank">みんなの新庁舎かわらばんvol.5</a>
+1. <a href="https://minokamochosha.jp/wp-content/uploads/2025/01/%E3%80%90%E6%9C%80%E7%B5%82%E3%80%91%E3%81%8B%E3%82%8F%E3%82%89%E3%81%B0%E3%82%93.pdf" target="_blank">みんなの新庁舎かわらばんvol.5</a>
 <a href = "./005.html" target="_blank" > <span style="color: red;">抜粋あり</span></a>
 1. <a href ="https://www.city.minokamo.lg.jp/uploaded/attachment/17073.pdf" target="_blank">みんなの新庁舎かわらばんvol.4</a>
 1. <a href ="https://www.city.minokamo.lg.jp/uploaded/attachment/17072.pdf" target="_blank">みんなの新庁舎かわらばんvol.3</a>
