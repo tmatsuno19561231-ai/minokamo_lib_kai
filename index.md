@@ -199,6 +199,14 @@ title: 美濃加茂市の図書館を考える会 資料室
 1. <a href = "https://www.jages.net/library/pressrelease/?action=cabinet_action_main_download&block_id=3849&room_id=549&cabinet_id=234&file_id=15024&upload_id=20350" target="_blank">図書館の本が多い街ほど健康長寿の傾向 ～蔵書が人口当たり１冊増えると要介護リスク４％減に相当～ 報道発表 Press Release No: 464-25-9 2025 年 5 月発行 慶應義塾大学・京都大学</a>
 1. Otani, S., Sato, K., Kondo, N. Public libraries and functional disability: A cohort study of Japanese older adults.SSM – Population Health, 29; 101762 (2025). <a href ="https://doi.org/10.1016/j.ssmph.2025.101762" target ="_blank">上記の発表論文</a>
 
+### 全域サービス
+美濃加茂市立図書館の「移動図書館そよかぜ号」は、平成12年9月廃止。他の地域ではいろいろと工夫があります。
+
+1. <a href ="https://current.ndl.go.jp/e2651" target = "_blank">E2651 – Book Mobile（移動図書館）サミット＜報告＞</a>
+1. <a href = "https://current.ndl.go.jp/car/226266" target ="_blank">八尾市、移動図書館車購入のためのクラウドファンディングを実施中：移動図書館車の名称も募集中M</a>
+1. <a href = "https://fcf.furunavi.jp/Project/Detail?projectid=1029” target = "_blank">甲府市立図書館開館100周年記念/移動図書館「なでしこ号」更新プロジェクト～未来に輝く『ひと』を育む～</a>
+1. <a hred = "https://www.furusato-tax.jp/gcf/3166?srsltid=AU7gw4UzvAncj0rHj81ohy8qiR7QoT3krL2Z2H4__CM-BwjIzAXtBTX2" target="_blank">これからも本との出会いを届けたい！ 移動図書館車応援プロジェクト</a>
+
 ### 文部科学省
 
 1. <a href = "https://www.mext.go.jp/b_menu/houdou/mext_01613.html" target="_blank">文部科学省　図書館が拓く未来の学びと地域社会（報告書）令和8年3月17日　図書館・学校図書館の運営の充実に関する有識者会議</a>
