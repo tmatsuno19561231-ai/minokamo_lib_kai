@@ -87,7 +87,7 @@ title: 美濃加茂市の図書館を考える会 資料室
 
 ## 図書館関係予算
 
-### <a href = "https://www.city.minokamo.lg.jp/soshiki/28/2567.html" target="_blank"当初予算書</a>
+### <a href = "https://www.city.minokamo.lg.jp/soshiki/28/2567.html" target="_blank">当初予算書</a>
 1. <a href = "https://www.city.minokamo.lg.jp/uploaded/attachment/20183.pdf" target="_blank">令和8年度当初予算書 一般会計（116項から252項）</a> 図書館費　210pから
 1. <a href = "https://www.city.minokamo.lg.jp/uploaded/attachment/16386.pdf" target="_blank">令和7年度当初予算書 一般会計（1頁から）</a>図書館費 212pから
 1. <a href = "https://www.city.minokamo.lg.jp/uploaded/attachment/12814.pdf" target="_blank">令和6年度当初予算書 一般会計（1頁から）</a>図書館費　210pから
