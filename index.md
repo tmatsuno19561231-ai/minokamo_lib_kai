@@ -87,12 +87,17 @@ title: 美濃加茂市の図書館を考える会 資料室
 
 ## 図書館関係予算
 
-美濃加茂市歳入歳出決算書
+### 当初予算書
+1. <a href = "https://www.city.minokamo.lg.jp/soshiki/28/2567.html" target=_"blank">令和8年度当初予算書 　　一般会計（116項から252項）</a> 図書館費　210pから
+1. <a href = "https://www.city.minokamo.lg.jp/uploaded/attachment/16386.pdf" target="_blank">令和7年度当初予算書 一般会計（1頁から）</a>図書館費 212pから
+1. <a href = "https://www.city.minokamo.lg.jp/uploaded/attachment/12814.pdf" target="_blank">令和6年度当初予算書 一般会計（1頁から）</a>図書館費　210pから
+
+### 美濃加茂市歳入歳出決算書
 
 1. <a href = "https://www.city.minokamo.lg.jp/uploaded/attachment/15501.pdf#page=94" target="_blank">美濃加茂市一般会計　歳入歳出決算事項別明細書（歳出）令和５年度 94p</a>
 2.  <a href = "https://www.city.minokamo.lg.jp/soshiki/30/2633.html" target="_blank">美濃加茂市歳入歳出決算書（令和5年度決算書〜令和4年度決算書）</a>
 
-決算実績報告書
+### 決算実績報告書
 
 1. <a href = "https://www.city.minokamo.lg.jp/soshiki/28/2572.html" target="_blank">決算実績報告書（令和７年度実績報告書〜平成22年度決算実績報告書)</a>
 3. <a href = "./003.html" target="_blank" > 施設管理事業決算額の推移<span style="color: red;">（令和元年から令和６年度まで）</span></a>
