@@ -202,8 +202,7 @@ title: 美濃加茂市の図書館を考える会 資料室
 ### 全域サービス
 美濃加茂市立図書館の「移動図書館そよかぜ号」は、平成12年9月廃止。他の地域ではいろいろと工夫があります。
 
-1. <a href =　"https://current.ndl.go.jp/e2651" target = "_blank"> E2651
-Book Mobile（移動図書館）サミット＜報告＞ 名古屋市鶴舞中央図書館・大井亜紀（おおいあき）</a>>
+1. <a href =　"https://current.ndl.go.jp/e2651" target = "_blank"> E2651 Book Mobile（移動図書館）サミット＜報告＞ 名古屋市鶴舞中央図書館・大井亜紀（おおいあき）</a>
 1. <a href = "https://current.ndl.go.jp/car/226266" target = "_blank">八尾市、移動図書館車購入のためのクラウドファンディングを実施中：移動図書館車の名称も募集中"</a>
 
 
