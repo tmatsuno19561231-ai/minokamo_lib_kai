@@ -123,7 +123,7 @@ title: 美濃加茂市の図書館を考える会 資料室
 
 1. <a href ="https://www.city.minokamo.lg.jp/soshiki/27/2562.html" target="_blank">「美濃加茂市公共施設等総合管理計画」について</a>
 1. <a href ="https://www.city.minokamo.lg.jp/uploaded/attachment/6761.pdf" target="_blank">美濃加茂市公共施設等総合管理計画　本編＋資料編1・2（平成29年3月　平成31年1月一部改定　令和4年3月一部改訂）</a>
-1. <a href = "https://www.city.minokamo.lg.jp/uploaded/attachment/19601.pdf#page=48" target="_blank" >R7公共施設等類型別カルテ（公共施設白書）令和8年2月</a><a href = "./001.html" target="_blank" > <span style="color: red;">抜粋あり</span></a> 
+1. <a href = "https://www.city.minokamo.lg.jp/uploaded/attachment/19601.pdf#page=48" target="_blank" >R7公共施設等類型別カルテ（公共施設白書）令和8年2月</a> <a href = "./001.html" target="_blank" > <span style="color: red;">抜粋あり</span></a> 
 ---
 1. <a href = "https://www.city.kakamigahara.lg.jp/_res/projects/default_project/_page_/001/010/615/r8.4_2-1.pdf" target="_blank" >各務原市社会教育系施設（中央図書館、もりの本やさん・森の交流館）個別施設計画</a>令和３年3月（令和８年4月一部改訂）
 1. <a href = "https://current.ndl.go.jp/ca2034" _target="_blank">カレントアウェアネス No.354　2022年12月20日 CA2034　動向レビュー 公共施設等総合管理計画と公立図書館の施設整備 慶應義塾大学文学部：松本直樹</a>
