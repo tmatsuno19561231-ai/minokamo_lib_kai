@@ -193,10 +193,10 @@ title: 美濃加茂市の図書館を考える会 資料室
 ### 全域サービス
 美濃加茂市立図書館の「移動図書館そよかぜ号」は、平成12年9月廃止。他の地域ではいろいろと工夫があります。
 
-1. <a href = "https://current.ndl.go.jp/e2651" target = "_blank">カレントアウェアネス-E　No.469 2023.11.30　E2651 Book Mobile（移動図書館）サミット 報告 名古屋市鶴舞中央図書館・大井亜紀（おおいあき）</a>
+1. <a href = "https://current.ndl.go.jp/e2651" target = "_blank">Book Mobile（移動図書館）サミット 報告 名古屋市鶴舞中央図書館・大井亜紀（おおいあき）</a> カレントアウェアネス-E　No.469 2023.11.30　E2651 
 1. <a href = "https://current.ndl.go.jp/car/226266" target = "_blank">八尾市、移動図書館車購入のためのクラウドファンディングを実施中：移動図書館車の名称も募集中　2024年10月02日</a>
 1. <a href = "https://www.jla.or.jp/publications/%E5%9B%B3%E6%9B%B8%E9%A4%A8%E9%9B%91%E8%AA%8C%E3%80%802024%E5%B9%B44%E6%9C%88%E5%8F%B7/" target = "_blank">特集/移動図書館のいま（図書館雑誌　Vol.118(4)2024−04−20）</a>
-1. <a href = "https://current.ndl.go.jp/ca2105" target = "_blank">カレントアウェアネスNo.369　2026年9月20日 CA2105 移動図書館の再編と機能拡張：英・リーズのStory Busに焦点を当てて 十文字学園女子大学：石川敬史（いしかわたかし）</a>
+1. <a href = "https://current.ndl.go.jp/ca2105" target = "_blank">移動図書館の再編と機能拡張：英・リーズのStory Busに焦点を当てて 十文字学園女子大学：石川敬史（いしかわたかし）</a>カレントアウェアネスNo.369　2026年9月20日 CA2105 
 
 
 ### 文部科学省
