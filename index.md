@@ -203,6 +203,9 @@ title: 美濃加茂市の図書館を考える会 資料室
 1. <a href = "https://current.ndl.go.jp/car/236738" target="_blank">袋井市（静岡県）、「まちじゅう図書館」が始動：市立図書館と学校図書館が連携</a>カレントアウェアネス-R 2025年01月08日
 1. <a href = "https://current.ndl.go.jp/ca2081" target = "_blank"> 学校における電子書籍貸出サービス（電子図書館）の現状と公立図書館との連携 / 有山裕美子</a>カレントアウェアネス No.364　2025年06月20日 CA2081
 
+### 多様な図書館
+1. <a href = "https://note.com/yuko_yoshida875/n/nf3e73d951cc9" target="_blank"> 【北欧読書18】退職後の夢を前倒し：デンマークのオープンライブラリー</a>
+
 
 ### 文部科学省
 
