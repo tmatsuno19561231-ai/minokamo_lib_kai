@@ -57,7 +57,7 @@ title: 美濃加茂市の図書館を考える会 資料室
  
 ### 図書館協議会議事録
 
-1. <a href = "./data/data/令和７年度第２回図書館協議会議事録.pdf" target="_blank">2026-02-18 令和７年度第２回図書館協議会議事録</a>
+1. <a href = "./data/令和７年度第２回図書館協議会議事録.pdf" target="_blank">2026-02-18 令和７年度第２回図書館協議会議事録</a>
 
 ### 図書館協議会委員
 1. <a href = "./toshokan_kyogikai_member.html" target= "_blank"> 図書館協議会 委員名簿</a>
