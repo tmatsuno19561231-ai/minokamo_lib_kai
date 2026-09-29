@@ -200,6 +200,9 @@ title: 美濃加茂市の図書館を考える会 資料室
 1. <a href = "https://www.jla.or.jp/publications/%E5%9B%B3%E6%9B%B8%E9%A4%A8%E9%9B%91%E8%AA%8C%E3%80%802024%E5%B9%B44%E6%9C%88%E5%8F%B7/" target = "_blank">特集/移動図書館のいま（図書館雑誌　Vol.118(4)2024−04−20）</a>
 1. <a href = "https://current.ndl.go.jp/ca2105" target = "_blank">移動図書館の再編と機能拡張：英・リーズのStory Busに焦点を当てて 十文字学園女子大学：石川敬史（いしかわたかし）</a>カレントアウェアネスNo.369　2026年9月20日 CA2105 
 
+### 公共図書館と学校図書館の連携
+1. <a href= "https://current.ndl.go.jp/car/236738" target="_blank">袋井市（静岡県）、「まちじゅう図書館」が始動：市立図書館と学校図書館が連携</a>カレントアウェアネス-R
+1. <a href "https://current.ndl.go.jp/ca2081" target = "_blank"> 学校における電子書籍貸出サービス（電子図書館）の現状と公立図書館との連携 / 有山裕美子</a>カレントアウェアネス No.364　2025年06月20日 CA2081
 
 ### 文部科学省
 
