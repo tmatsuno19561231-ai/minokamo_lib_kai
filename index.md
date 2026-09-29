@@ -171,6 +171,8 @@ title: 美濃加茂市の図書館を考える会 資料室
 1. <a href = "./data/stat1.html" target="_blank" >美濃加茂市立図書館　2003-2020</a>
 1. <a href = "./data/stat2.html" target="_blank" >県内市立図書館　2020年調査</a>
 1. <a href = "./data/stat3.html" target="_blank" >県内図書館竣工年　2020年調査</a>
+1. <a href = "./data/stat4.html" target="_blank" >蔵書更新率</a>
+
 
 ## misc（その他）
 
