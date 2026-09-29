@@ -205,7 +205,10 @@ title: 美濃加茂市の図書館を考える会 資料室
 
 ### オープンライブラリー
 1. <a href = "https://note.com/yuko_yoshida875/n/nf3e73d951cc9" target="_blank"> 【北欧読書18】退職後の夢を前倒し：デンマークのオープンライブラリー</a>
-
+1. <a href = "https://note.com/yuko_yoshida875/n/n4399901f90f1" target="_blank">【北欧読書3】 北欧の公共図書館　賑やかな対話空間への道のり（３）</a>
+1. <a href = "https://note.com/yuko_yoshida875/n/n9fcfba284210" target="_blank">【北欧読書23】 北欧の公共図書館　賑やかな対話空間・前史（2）</a>
+1. <a href = "https://note.com/yuko_yoshida875/n/nacd6314eed2e" target="_blank">【北欧図書館の仕掛け10】透明化作戦で得られる安心感</a>
+1. <a href = "https://www.miraitosyokan.jp/future_lib/trend_report/vol6/" target="_blank">動向レポート　Vol.6 Dokk1 からOodiへ：公共図書館の新しい表情</a>
 
 ### 文部科学省
 
