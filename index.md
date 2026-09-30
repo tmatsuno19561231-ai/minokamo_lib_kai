@@ -218,6 +218,8 @@ title: 美濃加茂市の図書館を考える会 資料室
 
 1. <a href = "https://www.mext.go.jp/b_menu/houdou/mext_01613.html" target="_blank">文部科学省　図書館が拓く未来の学びと地域社会（報告書）令和8年3月17日　図書館・学校図書館の運営の充実に関する有識者会議</a>
 1. <a href = "https://www.mext.go.jp/a_menu/shougai/tosho/mext_00001.html" target="_blank">文部科学省　図書館・書店等連携実践事例集　令和6年6月　文部科学省総合教育政策局地域学習推進課</a>
+1. <a hred = "https://www.yomiuri.co.jp/kyoiku/kyoiku/news/20260521-GYT1T00190/" target="_blank">
+「小中学校の図書館の充実に」と国の交付金、でも本の購入に使われたのは６割…社会保障費など優先し後回しになったか</a>
 
 ### 国立国会図書館
 
