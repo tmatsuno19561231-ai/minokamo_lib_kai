@@ -203,6 +203,10 @@ title: 美濃加茂市の図書館を考える会 資料室
 1. <a href = "https://current.ndl.go.jp/car/236738" target="_blank">袋井市（静岡県）、「まちじゅう図書館」が始動：市立図書館と学校図書館が連携</a>カレントアウェアネス-R 2025年01月08日
 1. <a href = "https://current.ndl.go.jp/ca2081" target = "_blank"> 学校における電子書籍貸出サービス（電子図書館）の現状と公立図書館との連携 / 有山裕美子</a>カレントアウェアネス No.364　2025年06月20日 CA2081
 
+### 学校図書館予算
+1. <a href = "https://www.mext.go.jp/content/20220125-mxt_chisui01000020025-01.pdf" target="_blank">第６次「学校図書館図書整備等５か年計画」概要資料（令和 4 年度～令和 8 年度）</a>
+1. <a href = "https://www.j-sla.or.jp/about/act/movement/about-000318.html" target="_blank">学校図書館図書整備費の完全予算化をめざして</a>
+
 ### オープンライブラリー
 1. <a href = "https://note.com/yuko_yoshida875/n/nf3e73d951cc9" target="_blank"> 【北欧読書18】退職後の夢を前倒し：デンマークのオープンライブラリー</a>
 1. <a href = "https://note.com/yuko_yoshida875/n/n4399901f90f1" target="_blank">【北欧読書3】 北欧の公共図書館　賑やかな対話空間への道のり（３）</a>
