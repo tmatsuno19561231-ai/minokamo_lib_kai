@@ -111,7 +111,7 @@ title: 美濃加茂市の図書館を考える会 資料室
 ---
 
 1. <a href = "https://www.city.minokamo.lg.jp/uploaded/life/15706_26038_misc.pdf" target="_blank">美濃加茂市教育振興基本計画　令和７年度-令和１１年度　令和７年３月策定</a>
-1. <a href = "https://www.city.minokamo.lg.jp/uploaded/life/15706_26038_misc.pdf#16" target="_blank">美濃加茂市教育振興基本計画　令和７年度-令和１１年度　令和７年３月策定</a>基本目標１ 未来への礎となる力を育む教育の推進 （１）豊かな人間性の育成 ③ 読書活動の推進
+1. <a href = "https://www.city.minokamo.lg.jp/uploaded/life/15706_26038_misc.pdf#page=16" target="_blank">美濃加茂市教育振興基本計画　令和７年度-令和１１年度　令和７年３月策定</a>基本目標１ 未来への礎となる力を育む教育の推進 （１）豊かな人間性の育成 ③ 読書活動の推進
 
 ---
 
