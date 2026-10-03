@@ -221,6 +221,9 @@ title: 美濃加茂市の図書館を考える会 資料室
 1. <a href = "https://note.com/yuko_yoshida875/n/nacd6314eed2e" target="_blank">【北欧図書館の仕掛け10】透明化作戦で得られる安心感</a>
 1. <a href = "https://www.miraitosyokan.jp/future_lib/trend_report/vol6/" target="_blank">動向レポート　Vol.6 Dokk1 からOodiへ：公共図書館の新しい表情</a>
 
+### 設置者別所管別図書館数
+1. <a href = "設置者別所管別図書館数" target="_blnak"></a>
+
 ### 文部科学省
 
 1. <a href = "https://www.mext.go.jp/b_menu/houdou/mext_01613.html" target="_blank">文部科学省　図書館が拓く未来の学びと地域社会（報告書）令和8年3月17日　図書館・学校図書館の運営の充実に関する有識者会議</a>
