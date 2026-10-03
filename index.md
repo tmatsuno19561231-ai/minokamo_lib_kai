@@ -162,6 +162,7 @@ title: 美濃加茂市の図書館を考える会 資料室
 
 ## 議会等
 
+### 美濃加茂市議会
 1. <a href = "https://www.city.minokamo.lg.jp/site/gikai/" target="_blank">美濃加茂市議会</a>
 1. <a href = "https://smart.discussvision.net/smart/tenant/minokamo/WebView/rd/council_1.html" target="_blank">美濃加茂市議会　議会中継</a>
 1. <a href = "https://www.city.minokamo.lg.jp/site/gikai/7808.html" target="_blank">傍聴について</a>
