@@ -222,7 +222,7 @@ title: 美濃加茂市の図書館を考える会 資料室
 1. <a href = "https://www.miraitosyokan.jp/future_lib/trend_report/vol6/" target="_blank">動向レポート　Vol.6 Dokk1 からOodiへ：公共図書館の新しい表情</a>
 
 ### 設置者別所管別図書館数
-1. <a href = "./data/library_stats_historical.md" target="_blnak">設置者別所管別図書館数　H20/R06</a>教育委員会と首長部局の数
+1. <a href = "./data/library_stats_historical.md" target="_blnak">設置者別所管別図書館数　H20/R06</a>　※教育委員会と首長部局の数
 
 ### 文部科学省
 
