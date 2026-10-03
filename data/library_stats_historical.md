@@ -1,4 +1,11 @@
-# 社会教育調査 設置者別所管別図書館数 抽出結果（多年度統合・1行まとめ版）
+---
+layout: default
+title: 美濃加茂市の図書館を考える会資料室
+---
+**更新日付: 2026年10月3日**
+
+
+## 社会教育調査 設置者別所管別図書館数 
 
 ## 設置者別所管別図書館数データ一覧（全国・岐阜県）
 
@@ -12,6 +19,7 @@
 | **H20 (2008)** | 3,140 館 | 3,134 館 | 6 館 | 73 館 | 73 館 | 0 館 |
 
 ## 各年度データソース（直リンク）
+社会教育調査　設置者別所管別図書館数（公立のみ）のURLは、つぎのとおり
 - **R6 (2024)**: [e-Stat Excel](https://www.e-stat.go.jp/stat-search/file-download?statInfId=000040439475&fileKind=0)
 - **R3 (2021)**: [e-Stat Excel](https://www.e-stat.go.jp/stat-search/file-download?statInfId=000040038469&fileKind=0)
 - **H30 (2018)**: [e-Stat Excel](https://www.e-stat.go.jp/stat-search/file-download?statInfId=000031924396&fileKind=0)
