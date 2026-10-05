@@ -225,7 +225,10 @@ title: 美濃加茂市の図書館を考える会 資料室
 1. <a href = "https://note.com/yuko_yoshida875/n/nacd6314eed2e" target="_blank">【北欧図書館の仕掛け10】透明化作戦で得られる安心感</a>
 1. <a href = "https://www.miraitosyokan.jp/future_lib/trend_report/vol6/" target="_blank">動向レポート　Vol.6 Dokk1 からOodiへ：公共図書館の新しい表情</a>
 
-### 設置者別所管別図書館数
+### 特定図書館
+1. <a href = "https://current.ndl.go.jp/car/37765" target="_blank">図書館の所管を教育委員会から首長部局へ移管可能とすること等を盛り込んだ第9次地方分権一括法案が閣議決定される 2019年03月12日</a>
+1. <a href = "https://current.ndl.go.jp/e2192" target="_blank">E2192 – 第9次地方分権一括法による図書館法等の改正　カレントアウェアネス-E　No.379 2019.11.07</a>
+
 1. <a href = "./data/library_stats_historical.html" target="_blank">設置者別所管別図書館数　H20/R06</a>　※教育委員会と首長部局の数
 
 
