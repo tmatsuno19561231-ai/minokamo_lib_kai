@@ -228,7 +228,7 @@ title: 美濃加茂市の図書館を考える会 資料室
 ### 特定図書館
 1. <a href = "https://current.ndl.go.jp/car/37765" target="_blank">図書館の所管を教育委員会から首長部局へ移管可能とすること等を盛り込んだ第9次地方分権一括法案が閣議決定される 2019年03月12日</a>
 1. <a href = "https://current.ndl.go.jp/e2192" target="_blank">E2192 – 第9次地方分権一括法による図書館法等の改正　カレントアウェアネス-E　No.379 2019.11.07</a>
-
+1. <a href = "https://www.jichiken.jp/article/0196/" target="_blank">図書館法70年―住民自治による追求</a>松岡 要（まつおか かなめ） 元図書館問題研究会委員長 月刊『住民と自治』 2020年12月号 より
 1. <a href = "./data/library_stats_historical.html" target="_blank">設置者別所管別図書館数　H20/R06</a>　※教育委員会と首長部局の数
 
 
