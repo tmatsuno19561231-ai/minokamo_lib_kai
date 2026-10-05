@@ -9,11 +9,11 @@ title: 美濃加茂市の図書館を考える会 資料室
 
 # 活動記録
 
-- 2026-09-20(日）13:30 ～ 15:30 生涯学習センター402室　集い（第2回）
+##  2026-09-20(日）13:30 ～ 15:30 生涯学習センター402室　集い（第2回）
 <img src="./data/S__103948313.jpg" alt="　集い（第2回）" width="150" style="display: block; margin-right: auto; margin-left: 0;">
 
   
-- 2026-08-16(日）13:00 ～ 15:00 生涯学習センター203室　集い（第1回）
+##  2026-08-16(日）13:00 ～ 15:00 生涯学習センター203室　集い（第1回）
 <img src="./data/1789359271501.jpg" alt="集い（第1回）" width="150" style="display: block; margin-right: auto; margin-left: 0;">
 
 # 関係資料
@@ -233,6 +233,12 @@ title: 美濃加茂市の図書館を考える会 資料室
 
 1. <a href = "https://www.mext.go.jp/b_menu/houdou/mext_01613.html" target="_blank">文部科学省　図書館が拓く未来の学びと地域社会（報告書）令和8年3月17日　図書館・学校図書館の運営の充実に関する有識者会議</a>
 1. <a href = "https://www.mext.go.jp/a_menu/shougai/tosho/mext_00001.html" target="_blank">文部科学省　図書館・書店等連携実践事例集　令和6年6月　文部科学省総合教育政策局地域学習推進課</a>
+
+### 国の生涯学習・社会教育に関する答申等
+1. < a href = "https://www.mext.go.jp/b_menu/shingi/chukyo/chukyo0/toushin/1412080.htm" target="_blnak">人口減少時代の新しい地域づくりに向けた社会教育の振興方策について（答申）（中教審第212号）平成30年12月21日 中央教育審議会</a>
+1. < a href = "https://www.kodomodokusyo.go.jp/happyou/hourei_download_data.asp?id=33" target="_blnak">第五次「子どもの読書活動の推進に関する基本的な計画」（通知）（令和5年3月28日）</a>
+1. < a href = "https://www.kodomodokusyo.go.jp/happyou/hourei_download_data.asp?id=32" target="_blnak">第五次「子どもの読書活動の推進に関する基本的な計画」（本文）（令和5年3月28日）</a>
+1. < a href = "https://www.kodomodokusyo.go.jp/happyou/hourei_download_data.asp?id=31" target="_blnak">第五次「子どもの読書活動の推進に関する基本的な計画」（概要）（令和5年3月28日）</a>
 
 ### 国立国会図書館
 
