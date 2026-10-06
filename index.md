@@ -228,16 +228,26 @@ title: 美濃加茂市の図書館を考える会 資料室
 ### 特定図書館
 
 >図書館法
+>
 > （職員）
+>
 > 第十三条　公立図書館に館長並びに当該図書館を設置する地方公共団体の教育委員会（特定地方公共団体の長がその設置、管理及び廃止に関する事務を管理し、及び執行することとされた図書館（第十五条において「特定図書館」という。）にあつては、当該特定地方公共団体の長）が必要と認める専門的職員、事務職員及び技術職員を置く。
+>
 > 2　館長は、館務を掌理し、所属職員を監督して、図書館奉仕の機能の達成に努めなければならない。
 
 > 地方教育行政の組織及び運営に関する法律
+> 
 > （職務権限の特例）
+> 
 >第二十三条　前二条の規定にかかわらず、地方公共団体は、前条各号に掲げるもののほか、条例の定めるところにより、当該地方公共団体の長が、次の各号に掲げる教育に関する事務のいずれか又は全てを管理し、及び執行することとすることができる。
+> 
 > 一　図書館、博物館、公民館その他の社会教育に関する教育機関のうち当該条例で定めるもの（以下「特定社会教育機関」という。）の設置、管理及び廃止に関すること（第二十一条第七号から第九号まで及び第十二号に掲げる事務のうち、特定社会教育機関のみに係るものを含む。）。
+> 
 > 二　スポーツに関すること（学校における体育に関することを除く。）。
+> 
 > 三　文化に関すること（次号に掲げるものを除く。）。
+>
+> 
 > 四　文化財の保護に関すること。
 
 1. <a href = "https://current.ndl.go.jp/car/37765" target="_blank">図書館の所管を教育委員会から首長部局へ移管可能とすること等を盛り込んだ第9次地方分権一括法案が閣議決定される 2019年03月12日</a>
@@ -246,16 +256,11 @@ title: 美濃加茂市の図書館を考える会 資料室
 1. <a href = "./data/library_stats_historical.html" target="_blank">設置者別所管別図書館数　H20/R06</a>　※教育委員会と首長部局の数
 
 #### 図書館が含まれる特例条例の例（全国的には数は少ない）
-1. <a href = "https://www1.g-reiki.net/gifu/reiki_honbun/i700RG00001783.html" target ="_blank">
-岐阜市教育に関する事務の職務権限の特例に関する条例</a>
-1. <a href = "https://en3-jg.d1-law.com/tajimi/d1w_reiki/H422901010037/H422901010037.html" target ="_blank">
-多治見市教育に関する事務の職務権限の特例に関する条例</a>
-1. <a href = "https://www1.g-reiki.net/city.kobe/reiki_honbun/k302RG00001785.html" target="_blank">
-神戸市地方教育行政の組織及び運営に関する法律に基づく職務権限の特例に関する条例</a>
-1. <a href = "https://www.city.katano.osaka.jp/reiki_int/reiki_honbun/k232RG00000720.html" target="_blnak">
-交野市地方教育行政の組織及び運営に関する法律に基づく職務権限の特例に関する条例 </a>
-1. <a href = "https://www1.g-reiki.net/pref.saga/reiki_honbun/q201RG00001391.html" target="_blnak">
-地方教育行政の組織及び運営に関する法律に基づく事務の所管に関する条例</a>佐賀県</a>
+1. <a href = "https://www1.g-reiki.net/gifu/reiki_honbun/i700RG00001783.html" target ="_blank">岐阜市教育に関する事務の職務権限の特例に関する条例</a>
+1. <a href = "https://en3-jg.d1-law.com/tajimi/d1w_reiki/H422901010037/H422901010037.html" target ="_blank">多治見市教育に関する事務の職務権限の特例に関する条例</a>
+1. <a href = "https://www1.g-reiki.net/city.kobe/reiki_honbun/k302RG00001785.html" target="_blank">神戸市地方教育行政の組織及び運営に関する法律に基づく職務権限の特例に関する条例</a>
+1. <a href = "https://www.city.katano.osaka.jp/reiki_int/reiki_honbun/k232RG00000720.html" target="_blnak">交野市地方教育行政の組織及び運営に関する法律に基づく職務権限の特例に関する条例 </a>
+1. <a href = "https://www1.g-reiki.net/pref.saga/reiki_honbun/q201RG00001391.html" target="_blnak">地方教育行政の組織及び運営に関する法律に基づく事務の所管に関する条例</a>佐賀県</a>
 
 
 
