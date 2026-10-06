@@ -263,7 +263,7 @@ title: 美濃加茂市の図書館を考える会 資料室
 1. <a href = "https://www1.g-reiki.net/kani/reiki_honbun/b700RG00000997.html" target ="_blank">可児市教育に関する事務の職務権限の特例を定める条例</a>
 1. <a href = "https://www1.g-reiki.net/city.kobe/reiki_honbun/k302RG00001785.html" target="_blank">神戸市地方教育行政の組織及び運営に関する法律に基づく職務権限の特例に関する条例</a>
 1. <a href = "https://www.city.katano.osaka.jp/reiki_int/reiki_honbun/k232RG00000720.html" target="_blnak">交野市地方教育行政の組織及び運営に関する法律に基づく職務権限の特例に関する条例 </a>
-1. <a href = "https://www1.g-reiki.net/pref.saga/reiki_honbun/q201RG00001391.html" target="_blnak">地方教育行政の組織及び運営に関する法律に基づく事務の所管に関する条例</a>佐賀県</a>
+1. <a href = "https://www1.g-reiki.net/pref.saga/reiki_honbun/q201RG00001391.html" target="_blnak">地方教育行政の組織及び運営に関する法律に基づく事務の所管に関する条例</a>　※佐賀県</a>
 
 
 
