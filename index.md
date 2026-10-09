@@ -276,7 +276,7 @@ title: 美濃加茂市の図書館を考える会 資料室
 1. <a href = "https://www.mext.go.jp/b_menu/shingi/chukyo/chukyo2/toushin/1414209.htm" target="_blank">公立社会教育施設の所管の在り方等に関する生涯学習分科会における審議のまとめ 平成30年7月9日 中央教育審議会生涯学習分科会</a>
 
 ####　国会審議
-1. <a href = "https://kokkai.ndl.go.jp/simple/txt/119805124X01020190417/69>第198回国会　衆議院　文部科学委員会　第10号　平成31年4月17日</a>
+1. <a href = "https://kokkai.ndl.go.jp/simple/txt/119805124X01020190417/69" target ="_blank">第198回国会　衆議院　文部科学委員会　第10号　平成31年4月17日</a>
 1. <a href = "https://kokkai.ndl.go.jp/simple/txt/119814889X02020190530/93" target ="_blank">第198回国会　参議院　内閣委員会　第20号　令和元年5月30日</a>
 2. <a href =https://kokkai.ndl.go.jp/simple/txt/119814889X02020190530/93  target ="_blank">第198回国会　参議院　内閣委員会　第20号　令和元年5月30日</a>
 3. <a href =https://kokkai.ndl.go.jp/simple/txt/119814889X02020190530/110  target ="_blank">第198回国会　参議院　内閣委員会　第20号　令和元年5月30日</a>
