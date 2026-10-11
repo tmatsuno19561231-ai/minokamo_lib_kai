@@ -266,8 +266,8 @@ title: 美濃加茂市の図書館を考える会 資料室
 1. <a href = "https://www1.g-reiki.net/minokamo/reiki_honbun/i312RG00000827.html" target ="_blank">美濃加茂市教育委員会の権限に属する事務の補助執行に関する規則(平成23年2月25日 教育委員会規則第4号)</a>
 1. <a href = "https://www1.g-reiki.net/minokamo/reiki_honbun/i312RG00000332.html" target = "_blank">美濃加茂市教育委員会に対する事務委任規則(平成23年2月25日 教育委員会規則第4号)</a>
 1. <a href = "https://www1.g-reiki.net/minokamo/reiki_honbun/i312RG00000397.html" target = "_blank">美濃加茂市スポーツ及び文化に係る事務の管理及び執行に関する条例(平成21年3月25日 条例第4号)</a>
-1. <a href ="https://www1.g-reiki.net/minokamo/reiki_honbun/i312RG00000378.html" target ="_blank">みのかも文化の森の設置及び管理に関する条例施行規則 平成22年4月1日 規則第15号</a>
-1. <a href = "https://www1.g-reiki.net/minokamo/reiki_honbun/i312RG00000372.html" target = "_blank">美濃加茂市文化会館の設置及び管理に関する条例施行規則 平成22年4月1日 規則第17号</a>
+1. <a href ="https://www1.g-reiki.net/minokamo/reiki_honbun/i312RG00000377.html" target ="_blank">のかも文化の森の設置及び管理に関する条例</a>
+1. <a href = "https://www1.g-reiki.net/minokamo/reiki_honbun/i312RG00000362.html" target = "_blank">美濃加茂市生涯学習施設の設置及び管理に関する条例</a>
 
 #### 統計データ（e-stat)
 1. <a href = "./data/library_stats_historical.html" target="_blank">設置者別所管別図書館数　H20/R06</a>　※教育委員会と首長部局の数
