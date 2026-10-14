@@ -9,6 +9,9 @@ title: 美濃加茂市の図書館を考える会 資料室
 
 # 活動記録
 
+##  2026-11-01(日）13:30 ～ 15:00 生涯学習センター404室　集い（第3回）
+<img src="./data/20261015ANNAI.jpg" alt="　集い（第3回）" width="150" style="display: block; margin-right: auto; margin-left: 0;">
+
 ##  2026-09-20(日）13:30 ～ 15:30 生涯学習センター402室　集い（第2回）
 <img src="./data/S__103948313.jpg" alt="　集い（第2回）" width="150" style="display: block; margin-right: auto; margin-left: 0;">
 
