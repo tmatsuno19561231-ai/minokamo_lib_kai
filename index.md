@@ -275,7 +275,8 @@ title: 美濃加茂市の図書館を考える会 資料室
 1. <a href = "https://www.jichiken.jp/article/0196/" target="_blank">図書館法70年―住民自治による追求</a>松岡 要（まつおか かなめ） 元図書館問題研究会委員長 月刊『住民と自治』 2020年12月号 より</a>
 1. <a href = "https://www.jstage.jst.go.jp/article/jichisoken/46/496/46_43/_article/-char/ja/" target ="_blank">地域の自主性及び自立性を高めるための改革の推進を図るための関係法律の整備に関する法律 ～第９次一括法～（令和元年６月７日法律26号）上林 陽治 自治総研  2020 年 46 巻 496 号 p. 43-91</a>
 
-#### 図書館が含まれる特例条例の例
+#### 図書館に係る特例条例を制定している自治体
+
 1. <a href = "https://www1.g-reiki.net/gifu/reiki_honbun/i700RG00001783.html" target ="_blank">岐阜市教育に関する事務の職務権限の特例に関する条例</a>
 1. <a href = "https://en3-jg.d1-law.com/tajimi/d1w_reiki/H422901010037/H422901010037.html" target ="_blank">多治見市教育に関する事務の職務権限の特例に関する条例</a>
 1. <a href = "https://www1.g-reiki.net/kani/reiki_honbun/b700RG00000997.html" target ="_blank">可児市教育に関する事務の職務権限の特例を定める条例</a>
