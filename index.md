@@ -232,7 +232,7 @@ title: 美濃加茂市の図書館を考える会 資料室
 1. <a href = "https://note.com/yuko_yoshida875/n/nacd6314eed2e" target="_blank">【北欧図書館の仕掛け10】透明化作戦で得られる安心感</a>
 1. <a href = "https://www.miraitosyokan.jp/future_lib/trend_report/vol6/" target="_blank">動向レポート　Vol.6 Dokk1 からOodiへ：公共図書館の新しい表情</a>
 
-### 特定図書館
+### 公立図書館の所管を考える
 
 #### 関係法令条例
 1. 図書館法（昭和二十五年法律第百十八号） <a href = "https://laws.e-gov.go.jp/law/325AC0000000118" target="_blank">e-gov</a>
