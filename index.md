@@ -233,7 +233,7 @@ title: 美濃加茂市の図書館を考える会 資料室
 #### 関係法令
 ##### 図書館法（昭和二十五年法律第百十八号） <a href = "https://laws.e-gov.go.jp/law/325AC0000000118" target="_blank">e-gov</a>
 
- <a href = "https://laws.e-gov.go.jp/law/325AC0000000118#Mp-At_13" target ="_blank">（職員） 第十三条</a>4
+ <a href = "https://laws.e-gov.go.jp/law/325AC0000000118#Mp-At_13" target ="_blank">（職員） 第十三条</a>
  
 
 ##### 地方教育行政の組織及び運営に関する法律（昭和三十一年法律第百六十二号） <a href = "https://laws.e-gov.go.jp/law/331AC0000000162" target ="_blank">e-gov</a>
