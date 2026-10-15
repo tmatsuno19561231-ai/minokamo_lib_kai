@@ -291,7 +291,7 @@ title: 美濃加茂市の図書館を考える会 資料室
 1. <a href = "https://regulations.bk2reiki.net/doc/docopen.php?typ=50&file=50000824&date=20201225&key=" target="_blank">西宮市教育に関する事務の職務権限の特例に関する条例</a>
 1. <a href = "https://krr182.legal-square.com/HAS-Shohin/jsp/SVDocumentView" target="_blank">三条市教育事務の職務権限の特例に関する条例</a>
 
-#### 首長の検閲
+#### 首長の検閲（御嵩町であったこと）
 1. <a href = "https://www.jla.or.jp/hanronbunsho/" target ="_blank">図書館資料への反論文書の貼り付けについての考え方 2022年4月3日（2022年5月1日追記）</a>
 1. <a href = "https://www.town.mitake.lg.jp/news/news0065709/" target ="_blank">損害賠償請求事件に係る原告との和解について</a>
 1. <a href = "https://www.town.mitake.lg.jp/wp-content/uploads/61a8d031c78699f24fa866b5f2481f77-1.pdf#page=31" target = "_blank">町政情報 広報紙「ほっとみたけ」ー　令和４年（2022年）度　6月号31ｐ</a>
