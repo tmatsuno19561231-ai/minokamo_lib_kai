@@ -234,20 +234,22 @@ title: 美濃加茂市の図書館を考える会 資料室
 
 ### 特定図書館
 
-#### 関係法令
-- 図書館法（昭和二十五年法律第百十八号） <a href = "https://laws.e-gov.go.jp/law/325AC0000000118" target="_blank">e-gov</a>
-  - <a href = "https://laws.e-gov.go.jp/law/325AC0000000118#Mp-At_13" target ="_blank">（職員） 第十三条</a>
+#### 関係法令条例
+1. 図書館法（昭和二十五年法律第百十八号） <a href = "https://laws.e-gov.go.jp/law/325AC0000000118" target="_blank">e-gov</a>
+  - <a href = "https://laws.e-gov.go.jp/law/325AC0000000118#Mp-At_13" target ="_blank"> （職員）第十三条</a>
+  - <a href = "https://laws.e-gov.go.jp/law/325AC0000000118#Mp-At_14" target ="_blank"> （図書館協議会）第十四条</a>
  
-- 地方教育行政の組織及び運営に関する法律（昭和三十一年法律第百六十二号） <a href = "https://laws.e-gov.go.jp/law/331AC0000000162" target ="_blank">e-gov</a>
-
+1. 地方教育行政の組織及び運営に関する法律（昭和三十一年法律第百六十二号） <a href = "https://laws.e-gov.go.jp/law/331AC0000000162" target ="_blank">e-gov</a>
+---
   - <a href = "https://laws.e-gov.go.jp/law/331AC0000000162#Mp-At_21" target ="_blank">（教育委員会の職務権限）第二十一条</a> 
   - <a href = "https://laws.e-gov.go.jp/law/331AC0000000162#Mp-At_23" target ="_blank"> （職務権限の特例）第二十三条</a> 
   - <a href = "https://laws.e-gov.go.jp/law/331AC0000000162#Mp-At_29" target ="_blank"> （教育委員会の意見聴取）第二十九条</a> 
   - <a href = "https://laws.e-gov.go.jp/law/331AC0000000162#Mp-30_30" target ="_blank">（教育機関の設置）第三十条</a> 
   - <a href = "https://laws.e-gov.go.jp/law/331AC0000000162#Mp-At_48" target ="_blank">（文部科学大臣又は都道府県委員会の指導、助言及び援助）第四十八条　</a>
 
-- 美濃加茂市の関係条例等
-1. <a href = "https://www1.g-reiki.net/minokamo/reiki_honbun/i312RG00000827.html" target ="_blank">美濃加茂市教育委員会の権限に属する事務の補助執行に関する規則(平成23年2月25日 教育委員会規則第4号)</a>
+---
+
+1.  <a href = "https://www1.g-reiki.net/minokamo/reiki_honbun/i312RG00000827.html" target ="_blank">美濃加茂市教育委員会の権限に属する事務の補助執行に関する規則(平成23年2月25日 教育委員会規則第4号)</a>
 1. <a href = "https://www1.g-reiki.net/minokamo/reiki_honbun/i312RG00000332.html" target = "_blank">美濃加茂市教育委員会に対する事務委任規則(平成23年2月25日 教育委員会規則第4号)</a>
 1. <a href = "https://www1.g-reiki.net/minokamo/reiki_honbun/i312RG00000397.html" target = "_blank">美濃加茂市スポーツ及び文化に係る事務の管理及び執行に関する条例(平成21年3月25日 条例第4号)</a>
 1. <a href ="https://www1.g-reiki.net/minokamo/reiki_honbun/i312RG00000377.html" target ="_blank">みのかも文化の森の設置及び管理に関する条例</a>
