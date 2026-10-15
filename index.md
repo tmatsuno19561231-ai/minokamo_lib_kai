@@ -240,6 +240,7 @@ title: 美濃加茂市の図書館を考える会 資料室
   - <a href = "https://laws.e-gov.go.jp/law/325AC0000000118#Mp-At_14" target ="_blank"> （図書館協議会）第十四条</a>
  
  1. 地方教育行政の組織及び運営に関する法律（昭和三十一年法律第百六十二号） <a href = "https://laws.e-gov.go.jp/law/331AC0000000162" target ="_blank">e-gov</a>
+  - <a href = "https://laws.e-gov.go.jp/law/331AC0000000162#Mp-At_1_4" target ="_blank">（総合教育会議）第一条の四</a> 　
   - <a href = "https://laws.e-gov.go.jp/law/331AC0000000162#Mp-At_21" target ="_blank">（教育委員会の職務権限）第二十一条</a> 
   - <a href = "https://laws.e-gov.go.jp/law/331AC0000000162#Mp-At_23" target ="_blank"> （職務権限の特例）第二十三条</a> 
   - <a href = "https://laws.e-gov.go.jp/law/331AC0000000162#Mp-At_29" target ="_blank"> （教育委員会の意見聴取）第二十九条</a> 
@@ -268,6 +269,7 @@ title: 美濃加茂市の図書館を考える会 資料室
 2. <a href = "https://kokkai.ndl.go.jp/simple/txt/119814889X02020190530/93" target ="_blank">第198回国会　参議院　内閣委員会　第20号　令和元年5月30日</a>
 3. <a href = "https://kokkai.ndl.go.jp/simple/txt/119814889X02020190530/110" target ="_blank">第198回国会　参議院　内閣委員会　第20号　令和元年5月30日</a>
 
+
 #### 関係文献
 1. <a href = "https://current.ndl.go.jp/car/37765" target="_blank">図書館の所管を教育委員会から首長部局へ移管可能とすること等を盛り込んだ第9次地方分権一括法案が閣議決定される 2019年03月12日</a>
 1. <a href = "https://current.ndl.go.jp/e2192" target="_blank">E2192 – 第9次地方分権一括法による図書館法等の改正　カレントアウェアネス-E　No.379 2019.11.07</a>
@@ -289,6 +291,10 @@ title: 美濃加茂市の図書館を考える会 資料室
 1. <a href = "https://www1.g-reiki.net/pref.saga/reiki_honbun/q201RG00001391.html" target="_blnak">地方教育行政の組織及び運営に関する法律に基づく事務の所管に関する条例</a>　※佐賀県
 1. <a href = "https://regulations.bk2reiki.net/doc/docopen.php?typ=50&file=50000824&date=20201225&key=" target="_blank">西宮市教育に関する事務の職務権限の特例に関する条例</a>
 1. <a href = "https://krr182.legal-square.com/HAS-Shohin/jsp/SVDocumentView" target="_blank">三条市教育事務の職務権限の特例に関する条例</a>
+
+#### 美濃加茂市の会議
+1. <a href = "https://www.city.minokamo.lg.jp/uploaded/attachment/22306.pdf#page=3" target ="_blank">令和８年度 第１回美濃加茂市総合教育会議 会議録
+ 令和８年８月２５日（火）午後２時００分から午後３時３０分まで 美濃加茂市役所３階 第２議会委員会室</a> （３）協議事項  ○市長と教育委員会の事務権限の整理につい
 
 #### 首長の検閲（御嵩町であったこと）
 1. <a href = "https://www.jla.or.jp/hanronbunsho/" target ="_blank">図書館資料への反論文書の貼り付けについての考え方 2022年4月3日（2022年5月1日追記）　公益社団法人日本図書館協会図書館の自由委員会</a>
