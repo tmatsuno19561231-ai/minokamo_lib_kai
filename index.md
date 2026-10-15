@@ -239,7 +239,7 @@ title: 美濃加茂市の図書館を考える会 資料室
   - <a href = "https://laws.e-gov.go.jp/law/325AC0000000118#Mp-At_13" target ="_blank"> （職員）第十三条</a>
   - <a href = "https://laws.e-gov.go.jp/law/325AC0000000118#Mp-At_14" target ="_blank"> （図書館協議会）第十四条</a>
  
-1. 地方教育行政の組織及び運営に関する法律（昭和三十一年法律第百六十二号） <a href = "https://laws.e-gov.go.jp/law/331AC0000000162" target ="_blank">e-gov</a>
+2. 地方教育行政の組織及び運営に関する法律（昭和三十一年法律第百六十二号） <a href = "https://laws.e-gov.go.jp/law/331AC0000000162" target ="_blank">e-gov</a>
 ---
   - <a href = "https://laws.e-gov.go.jp/law/331AC0000000162#Mp-At_21" target ="_blank">（教育委員会の職務権限）第二十一条</a> 
   - <a href = "https://laws.e-gov.go.jp/law/331AC0000000162#Mp-At_23" target ="_blank"> （職務権限の特例）第二十三条</a> 
