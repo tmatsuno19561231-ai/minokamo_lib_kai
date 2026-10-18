@@ -332,7 +332,6 @@ title: 美濃加茂市の図書館を考える会 資料室
 #### 首長の検閲（御嵩町であったこと）
 1. <a href = "https://www.jla.or.jp/hanronbunsho/" target ="_blank">図書館資料への反論文書の貼り付けについての考え方 2022年4月3日（2022年5月1日追記）　公益社団法人日本図書館協会図書館の自由委員会</a>
 1. <a href = "https://www.town.mitake.lg.jp/news/news0065709/" target ="_blank">損害賠償請求事件に係る原告との和解について</a>
-
 1. <a href = "https://www.jla.or.jp/wp/wp-content/uploads/2025/05/newsletter_121202311.pdf#page=8" target = "_blank">『テロと産廃 御嵩町騒動の顛末とその波紋』の収集と提供をめぐって 『図書館の自由第 121 号（2023 年11 月）日本図書館協会図書館の自由委員会 』所収</a>
 1. <a href = "https://www.jla.or.jp/wp/wp-content/uploads/2025/05/newsletter_117202208.pdf#page=4" target = "_blank">（1）『テロと産廃』をめぐって『図書館の自由第 117 号（2022 年8 月）日本図書館協会図書館の自由委員会』所収</a>
 1. <a href = "https://www.jla.or.jp/wp/wp-content/uploads/2025/05/newsletter_116202205.pdf#page=1" target = "_blank">1．図書館資料への反論文書の貼り付けについての考え方「図書館の自由第 116 号（2022 年5 月）日本図書館協会図書館の自由委員会』所収</a>
