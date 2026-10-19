@@ -336,6 +336,16 @@ title: 美濃加茂市の図書館を考える会 資料室
 1. <a href = "https://www.jla.or.jp/wp/wp-content/uploads/2025/05/newsletter_117202208.pdf#page=4" target = "_blank">『テロと産廃』をめぐって『図書館の自由第 117 号（2022 年8 月）日本図書館協会図書館の自由委員会』所収</a>
 1. <a href = "https://www.jla.or.jp/wp/wp-content/uploads/2025/05/newsletter_116202205.pdf#page=1" target = "_blank">図書館資料への反論文書の貼り付けについての考え方「図書館の自由第 116 号（2022 年5 月）日本図書館協会図書館の自由委員会』所収</a>
 
+#### その他
+1. <a href = "https://akiyoshijun.com/jichiseido-kentoshichouson-yougokaisetsu39/" target= "_blank">「補助執行」ってなに？－わかるお役所用語解説３９</a>
+1. <a href = "https://akiyoshijun.com/jichiseido-kentoshichouson-yougokaisetsu38/" target= "_blank">「公の施設(おおやけのしせつ)」ってなに？－わかるお役所用語解説３８</a>
+1. <a href = "https://akiyoshijun.com/jichiseido-kentoshichouson-jimunoinintosenketsu/" target = "_blanak">「事務の委任」「専決・代決」－自治体の意思決定の効率化</a>
+
+1. <a href = "https://akiyoshijun.com/" target = "_blank">お役所のことばがわかるブログ</a>
+
+
+
+
 ### 文部科学省
 
 1. <a href = "https://www.mext.go.jp/b_menu/houdou/mext_01613.html" target="_blank">文部科学省　図書館が拓く未来の学びと地域社会（報告書）令和8年3月17日　図書館・学校図書館の運営の充実に関する有識者会議</a>
