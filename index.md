@@ -176,6 +176,7 @@ title: 美濃加茂市の図書館を考える会 資料室
 1. <a href = "https://www.city.minokamo.lg.jp/site/gikai/7853.html" target="_blank">請願・陳情・意見書</a>
 
 ### 美濃加茂市教育委員会
+1. <a href = "https://www.city.minokamo.lg.jp/soshiki/15.html" target = "_blank">教育委員会 - 美濃加茂市公式ホームページ</a>
 1. <a href = "https://www.city.minokamo.lg.jp/soshiki/36/23142.html" target="_blank">令和8年度美濃加茂市教育委員会会議録</a>
 
 ### 美濃加茂市総合教育会議会議録
