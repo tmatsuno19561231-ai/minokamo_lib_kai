@@ -178,7 +178,7 @@ title: 美濃加茂市の図書館を考える会 資料室
 ### 美濃加茂市教育委員会
 1. <a href = "https://www.city.minokamo.lg.jp/soshiki/15.html" target = "_blank">教育委員会 - 美濃加茂市公式ホームページ</a>
 1. <a href = "https://www.city.minokamo.lg.jp/soshiki/36/23142.html" target="_blank">令和8年度美濃加茂市教育委員会会議録</a>
-1. <a href = "https://www.city.minokamo.lg.jp/uploaded/attachment/22673.pdf" target = "_blank">令和8年9月定例会</a>
+1. <a href = "https://www.city.minokamo.lg.jp/uploaded/attachment/22673.pdf" target = "_blank">令和８年美濃加茂市教育委員会 ９月定例会 会議録</a>
 > （４）協議・報告事項  
 > ①教育委員会の権限を市長に移すことについて  
 > ②教育委員会行事予定等  
