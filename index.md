@@ -9,9 +9,9 @@ title: 美濃加茂市の図書館を考える会 資料室
 
 # 中央図書館の存続を求める署名
 
-<a href = "./data/20261101shomei.pdf" target = "_blank">中央図書館の存続を求める署名用紙　PDF</a>
+<a href = "./data/20261103_105709.pdf" target = "_blank">中央図書館の存続を求める署名用紙　PDF</a>
 
-<img src="./data/20261101shomei.jpg" alt="　中央図書館の存続を求める署名用紙" width="150" style="display: block; margin-right: auto; margin-left: 0;">
+<img src="./data/20261103_105709.jpg" alt="　中央図書館の存続を求める署名用紙" width="150" style="display: block; margin-right: auto; margin-left: 0;">
 
 
 
