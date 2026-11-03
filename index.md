@@ -41,6 +41,8 @@ title: 美濃加茂市の図書館を考える会 資料室
 
 ---
 
+1. <a href = "https://www1.g-reiki.net/minokamo/reiki_menu.html" target="_blank">美濃加茂市 例規集</a>
+
 1. <a href = "https://www1.g-reiki.net/minokamo/reiki_honbun/i312RG00000367.html" target="_blank">美濃加茂市立図書館設置条例　昭和54年3月24日　条例第7号</a>
 
 1. <a href = "https://www1.g-reiki.net/minokamo/reiki_honbun/i312RG00001002.html" target="_blank">美濃加茂市立図書館設置条例施行規則 平成25年9月1日 規則第40号</a>
@@ -187,12 +189,15 @@ title: 美濃加茂市の図書館を考える会 資料室
 
 ### 美濃加茂市教育委員会
 1. <a href = "https://www.city.minokamo.lg.jp/soshiki/15.html" target = "_blank">教育委員会 - 美濃加茂市公式ホームページ</a>
+
+#### 教育委員会会議
 1. <a href = "https://www.city.minokamo.lg.jp/soshiki/36/23142.html" target="_blank">令和8年度美濃加茂市教育委員会会議録</a>
 1. <a href = "https://www.city.minokamo.lg.jp/uploaded/attachment/22673.pdf" target = "_blank">令和８年美濃加茂市教育委員会 ９月定例会 会議録</a>
-> （４）協議・報告事項  
-> ①教育委員会の権限を市長に移すことについて  
-> ②教育委員会行事予定等  
-> ③教育センター事業報告
+
+#### 点検・評価
+1. <a href = "https://www1.g-reiki.net/minokamo/reiki_honbun/i312RG00000336.html" target ="_blank">美濃加茂市教育委員会点検評価実施要領</a>
+1. <a href = "https://www.city.minokamo.lg.jp/soshiki/36/2728.html" target = "_blank">	美濃加茂市教育委員会事務の点検・評価について</a>
+1. <a href ="  - <a href = "https://laws.e-gov.go.jp/law/331AC0000000162#Mp-At_26" target ="_blank">地方教育行政の組織及び運営に関する法律（昭和三十一年法律第百六十二号）（教育に関する事務の管理及び執行の状況の点検及び評価等）第二十六条</a> 
 
 ### 美濃加茂市総合教育会議会議録
 1. <a href = "https://www.city.minokamo.lg.jp/soshiki/36/24788.html" target="_blank">令和8年度美濃加茂市総合教育会議会議録</a>2026年9月30日更新
