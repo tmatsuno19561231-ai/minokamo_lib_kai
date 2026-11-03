@@ -197,7 +197,7 @@ title: 美濃加茂市の図書館を考える会 資料室
 #### 点検・評価
 1. <a href = "https://www1.g-reiki.net/minokamo/reiki_honbun/i312RG00000336.html" target ="_blank">美濃加茂市教育委員会点検評価実施要領</a>
 1. <a href = "https://www.city.minokamo.lg.jp/soshiki/36/2728.html" target = "_blank">	美濃加茂市教育委員会事務の点検・評価について</a>
-1. <a href ="  - <a href = "https://laws.e-gov.go.jp/law/331AC0000000162#Mp-At_26" target ="_blank">地方教育行政の組織及び運営に関する法律（昭和三十一年法律第百六十二号）（教育に関する事務の管理及び執行の状況の点検及び評価等）第二十六条</a> 
+1. <a href = "https://laws.e-gov.go.jp/law/331AC0000000162#Mp-At_26" target ="_blank">地方教育行政の組織及び運営に関する法律（昭和三十一年法律第百六十二号）（教育に関する事務の管理及び執行の状況の点検及び評価等）第二十六条</a> 
 
 ### 美濃加茂市総合教育会議会議録
 1. <a href = "https://www.city.minokamo.lg.jp/soshiki/36/24788.html" target="_blank">令和8年度美濃加茂市総合教育会議会議録</a>2026年9月30日更新
