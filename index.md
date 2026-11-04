@@ -89,7 +89,7 @@ title: 美濃加茂市の図書館を考える会 資料室
 
 1. <a href = "https://www.city.minokamo.lg.jp/uploaded/attachment/19680.pdf" target="_blank">図書館年報　令和7年度（令和6年度資料）</a>
 1. <a href = "https://www.city.minokamo.lg.jp/uploaded/attachment/19683.pdf" target="_blank">図書館年報　令和6年度（令和5年度資料）</a>
-1. <a href = "https://www.city.minokamo.lg.jp/uploaded/attachment/19684.pdf target="_blank">図書館年報　令和5年度（令和4年度資料）</a>
+1. <a href = "https://www.city.minokamo.lg.jp/uploaded/attachment/19684.pdf" target="_blank">図書館年報　令和5年度（令和4年度資料）</a>
 1. <a href = "https://www.city.minokamo.lg.jp/uploaded/attachment/19685.pdf" target="_blank">図書館年報　令和4年度（令和3年度資料）</a>
 1. <a href = "https://www.city.minokamo.lg.jp/uploaded/attachment/19686.pdf" target="_blank">図書館年報　令和3年度（令和2年度資料）</a>
 1. 図書館年報　令和2年度（令和元年度資料）　URL不明
