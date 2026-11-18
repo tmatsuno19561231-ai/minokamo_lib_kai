@@ -11,7 +11,7 @@ title: 美濃加茂市の図書館を考える会 資料室
 
 <a href = "./data/20261103_105709.pdf" target = "_blank">中央図書館の存続を求める署名用紙　PDF</a>
 
-<img src="./data/20261103_105709.jpg" alt="　中央図書館の存続を求める署名用紙" width="150" style="display: block; margin-right: auto; margin-left: 0;">
+<img src="./data/20261103_105709.jpg" alt="　中央図書館の存続を求める署名用紙" width="300" style="display: block; margin-right: auto; margin-left: 0;">
 
 # 中央図書館の耐用年数までの存続を求める請願書
 １１月１８日、議会事務局に提出
@@ -23,14 +23,14 @@ title: 美濃加茂市の図書館を考える会 資料室
 # 活動記録
 
 ##  2026-11-01(日）13:30 ～ 15:30 生涯学習センター404室　集い（第3回）
-<img src="./data/20261015ANNAI.jpg" alt="　集い（第3回）" width="150" style="display: block; margin-right: auto; margin-left: 0;">
+<img src="./data/20261015ANNAI.jpg" alt="　集い（第3回）" width="300" style="display: block; margin-right: auto; margin-left: 0;">
 
 ##  2026-09-20(日）13:30 ～ 15:30 生涯学習センター402室　集い（第2回）
-<img src="./data/S__103948313.jpg" alt="　集い（第2回）" width="150" style="display: block; margin-right: auto; margin-left: 0;">
+<img src="./data/S__103948313.jpg" alt="　集い（第2回）" width="300" style="display: block; margin-right: auto; margin-left: 0;">
 
   
 ##  2026-08-16(日）13:00 ～ 15:00 生涯学習センター203室　集い（第1回）
-<img src="./data/1789359271501.jpg" alt="集い（第1回）" width="150" style="display: block; margin-right: auto; margin-left: 0;">
+<img src="./data/1789359271501.jpg" alt="集い（第1回）" width="300" style="display: block; margin-right: auto; margin-left: 0;">
 
 # 関係資料
 
