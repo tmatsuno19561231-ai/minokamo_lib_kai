@@ -16,7 +16,7 @@ title: 美濃加茂市の図書館を考える会 資料室
 # 中央図書館の耐用年数までの存続を求める請願書
 １１月１８日、議会事務局に提出
 
-<img src="./data/20261118.jpg" alt="　中央図書館の耐用年数までの存続を求める請願書" width="150" style="display: block; margin-right: auto; margin-left: 0;">
+<img src="./data/20261118.jpg" alt="　中央図書館の耐用年数までの存続を求める請願書" width="300" style="display: block; margin-right: auto; margin-left: 0;">
 
 
 
